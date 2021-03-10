@@ -20,7 +20,3 @@ publishing {
         }
     }
 }
-
-val kotlinVersion = "1.4.20"
-
-"org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
