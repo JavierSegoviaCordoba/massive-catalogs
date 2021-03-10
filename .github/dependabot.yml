@@ -6,7 +6,7 @@ updates:
     schedule:
       interval: "daily"
       timezone: "Europe/Madrid"
-      time: "14:17"
+      time: "14:19"
 
   - package-ecosystem: "github-actions"
     directory: "/"

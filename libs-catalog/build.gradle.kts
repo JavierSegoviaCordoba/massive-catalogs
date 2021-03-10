@@ -21,8 +21,6 @@ publishing {
     }
 }
 
-object Versions {
-    const val kotlin = "1.4.21"
-}
+val kotlin = "1.4.21"
 
-"org.jetbrains.kotlin:kotlin-gradle-plugin:${Versions.kotlin}"
+"org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin"
