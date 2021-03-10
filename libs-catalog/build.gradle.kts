@@ -21,6 +21,10 @@ publishing {
     }
 }
 
+// [versions]
 val kotlin = "1.4.21"
 
-"org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin"
+// [libraries]
+implementation(group = "org.jetbrains.kotlin", name = "kotlin-gradle-plugin", version = kotlin)
+
+fun implementation(group: String, name: String, version: String) = println("$group:$name:$version")
