@@ -22,7 +22,7 @@ publishing {
 }
 
 // [versions]
-val kotlin = "1.4.21"
+val kotlin = "1.4.31"
 
 // [libraries]
 "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin"
