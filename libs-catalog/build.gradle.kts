@@ -21,6 +21,7 @@ publishing {
     }
 }
 
-val kotlinVersion = "1.4.21"
+// 
+// val kotlin = "1.4.21"
 
-"org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
+// "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
