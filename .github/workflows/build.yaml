@@ -76,11 +76,10 @@ jobs:
 
       - name: Deploy snapshot docs to Github Pages
         if: ${{ (github.event_name == 'push') }}
-        uses: JamesIves/github-pages-deploy-action@3.7.1
+        uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
-          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-          TARGET_FOLDER: 'snapshot'
-          BRANCH: 'gh-pages'
-          FOLDER: 'build/dokka'
-          CLEAN: false
-          SINGLE_COMMIT: true
+          target-folder: 'snapshot'
+          branch: 'gh-pages'
+          folder: 'build/dokka'
+          clean: false
+          single-commit: true
