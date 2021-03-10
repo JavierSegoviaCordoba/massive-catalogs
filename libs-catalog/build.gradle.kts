@@ -25,8 +25,4 @@ object Versions {
     const val kotlin = "1.4.21"
 }
 
-object Dependencies {
-    init {
-        "org.jetbrains.kotlin:kotlin-gradle-plugin:${Versions.kotlin}"
-    }
-}
+"org.jetbrains.kotlin:kotlin-gradle-plugin:${Versions.kotlin}"
