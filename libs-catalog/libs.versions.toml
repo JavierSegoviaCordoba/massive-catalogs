@@ -1,0 +1,18 @@
+[versions]
+coroutines = "1.4.3"
+kotest = "4.4.2"
+retrofit = "2.9.0"
+runBlocking = "0.1.0-alpha.1"
+serialization = "1.1.0"
+turbine = "0.4.0"
+
+[libraries]
+cash-turbine-turbine = { group = "app.cash.turbine", name = "turbine", version.ref = "turbine" }
+javiersc-runBlocking-runBlocking = { group = "com.javiersc.run-blocking", name = "run-blocking", version.ref = "runBlocking" }
+javiersc-runBlocking-suspendTest = { group = "com.javiersc.suspend-test", name = "suspend-test", version.ref = "runBlocking" }
+jetbrains-kotlin-test-multiplatform = { group = "org.jetbrains.kotlin", name = "kotlin-test-multiplatform" }
+jetbrains-kotlinx-coroutines-core = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-core", version.ref = "coroutines" }
+jetbrains-kotlinx-serialization-core = { group = "org.jetbrains.kotlinx", name = "kotlinx-serialization-core", version.ref = "serialization" }
+jetbrains-kotlinx-serialization-json = { group = "org.jetbrains.kotlinx", name = "kotlinx-serialization-json", version.ref = "serialization" }
+kotest-assertions-core = { group = "io.kotest", name = "kotest-assertions-core", version.ref = "kotest" }
+squareup-retrofit2-retrofit = { group = "com.squareup.retrofit2", name = "retrofit", version.ref = "retrofit" }
