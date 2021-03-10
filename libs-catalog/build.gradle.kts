@@ -21,7 +21,12 @@ publishing {
     }
 }
 
-// 
-// val kotlin = "1.4.21"
+object Versions {
+    const val kotlin = "1.4.21"
+}
 
-// "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
+object Dependencies {
+    init {
+        "org.jetbrains.kotlin:kotlin-gradle-plugin:${Versions.kotlin}"
+    }
+}
