@@ -16,7 +16,7 @@ catalog {
 
 // [versions]
 val coroutines = "1.4.3"
-val kotest = "4.4.2"
+val kotest = "4.4.3"
 val kotlin = "1.4.31"
 val retrofit = "2.9.0"
 val runBlocking = "0.1.0-alpha.1"
