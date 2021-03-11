@@ -7,10 +7,10 @@ fun buildCatalogFile(file: File): String? {
 
     if (!content.contains("// catalog start")) return null
 
-    val catalogStartIndex = content.indexOfFirst { it.contains("// catalog start") }
-    val catalogEndIndex = content.indexOfFirst { it.contains("// catalog end") }
+    val catalogStartIndex = content.indexOfFirst { it.contains("// catalog start") } + 1
+    val catalogEndIndex = content.indexOfFirst { it.contains("// catalog end") } - 1
 
-    return content.subList(catalogStartIndex + 1, catalogEndIndex - 1).joinToString("\n") {
+    return content.subList(catalogStartIndex, catalogEndIndex).joinToString("\n") {
         val line = it.replace("/", "")
         when {
             line.contains("[") -> line.replace(" ", "")

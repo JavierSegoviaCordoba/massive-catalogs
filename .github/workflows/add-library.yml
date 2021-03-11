@@ -1,0 +1,68 @@
+name: add-library
+
+on:
+  workflow_dispatch:
+    inputs:
+      project_name:
+        description: "Project name, one of [libs-catalog, plugins-catalog]"
+        default: 'libs-catalog'
+        required: true
+      artifact_group:
+        description: "Artifact group, sample: org.jetbrains.kotlinx"
+        required: true
+      artifact_name:
+        description: "Artifact name, sample: kotlinx-coroutines-core"
+        required: true
+      artifact_version:
+        description: "Artifact version, sample: 1.4.3"
+        required: true
+      version_ref:
+        description: "Version reference, sample: coroutines"
+        required: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Set up Java
+        uses: actions/setup-java@v1
+        with:
+          java-version: 15
+
+      - name: Gradle cache
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+            ~/.konan
+          key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle*') }}-${{ hashFiles('**/gradle.properties') }}
+          restore-keys: |
+            ${{ runner.os }}-gradle-
+
+      - name: Add library
+        run: ./gradlew addLib --"projectName"="${{ github.event.inputs.project_name }}" --"artifactGroup"="${{ github.event.inputs.artifact_group }}" --"artifactName"="${{ github.event.inputs.artifact_name }}" --"artifactVersionRef"="${{ github.event.inputs.version_ref }}" --"artifactVersion"="${{ github.event.inputs.artifact_version }}"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.TOKEN_GITHUB_ACTION }}
+          commit-message: |
+            Add the library ${{ github.event.inputs.artifact_group }}:${{ github.event.inputs.artifact_name }}
+
+            Group: ${{ github.event.inputs.artifact_group }}
+            Name: ${{ github.event.inputs.artifact_name }}
+            Project: ${{ github.event.inputs.project_name }}
+            Initial version: ${{ github.event.inputs.artifact_version }}
+            Version reference: ${{ github.event.inputs.version_ref }}
+          title: "Add the library: ${{ github.event.inputs.artifact_group }}:${{ github.event.inputs.artifact_name }} to the project ${{ github.event.inputs.project_name }}"
+          body: |
+            Initial version: ${{ github.event.inputs.artifact_version }}
+            Version reference: ${{ github.event.inputs.version_ref }}
+          branch: "${{ github.event.inputs.project_name }}--${{ github.event.inputs.artifact_group }}-${{ github.event.inputs.artifact_name }}"
