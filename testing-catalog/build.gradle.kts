@@ -4,6 +4,7 @@ plugins {
 }
 
 dependencies {
-    implementation(testingLibs.squareup.retrofit2.retrofit)
+    implementation(testingLibs.cash.turbine)
+    implementation(testingKotlinLibs.app.cash.turbineTurbine)
     implementation(testingPlugins.jetbrains.dokka.core)
 }

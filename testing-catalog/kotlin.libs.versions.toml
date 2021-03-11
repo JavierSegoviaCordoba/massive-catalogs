@@ -1,0 +1,1239 @@
+[versions]
+ieStuPapercutAnnotations = "0.9.1"
+ieStuPapercutCompiler = "0.9.1"
+inZeromodKsonbin = "1.0"
+infoNovatecMicronautCamundaBpmFeature = "0.20.0"
+ioArrowktArrowAnkGradle = "0.11.0"
+ioArrowktArrowAnnotations = "0.11.0"
+ioArrowktArrowAql = "0.11.0"
+ioArrowktArrowCheck = "0.11.0"
+ioArrowktArrowCheckKotlintest = "0.11.0"
+ioArrowktArrowContinuations = "0.11.0"
+ioArrowktArrowCore = "0.11.0"
+ioArrowktArrowCoreData = "0.11.0"
+ioArrowktArrowCoreRetrofit = "0.11.0"
+ioArrowktArrowCoreTest = "0.11.0"
+ioArrowktArrowFree = "0.11.0"
+ioArrowktArrowFreeData = "0.11.0"
+ioArrowktArrowFx = "0.11.0"
+ioArrowktArrowFxCoroutines = "0.11.0"
+ioArrowktArrowFxCoroutinesKotlinxCoroutines = "0.11.0"
+ioArrowktArrowFxKotlinxCoroutines = "0.11.0"
+ioArrowktArrowFxMtl = "0.11.0"
+ioArrowktArrowFxReactor = "0.11.0"
+ioArrowktArrowFxRx2 = "0.11.0"
+ioArrowktArrowFxTest = "0.11.0"
+ioArrowktArrowGeneric = "0.11.0"
+ioArrowktArrowIncubatorTest = "0.11.0"
+ioArrowktArrowIntegrationsRetrofitAdapter = "0.11.0"
+ioArrowktArrowKindedj = "0.11.0"
+ioArrowktArrowMeta = "0.11.0"
+ioArrowktArrowMtl = "0.11.0"
+ioArrowktArrowMtlData = "0.11.0"
+ioArrowktArrowOptics = "0.11.0"
+ioArrowktArrowOpticsMtl = "0.11.0"
+ioArrowktArrowOpticsTest = "0.11.0"
+ioArrowktArrowRecursion = "0.11.0"
+ioArrowktArrowRecursionData = "0.11.0"
+ioArrowktArrowReflect = "0.11.0"
+ioArrowktArrowSyntax = "0.11.0"
+ioArrowktArrowUi = "0.11.0"
+ioArrowktArrowUiData = "0.11.0"
+ioArrowktArrowValidation = "0.11.0"
+ioArrowktKotlinCompilerLite = "1.4.10"
+ioArrowktKotlinMetadata = "1.4.31"
+ioBootstageTestkitTestkitGradlePlugin = "1.4.0"
+ioConcordantCCrdtlib = "1.0.5"
+ioDeepmediaToolsPublisher = "0.5.0"
+ioFloodplainFloodplainApi = "1.4"
+ioFloodplainFloodplainDebezium = "1.4"
+ioFloodplainFloodplainDebeziumPostgres = "0.9.12"
+ioFloodplainFloodplainDirect = "1.4"
+ioFloodplainFloodplainDsl = "1.4"
+ioFloodplainFloodplainElasticsearch = "1.4"
+ioFloodplainFloodplainExample = "1.4"
+ioFloodplainFloodplainFhir = "1.4"
+ioFloodplainFloodplainGooglesheets = "1.4"
+ioFloodplainFloodplainIntegration = "1.4"
+ioFloodplainFloodplainMongodb = "1.4"
+ioFloodplainFloodplainQuarkus = "0.9.7"
+ioFloodplainFloodplainRuntime = "1.4"
+ioFloodplainFloodplainStreamTopology = "1.4"
+ioFloodplainFloodplainTest = "1.4"
+ioFloodplainImmutableApi = "1.4"
+ioFloodplainImmutableImpl = "1.4"
+ioFloodplainKafkaConverter = "1.4"
+ioFloodplainReplicationApi = "1.4"
+ioFloodplainReplicationImpl = "1.4"
+ioFloodplainReplicationJson = "1.4"
+ioFloodplainReplicationProtobuf = "1.4"
+ioFloodplainStreams = "1.4"
+ioFloodplainStreamsApi = "1.4"
+ioFluidsonicCldrFluidCldr = "0.9.1-37"
+ioFluidsonicCldrFluidCldrData = "0.9.1-37"
+ioFluidsonicCompilerFluidCompiler = "0.10.4"
+ioFluidsonicCountryFluidCountry = "0.9.4"
+ioFluidsonicCssFluidCss = "0.9.1"
+ioFluidsonicCurrencyFluidCurrency = "0.9.4"
+ioFluidsonicGraphqlFluidGraphql = "0.9.7"
+ioFluidsonicGraphqlFluidGraphqlDsl = "0.9.7"
+ioFluidsonicGraphqlFluidGraphqlExecution = "0.9.7"
+ioFluidsonicGraphqlFluidGraphqlLanguage = "0.9.7"
+ioFluidsonicI18nFluidI18n = "0.9.3"
+ioFluidsonicI18nFluidI18nData = "0.9.0"
+ioFluidsonicI18nFluidI18nDataIdentifiers = "0.9.3"
+ioFluidsonicI18nFluidI18nDataRegions = "0.9.3"
+ioFluidsonicJsonFluidJsonAnnotationProcessor = "1.2.0"
+ioFluidsonicJsonFluidJsonAnnotations = "1.2.0"
+ioFluidsonicJsonFluidJsonBasic = "1.2.0"
+ioFluidsonicJsonFluidJsonCoding = "1.2.0"
+ioFluidsonicJsonFluidJsonCodingJdk8 = "1.2.0"
+ioFluidsonicJsonFluidJsonKtorClient = "1.2.0"
+ioFluidsonicLocaleFluidLocale = "0.9.4"
+ioFluidsonicMetaFluidMeta = "0.11.1"
+ioFluidsonicMongoFluidMongo = "1.2.0"
+ioFluidsonicPdfFluidPdf = "0.14.2"
+ioFluidsonicRaptorRaptorBson = "0.9.9"
+ioFluidsonicRaptorRaptorCore = "0.9.9"
+ioFluidsonicRaptorRaptorDi = "0.9.9"
+ioFluidsonicRaptorRaptorDsl = "0.9.9"
+ioFluidsonicRaptorRaptorEntities = "0.9.9"
+ioFluidsonicRaptorRaptorEntitiesCore = "0.9.9"
+ioFluidsonicRaptorRaptorFreemarker = "0.9.9"
+ioFluidsonicRaptorRaptorGraphql = "0.9.9"
+ioFluidsonicRaptorRaptorJobs = "0.9.9"
+ioFluidsonicRaptorRaptorJobsQuartzMongo = "0.9.9"
+ioFluidsonicRaptorRaptorKtor = "0.9.9"
+ioFluidsonicRaptorRaptorKtorTest = "0.9.9"
+ioFluidsonicRaptorRaptorLifecycle = "0.9.9"
+ioFluidsonicRaptorRaptorMongodb = "0.9.9"
+ioFluidsonicRaptorRaptorQuickstart = "0.9.9"
+ioFluidsonicRaptorRaptorSecurity = "0.9.9"
+ioFluidsonicRaptorRaptorSettings = "0.9.9"
+ioFluidsonicRaptorRaptorSettingsHocon = "0.9.9"
+ioFluidsonicRaptorRaptorTransactions = "0.9.9"
+ioFluidsonicReactFluidReact = "0.9.8"
+ioFluidsonicReactFluidReactCoroutines = "0.9.8"
+ioFluidsonicReactFluidReactDom = "0.9.8"
+ioFluidsonicReactFluidReactHelmet = "0.9.8"
+ioFluidsonicReactFluidReactRouter = "0.9.8"
+ioFluidsonicReactFluidReactRouterDom = "0.9.8"
+ioFluidsonicStdlibFluidStdlib = "0.10.5"
+ioFluidsonicTimeFluidTime = "0.13.2"
+ioGierlaReactivecomponentsAnnotations = "0.0.24"
+ioGierlaReactivecomponentsCore = "0.0.24"
+ioGithubAgcomKnio2 = "0.3.0"
+ioGithubAnimatedledstripAnimatedledstripCore = "1.0.0-pre4"
+ioGithubAshishkujoyMicronautKotestWrapper = "1.0.0"
+ioGithubChao2zhangRnaAnnotation = "0.2.0"
+ioGithubChao2zhangRnaCompilerPlugin = "0.2.0"
+ioGithubChao2zhangRnaGradlePlugin = "0.2.0"
+ioGithubChozzleComposeMacosTheme = "0.3.1"
+ioGithubCotejiCotejiCore = "0.1.0"
+ioGithubDetektSarif4jSarif4j = "1.0.0"
+ioGithubDragneelfpsAria2Kt = "1.0.0"
+ioGithubDragneelfpsTelegramBotKt = "1.2.0"
+ioGithubDzirbelGsonBijectivereflection = "2.0.0"
+ioGithubEagerlogicVisage = "0.3.0"
+ioGithubEaglesakuraArmykniferuntimeArmyknifeRuntime = "1.4.0"
+ioGithubEaglesakuraFlexiblethreadpooldispatcherFlexibleThreadPoolDispatcher = "1.0.0"
+ioGithubEaglesakuraLazysingletonLazysingleton = "1.0.0"
+ioGithubEaglesakuraStaticrandomStaticRandom = "1.0.0-rc01"
+ioGithubEaglesakuraSwagger2codegenSwagger2Codegen = "1.0.5"
+ioGithubEaglesakuraWorkflowdispatcherWorkflowDispatcherAnnotations = "1.2.1"
+ioGithubEaglesakuraWorkflowdispatcherWorkflowDispatcherProcessor = "1.2.1"
+ioGithubErmadmi78KobbyGeneratorKotlin = "1.0.0-alpha.08"
+ioGithubErmadmi78KobbyGradlePlugin = "1.0.0-alpha.08"
+ioGithubErmadmi78KobbyMavenPlugin = "1.0.0-alpha.08"
+ioGithubErmadmi78KobbyModel = "1.0.0-alpha.08"
+ioGithubFominOasGen = "0.0.10"
+ioGithubGciattoKtMath = "0.3.3"
+ioGithubGciattoKtMppPp = "0.3.4"
+ioGithubGciattoKtNpmPublish = "0.3.6"
+ioGithubIschcaAnnotation = "0.0.4"
+ioGithubIschcaCompilerPlugin = "0.0.4"
+ioGithubIschcaUsePlugin = "0.0.4"
+ioGithubKaterinapetrovaMppSampleLib = "1.0.0"
+ioGithubKuuuurtMultiplatformPaging = "0.3.9"
+ioGithubLibktxKtxActors = "1.9.14-b1"
+ioGithubLibktxKtxApp = "1.9.14-b1"
+ioGithubLibktxKtxAshley = "1.9.14-b1"
+ioGithubLibktxKtxAssets = "1.9.14-b1"
+ioGithubLibktxKtxAssetsAsync = "1.9.14-b1"
+ioGithubLibktxKtxAsync = "1.9.14-b1"
+ioGithubLibktxKtxBox2d = "1.9.14-b1"
+ioGithubLibktxKtxCollections = "1.9.14-b1"
+ioGithubLibktxKtxFreetype = "1.9.14-b1"
+ioGithubLibktxKtxFreetypeAsync = "1.9.14-b1"
+ioGithubLibktxKtxGraphics = "1.9.14-b1"
+ioGithubLibktxKtxI18n = "1.9.14-b1"
+ioGithubLibktxKtxInject = "1.9.14-b1"
+ioGithubLibktxKtxJson = "1.9.14-b1"
+ioGithubLibktxKtxLog = "1.9.14-b1"
+ioGithubLibktxKtxMath = "1.9.14-b1"
+ioGithubLibktxKtxPreferences = "1.9.14-b1"
+ioGithubLibktxKtxScene2d = "1.9.14-b1"
+ioGithubLibktxKtxStyle = "1.9.14-b1"
+ioGithubLibktxKtxTiled = "1.9.14-b1"
+ioGithubLibktxKtxVis = "1.9.14-b1"
+ioGithubLibktxKtxVisStyle = "1.9.14-b1"
+ioGithubMicroutilsKotlinLogging = "2.0.6"
+ioGithubMiniclemKotlinApiRiotWrapper = "0.3"
+ioGithubMurphp15JwtClientAuthentitationFilter = "1.0.9"
+ioGithubMurphp15JwtClientAuthorizationFilter = "1.0.1"
+ioGithubMurphp15JwtServerAuthenticationFilter = "1.0.4"
+ioGithubMurphp15TwilioSmsAuthentication = "1.0.0"
+ioGithubPak3nuhUtilLangCompilerEnumexpressionProcessor = "0.2.0"
+ioGithubPak3nuhUtilLangCompilerGenUtil = "0.2.0"
+ioGithubPak3nuhUtilLangCompilerSealedProcessor = "0.2.0"
+ioGithubRakutentechManifestconfigManifestConfigProcessor = "0.2.0"
+ioGithubReactivecircusAppversioningAppVersioningGradlePlugin = "0.8.1"
+ioGithubReactivecircusBlueprintBlueprintAsyncCoroutines = "1.15.0"
+ioGithubReactivecircusBlueprintBlueprintAsyncRx2 = "1.15.0"
+ioGithubReactivecircusBlueprintBlueprintAsyncRx3 = "1.15.0"
+ioGithubReactivecircusBlueprintBlueprintInteractorCommon = "1.15.0"
+ioGithubReactivecircusBlueprintBlueprintInteractorCoroutines = "1.15.0"
+ioGithubReactivecircusBlueprintBlueprintInteractorRx2 = "1.15.0"
+ioGithubReactivecircusBlueprintBlueprintInteractorRx3 = "1.15.0"
+ioGithubReactivecircusCache4kCache4k = "0.1.1"
+ioGithubRicardorlgDevicefarmTractor = "1.0.4"
+ioGithubRicardorlgDevicefarmTractorGradlePlugin = "1.0.1"
+ioGithubSapientpantsStructurizrMacros = "2020.6"
+ioGithubSorokodSimpleaesgcm = "1.0.1"
+ioGithubThiyagu06ReactiveSqsConsumer = "1.1"
+ioGitlabArturboschDetektCustomChecks = "1.16.0"
+ioGitlabArturboschDetektDetektApi = "1.16.0"
+ioGitlabArturboschDetektDetektCli = "1.16.0"
+ioGitlabArturboschDetektDetektCore = "1.16.0"
+ioGitlabArturboschDetektDetektFormatting = "1.16.0"
+ioGitlabArturboschDetektDetektGenerator = "1.16.0"
+ioGitlabArturboschDetektDetektGradlePlugin = "1.16.0"
+ioGitlabArturboschDetektDetektMetrics = "1.16.0"
+ioGitlabArturboschDetektDetektParser = "1.16.0"
+ioGitlabArturboschDetektDetektPsiUtils = "1.16.0"
+ioGitlabArturboschDetektDetektReportHtml = "1.16.0"
+ioGitlabArturboschDetektDetektReportSarif = "1.16.0"
+ioGitlabArturboschDetektDetektReportTxt = "1.16.0"
+ioGitlabArturboschDetektDetektReportXml = "1.16.0"
+ioGitlabArturboschDetektDetektRules = "1.16.0"
+ioGitlabArturboschDetektDetektRulesComplexity = "1.16.0"
+ioGitlabArturboschDetektDetektRulesCoroutines = "1.16.0"
+ioGitlabArturboschDetektDetektRulesDocumentation = "1.16.0"
+ioGitlabArturboschDetektDetektRulesEmpty = "1.16.0"
+ioGitlabArturboschDetektDetektRulesErrorprone = "1.16.0"
+ioGitlabArturboschDetektDetektRulesExceptions = "1.16.0"
+ioGitlabArturboschDetektDetektRulesNaming = "1.16.0"
+ioGitlabArturboschDetektDetektRulesPerformance = "1.16.0"
+ioGitlabArturboschDetektDetektRulesStyle = "1.16.0"
+ioGitlabArturboschDetektDetektSampleExtensions = "1.16.0"
+ioGitlabArturboschDetektDetektTest = "1.16.0"
+ioGitlabArturboschDetektDetektTestUtils = "1.16.0"
+ioGitlabArturboschDetektDetektTooling = "1.16.0"
+ioGuthixJagexBytebuf = "0.1.3"
+ioGuthixJagexStore5 = "0.4.0"
+ioGuthixOldscapeOldscapeCache = "0.1.0"
+ioGuthixOldscapeOldscapeWiki = "0.1.0"
+ioGuthixOldscapeOldscapeWikiDownloader = "0.1.0"
+ioGuthixOldscapeOldscapeWikiParser = "0.1.0"
+ioHackleHackleJvmSdk = "0.1.0"
+ioHackleHackleSdkCommon = "1.1.0"
+ioHackleHackleSdkCore = "1.1.0"
+ioHackleHackleServerSdk = "1.1.0"
+ioHkhcGradleSimplepublisher = "0.4.1"
+ioHndrsJsonapiSpringBootStarter = "1.0.0"
+ioHndrsJwtAuthSpringBootStarter = "1.0.0"
+ioHndrsSlackSlackApiClient = "3.0.0"
+ioHndrsSlackSlackJacksonDto = "3.0.0"
+ioHndrsSlackSlackJacksonDtoTest = "3.0.0"
+ioHndrsSlackSlackSpringApiClient = "3.0.0"
+ioHndrsSlackSlackSpringBoot = "3.0.0"
+ioHndrsSlackSlackSpringBootAutoconfigure = "3.0.0"
+ioHndrsSlackSlackSpringBootStarter = "3.0.0"
+ioHndrsSlackSlackSpringTestApiClient = "3.0.0"
+ioHndrsSpringJsonApi = "1.0.0"
+ioInfiniticInfiniticCache = "0.4.1"
+ioInfiniticInfiniticClient = "0.4.1"
+ioInfiniticInfiniticCommon = "0.4.1"
+ioInfiniticInfiniticInMemory = "0.4.1"
+ioInfiniticInfiniticMonitoringEngines = "0.4.1"
+ioInfiniticInfiniticPulsar = "0.4.1"
+ioInfiniticInfiniticStorage = "0.4.1"
+ioInfiniticInfiniticTaskEngine = "0.4.1"
+ioInfiniticInfiniticTaskExecutor = "0.4.1"
+ioInfiniticInfiniticWorkerPulsar = "0.0.2"
+ioInfiniticInfiniticWorkflowEngine = "0.4.1"
+ioInfiniticInfiniticWorkflowTask = "0.4.1"
+ioInsertkoinKoinCore = "3.0.1-beta-1"
+ioInsertkoinKoinCoreExt = "3.0.1-beta-1"
+ioInsertkoinKoinKtor = "3.0.1-beta-1"
+ioInsertkoinKoinLoggerSlf4j = "3.0.1-beta-1"
+ioInsertkoinKoinTest = "3.0.1-beta-1"
+ioInsertkoinKoinTestJunit4 = "3.0.1-beta-1"
+ioInsertkoinKoinTestJunit5 = "3.0.1-beta-1"
+ioInsourceInRulesEngine = "0.0.4"
+ioInsourceInSpringZeromq = "0.0.4"
+ioIslandtimeCore = "0.5.0"
+ioIslandtimeSerializationExtensions = "0.5.0"
+ioJawgGeojsonGeojsonJackson = "1.2.1"
+ioJawgGeojsonGeojsonJacksonJtsExtensions = "1.0.1"
+ioJohnsonleeBoosterBoosterPngquantProvider = "2.3.0"
+ioJohnsonleeBuildpropsBuildpropsGradlePlugin = "1.1.0"
+ioJohnsonleeGradleGradlePrometheusPlugin = "2.1.0"
+ioJohnsonleeLaReader = "1.4.0"
+ioJohnsonleeSpiBoosterTransformServiceLoader = "1.0.0"
+ioJohnsonleeSpiServiceCompiler = "1.0.0"
+ioJohnsonleeTraceFileParser = "1.3.0"
+ioJohnsonleeUxuUxu = "1.0.0"
+ioJumpcoOpenKfsm = "1.4.3.1"
+ioJumpcoOpenKfsmCommon = "1.4.1"
+ioKnotxKnotxGradlePlugins = "2.3.0"
+ioKotestExtensionsKotestAssertionsArrow = "1.0.0"
+ioKotestExtensionsKotestAssertionsJsoup = "1.0.0"
+ioKotestExtensionsKotestAssertionsKotlinxDatetime = "1.0.0"
+ioKotestExtensionsKotestAssertionsKtor = "1.0.0"
+ioKotestExtensionsKotestExtensionsEmbeddedKafka = "1.0.1"
+ioKotestExtensionsKotestExtensionsRobolectric = "0.2.0"
+ioKotestExtensionsKotestExtensionsWiremock = "1.0.1"
+ioKotestKotestAssertions = "4.0.7"
+ioKotestKotestAssertionsApi = "4.4.3"
+ioKotestKotestAssertionsArrow = "4.4.3"
+ioKotestKotestAssertionsCompiler = "4.4.3"
+ioKotestKotestAssertionsCore = "4.4.3"
+ioKotestKotestAssertionsJson = "4.4.3"
+ioKotestKotestAssertionsJsoup = "4.4.3"
+ioKotestKotestAssertionsKlock = "4.4.3"
+ioKotestKotestAssertionsKonform = "4.4.3"
+ioKotestKotestAssertionsKotlinxTime = "4.4.3"
+ioKotestKotestAssertionsKtor = "4.4.3"
+ioKotestKotestAssertionsShared = "4.4.3"
+ioKotestKotestAssertionsSql = "4.4.3"
+ioKotestKotestCommon = "4.4.3"
+ioKotestKotestCore = "4.2.0.RC2"
+ioKotestKotestExtensions = "4.4.3"
+ioKotestKotestExtensionsAllure = "4.4.3"
+ioKotestKotestExtensionsEmbeddedKafka = "1.0.0"
+ioKotestKotestExtensionsHttp = "4.4.3"
+ioKotestKotestExtensionsJunit5 = "4.4.3"
+ioKotestKotestExtensionsJunit5extensions = "4.2.6"
+ioKotestKotestExtensionsJunitxml = "4.4.3"
+ioKotestKotestExtensionsKoin = "4.4.3"
+ioKotestKotestExtensionsMockserver = "4.4.3"
+ioKotestKotestExtensionsRobolectric = "4.3.2"
+ioKotestKotestExtensionsSpring = "4.4.3"
+ioKotestKotestExtensionsTestcontainers = "4.4.3"
+ioKotestKotestExtensionsWiremock = "1.0.0"
+ioKotestKotestFp = "4.0.7"
+ioKotestKotestFrameworkApi = "4.4.3"
+ioKotestKotestFrameworkDiscovery = "4.4.3"
+ioKotestKotestFrameworkEngine = "4.4.3"
+ioKotestKotestFrameworkLauncher = "4.2.0"
+ioKotestKotestLauncher = "1.0.10"
+ioKotestKotestMpp = "4.0.7"
+ioKotestKotestPluginsPitest = "4.4.3"
+ioKotestKotestProperty = "4.4.3"
+ioKotestKotestPropertyArrow = "4.4.3"
+ioKotestKotestPropertyDatetime = "4.4.3"
+ioKotestKotestRunnerConsole = "4.1.3.2"
+ioKotestKotestRunnerJunit4 = "4.4.3"
+ioKotestKotestRunnerJunit5 = "4.4.3"
+ioKtgpCore = "0.0.6"
+ioKtorKtorAuthJwtKotlinMultiplatform = "1.5.2"
+ioKtorKtorAuthKotlinMultiplatform = "1.5.2"
+ioKtorKtorAuthLdapKotlinMultiplatform = "1.5.2"
+ioKtorKtorClientAndroidKotlinMultiplatform = "1.5.2"
+ioKtorKtorClientApacheKotlinMultiplatform = "1.5.2"
+ioKtorKtorClientAuth = "1.5.2"
+ioKtorKtorClientAuthBasic = "1.5.2"
+ioKtorKtorClientAuthBasicNative = "1.3.1"
+ioKtorKtorClientAuthNative = "1.3.1"
+ioKtorKtorClientCio = "1.5.2"
+ioKtorKtorClientCioKotlinMultiplatform = "1.4.1"
+ioKtorKtorClientCore = "1.5.2"
+ioKtorKtorClientCoreIos = "1.0.1"
+ioKtorKtorClientCoreNative = "1.3.1"
+ioKtorKtorClientCurl = "1.5.2"
+ioKtorKtorClientEncoding = "1.5.2"
+ioKtorKtorClientEncodingNative = "1.3.1"
+ioKtorKtorClientFeaturesKotlinMultiplatform = "1.5.2"
+ioKtorKtorClientGsonKotlinMultiplatform = "1.5.2"
+ioKtorKtorClientIos = "1.5.2"
+ioKtorKtorClientJacksonKotlinMultiplatform = "1.5.2"
+ioKtorKtorClientJavaKotlinMultiplatform = "1.5.2"
+ioKtorKtorClientJettyKotlinMultiplatform = "1.5.2"
+ioKtorKtorClientJsKotlinMultiplatform = "1.5.2"
+ioKtorKtorClientJson = "1.5.2"
+ioKtorKtorClientJsonIos = "1.0.1"
+ioKtorKtorClientJsonNative = "1.3.1"
+ioKtorKtorClientJsonTestsKotlinMultiplatform = "1.5.2"
+ioKtorKtorClientKotlinMultiplatform = "1.5.2"
+ioKtorKtorClientLogging = "1.5.2"
+ioKtorKtorClientLoggingIos = "1.0.1"
+ioKtorKtorClientLoggingNative = "1.3.1"
+ioKtorKtorClientMock = "1.5.2"
+ioKtorKtorClientMockIos = "1.0.1"
+ioKtorKtorClientMockNative = "1.3.1"
+ioKtorKtorClientOkhttpKotlinMultiplatform = "1.5.2"
+ioKtorKtorClientSerialization = "1.5.2"
+ioKtorKtorClientSerializationNative = "1.3.1"
+ioKtorKtorClientTests = "1.5.2"
+ioKtorKtorClientTestsDispatcherNative = "1.2.6"
+ioKtorKtorClientTestsNative = "1.3.1"
+ioKtorKtorClientWebsockets = "1.5.2"
+ioKtorKtorClientWebsocketsNative = "1.3.1"
+ioKtorKtorFeaturesKotlinMultiplatform = "1.5.2"
+ioKtorKtorFreemarkerKotlinMultiplatform = "1.5.2"
+ioKtorKtorGsonKotlinMultiplatform = "1.5.2"
+ioKtorKtorHtmlBuilderKotlinMultiplatform = "1.5.2"
+ioKtorKtorHttp = "1.5.2"
+ioKtorKtorHttpCio = "1.5.2"
+ioKtorKtorHttpCioNative = "1.3.1"
+ioKtorKtorHttpIos = "1.0.1"
+ioKtorKtorHttpNative = "1.3.1"
+ioKtorKtorIo = "1.5.2"
+ioKtorKtorIoNative = "1.3.1"
+ioKtorKtorJacksonKotlinMultiplatform = "1.5.2"
+ioKtorKtorKotlinMultiplatform = "1.5.2"
+ioKtorKtorLocationsKotlinMultiplatform = "1.5.2"
+ioKtorKtorMetricsKotlinMultiplatform = "1.5.2"
+ioKtorKtorMetricsMicrometerKotlinMultiplatform = "1.5.2"
+ioKtorKtorMustacheKotlinMultiplatform = "1.5.2"
+ioKtorKtorNetwork = "1.5.2"
+ioKtorKtorNetworkKotlinMultiplatform = "1.4.1"
+ioKtorKtorNetworkTls = "1.5.2"
+ioKtorKtorNetworkTlsKotlinMultiplatform = "1.4.1"
+ioKtorKtorPebbleKotlinMultiplatform = "1.5.2"
+ioKtorKtorSerializationKotlinMultiplatform = "1.5.2"
+ioKtorKtorServerCioKotlinMultiplatform = "1.5.2"
+ioKtorKtorServerCoreKotlinMultiplatform = "1.5.2"
+ioKtorKtorServerHostCommonKotlinMultiplatform = "1.5.2"
+ioKtorKtorServerJettyKotlinMultiplatform = "1.5.2"
+ioKtorKtorServerKotlinMultiplatform = "1.5.2"
+ioKtorKtorServerNettyKotlinMultiplatform = "1.5.2"
+ioKtorKtorServerServletKotlinMultiplatform = "1.5.2"
+ioKtorKtorServerSessionsKotlinMultiplatform = "1.5.2"
+ioKtorKtorServerTestHostKotlinMultiplatform = "1.5.2"
+ioKtorKtorServerTestSuitesKotlinMultiplatform = "1.5.2"
+ioKtorKtorServerTestsKotlinMultiplatform = "1.5.2"
+ioKtorKtorServerTomcatKotlinMultiplatform = "1.5.2"
+ioKtorKtorTestDispatcher = "1.5.2"
+ioKtorKtorTestDispatcherNative = "1.3.1"
+ioKtorKtorThymeleafKotlinMultiplatform = "1.5.2"
+ioKtorKtorUtils = "1.5.2"
+ioKtorKtorUtilsIos = "1.0.1"
+ioKtorKtorUtilsNative = "1.3.1"
+ioKtorKtorVelocityKotlinMultiplatform = "1.5.2"
+ioKtorKtorWebjarsKotlinMultiplatform = "1.5.2"
+ioKtorKtorWebsocketsKotlinMultiplatform = "1.5.2"
+ioKuberigKuberigDslBase = "1.5.0-RC1"
+ioKuberigKuberigDslGenerator = "1.5.0-RC1"
+ioKuberigKuberigDslGeneratorGradlePlugin = "1.5.0-RC1"
+ioKvisionJqueryKotlin = "1.0.0"
+ioKvisionKvision = "4.2.0"
+ioKvisionKvisionBootstrap = "4.2.0"
+ioKvisionKvisionBootstrapCss = "4.2.0"
+ioKvisionKvisionBootstrapDatetime = "4.2.0"
+ioKvisionKvisionBootstrapDialog = "4.2.0"
+ioKvisionKvisionBootstrapSelect = "4.2.0"
+ioKvisionKvisionBootstrapSelectRemote = "4.2.0"
+ioKvisionKvisionBootstrapSpinner = "4.2.0"
+ioKvisionKvisionBootstrapTypeahead = "4.2.0"
+ioKvisionKvisionBootstrapTypeaheadRemote = "4.2.0"
+ioKvisionKvisionBootstrapUpload = "4.2.0"
+ioKvisionKvisionChart = "4.2.0"
+ioKvisionKvisionCommonAnnotations = "4.2.0"
+ioKvisionKvisionCommonRemote = "4.2.0"
+ioKvisionKvisionCommonTypes = "4.2.0"
+ioKvisionKvisionCompilerPlugin = "4.2.0"
+ioKvisionKvisionCordova = "4.2.0"
+ioKvisionKvisionDatacontainer = "4.2.0"
+ioKvisionKvisionElectron = "4.2.0"
+ioKvisionKvisionEventFlow = "4.2.0"
+ioKvisionKvisionFontawesome = "4.2.0"
+ioKvisionKvisionGradlePlugin = "4.2.0"
+ioKvisionKvisionHandlebars = "4.2.0"
+ioKvisionKvisionI18n = "4.2.0"
+ioKvisionKvisionMaps = "4.2.0"
+ioKvisionKvisionMoment = "4.2.0"
+ioKvisionKvisionOnsenui = "4.2.0"
+ioKvisionKvisionOnsenuiCss = "4.2.0"
+ioKvisionKvisionPace = "4.2.0"
+ioKvisionKvisionPrint = "4.2.0"
+ioKvisionKvisionReact = "4.2.0"
+ioKvisionKvisionRedux = "4.2.0"
+ioKvisionKvisionReduxKotlin = "4.2.0"
+ioKvisionKvisionRichtext = "4.2.0"
+ioKvisionKvisionRoutingNavigo = "4.2.0"
+ioKvisionKvisionRoutingNavigoNg = "4.2.0"
+ioKvisionKvisionServerJavalin = "4.2.0"
+ioKvisionKvisionServerJooby = "4.2.0"
+ioKvisionKvisionServerKtor = "4.2.0"
+ioKvisionKvisionServerMicronaut = "4.2.0"
+ioKvisionKvisionServerSpringBoot = "4.2.0"
+ioKvisionKvisionServerVertx = "4.2.0"
+ioKvisionKvisionTabulator = "4.2.0"
+ioKvisionKvisionTabulatorRemote = "4.2.0"
+ioKvisionKvisionTestutils = "4.2.0"
+ioKvisionKvisionToast = "4.2.0"
+ioKvisionNavigoKotlin = "1.0.0"
+ioKvisionNavigoKotlinNg = "0.0.1"
+ioKvisionSnabbdomKotlin = "1.0.0"
+ioLightweightformLightweightformCore = "5.0.0-alpha.3"
+ioMehowLaboratoryLaboratory = "0.11.0"
+ioMehowLaboratoryLaboratoryGenerator = "0.11.0"
+ioMehowLaboratoryLaboratoryGradlePlugin = "0.11.0"
+ioMehowRulerRuler = "2.0.0"
+ioMehowThreetenbpUtils = "0.2.1"
+ioMicronautAzureMicronautExampleKotlin = "1.0.0"
+ioMicronautExampleMicronautGraphqlExampleHelloWorldKotlin = "1.4.0"
+ioMicronautKotlinMicronautGreeting = "2.3.0"
+ioMicronautKotlinMicronautKotlinExtensionFunctions = "2.3.0"
+ioMicronautKotlinMicronautKotlinRuntime = "2.3.0"
+ioMicronautKotlinMicronautKtor = "2.3.0"
+ioMicronautMicronautHttp = "2.4.0"
+ioMicronautMicronautTestSuiteKotlin = "2.0.1"
+ioMicronautTestMicronautTestKotest = "2.3.2"
+ioMicronautTestMicronautTestKotlintest = "2.3.2"
+ioMockkMockk = "1.10.6"
+ioMockkMockkAgentApi = "1.10.6"
+ioMockkMockkAgentCommon = "1.10.6"
+ioMockkMockkAgentJvm = "1.10.6"
+ioMockkMockkDslJvm = "1.10.6"
+ioMonkeypatchKavalKavalArrow = "0.5.1"
+ioMonkeypatchKavalKavalCore = "0.5.1"
+ioMonkeypatchKavalKavalCoroutine = "0.5.1"
+ioMonkeypatchKavalKavalKotest = "0.5.1"
+ioMonkeypatchKavalKavalReflect = "0.4.0"
+ioNacularDoodleAnimation = "0.4.3"
+ioNacularDoodleBrowser = "0.4.3"
+ioNacularDoodleControls = "0.4.3"
+ioNacularDoodleCore = "0.4.3"
+ioNacularDoodleDoodle = "0.3.4"
+ioNacularDoodleThemes = "0.4.3"
+ioNacularMeasuredMeasured = "0.3.0"
+ioNatsBridgeNatsJmsBridgeSpringbootApp = "0.29.0-beta26"
+ioNixerBloomTool = "0.1.1.0"
+ioOnemaPlaylistDsl = "0.1.0"
+ioOpengoodCommonsKotlinCommons = "1.7.0"
+ioOpengoodCommonsSpringCommons = "1.0.0"
+ioOpentelemetryJavaagentInstrumentationOpentelemetryJavaagentKotlinxCoroutines = "1.0.1-alpha"
+ioOpentelemetryOpentelemetryExtensionKotlin = "1.0.1"
+ioOutfoxxSwiftpoet = "1.1.0"
+ioOutfoxxTypescriptpoet = "1.1.0"
+ioPeekandpokeUltraCommon = "0.18.0"
+ioPeekandpokeUltraCommonmp = "0.18.0"
+ioPeekandpokeUltraKontainer = "0.18.0"
+ioPeekandpokeUltraLogging = "0.18.0"
+ioPeekandpokeUltraMeta = "0.18.0"
+ioPeekandpokeUltraMutator = "0.18.0"
+ioPeekandpokeUltraSecurity = "0.18.0"
+ioPeekandpokeUltraSlumber = "0.18.0"
+ioPeekandpokeUltraUltra = "0.18.0"
+ioPixeloutlawKindling = "1.0.0"
+ioPixeloutlawMythicdropsMythicdrops = "7.0.4"
+ioPixeloutlawPlumbing115R1 = "2.0.2"
+ioPixeloutlawPlumbing116R1 = "2.0.2"
+ioPixeloutlawPlumbing116R2 = "2.0.2"
+ioPixeloutlawPlumbing116R3 = "2.0.2"
+ioPixeloutlawPlumbingApi = "2.0.2"
+ioPixeloutlawPlumbingLib = "2.0.2"
+ioPixeloutlawWorldguardAdapter62X = "3.4.1"
+ioPixeloutlawWorldguardAdapter70X = "3.4.1"
+ioPixeloutlawWorldguardAdapterApi = "3.4.1"
+ioPixeloutlawWorldguardAdapterLib = "3.4.1"
+ioProjectreactorReactorCore = "3.4.3"
+ioProjectreactorReactorTest = "3.4.3"
+ioRealmRealmAnnotationsProcessor = "10.4.0-RC.1"
+ioRealmRealmTransformer = "10.4.0-RC.1"
+ioReflectoringBootgraphAnnotations = "TEST-0.0.15"
+ioReflectoringBootgraphCore = "TEST-0.0.15"
+ioSirixSirixRestApi = "0.9.5"
+ioStriktStriktArrow = "0.29.0"
+ioStriktStriktCore = "0.29.0"
+ioStriktStriktGradle = "0.29.0"
+ioStriktStriktJackson = "0.29.0"
+ioStriktStriktJavaTime = "0.28.2"
+ioStriktStriktJvm = "0.29.0"
+ioStriktStriktMockk = "0.29.0"
+ioStriktStriktProtobuf = "0.29.0"
+ioStriktStriktSpring = "0.29.0"
+ioTeamifComciganLib = "1.2.1"
+ioTesfyTesfyKotlin = "1.0"
+ioThumbcatOssSemver2KtCore = "0.1.0"
+ioV47Events = "1.0.3"
+ioVoiappAndroidBuildscripts = "0.8.8"
+ioYegairJomJom = "0.0.1-alpha.7"
+itCzerwinskiAndroidHiltHiltAnnotations = "1.1.0"
+itCzerwinskiAndroidHiltHiltProcessor = "1.1.0"
+itCzerwinskiAndroidRoomRoomConverters = "1.0.1"
+itCzerwinskiAndroidRoomRoomConvertersProcessor = "1.0.1"
+itCzerwinskiKotlinUtil = "1.4.31"
+itSkrapeSkrapeIt = "1.0.0-alpha7"
+itSkrapeSkrapeitCore = "1.0.0-alpha8"
+itUniboAlchemistAlchemist = "10.0.1"
+itUniboAlchemistAlchemistCognitiveAgents = "10.0.1"
+itUniboAlchemistAlchemistEngine = "10.0.1"
+itUniboAlchemistAlchemistEuclideanGeometry = "10.0.1"
+itUniboAlchemistAlchemistFull = "10.0.1"
+itUniboAlchemistAlchemistFxui = "10.0.1"
+itUniboAlchemistAlchemistGrid = "10.0.1"
+itUniboAlchemistAlchemistImplementationbase = "10.0.1"
+itUniboAlchemistAlchemistIncarnationBiochemistry = "10.0.1"
+itUniboAlchemistAlchemistIncarnationProtelis = "10.0.1"
+itUniboAlchemistAlchemistIncarnationSapere = "10.0.1"
+itUniboAlchemistAlchemistIncarnationScafi = "10.0.1"
+itUniboAlchemistAlchemistInfluenceSphere = "9.3.0-devej+a0050f05c"
+itUniboAlchemistAlchemistInterfaces = "10.0.1"
+itUniboAlchemistAlchemistLoading = "10.0.1"
+itUniboAlchemistAlchemistMaps = "10.0.1"
+itUniboAlchemistAlchemistPhysicalAgents = "10.0.1"
+itUniboAlchemistAlchemistSapereMathexp = "10.0.1"
+itUniboAlchemistAlchemistSmartcam = "10.0.1"
+itUniboAlchemistAlchemistSwingui = "10.0.1"
+itUniboAlchemistAlchemistTest = "10.0.1"
+itUniboAlchemistAlchemistUiTooling = "10.0.1"
+itUniboTuprolog2p = "0.15.2"
+itUniboTuprologArgumentationArg2p = "0.2.1"
+itUniboTuprologArgumentationCore = "0.2.1"
+itUniboTuprologArgumentationIde = "0.2.1"
+itUniboTuprologCore = "0.15.2"
+itUniboTuprologDslCore = "0.15.2"
+itUniboTuprologDslSolve = "0.15.2"
+itUniboTuprologDslTheory = "0.15.2"
+itUniboTuprologDslUnify = "0.15.2"
+itUniboTuprologExamples = "0.15.2"
+itUniboTuprologIde = "0.15.2"
+itUniboTuprologIoLib = "0.15.2"
+itUniboTuprologOopLib = "0.15.2"
+itUniboTuprologParserCore = "0.15.2"
+itUniboTuprologParserJs = "0.15.2"
+itUniboTuprologParserJvm = "0.15.2"
+itUniboTuprologParserTheory = "0.15.2"
+itUniboTuprologRepl = "0.15.2"
+itUniboTuprologSerializeCore = "0.15.2"
+itUniboTuprologSerializeTheory = "0.15.2"
+itUniboTuprologSolve = "0.15.2"
+itUniboTuprologSolveClassic = "0.15.2"
+itUniboTuprologSolveStreams = "0.15.2"
+itUniboTuprologTestSolve = "0.15.2"
+itUniboTuprologTheory = "0.15.2"
+itUniboTuprologUnify = "0.15.2"
+
+[libraries]
+ie-stu-papercutAnnotations = { group = "ie.stu", name = "papercut-annotations", version.ref = "ieStuPapercutAnnotations" }
+ie-stu-papercutCompiler = { group = "ie.stu", name = "papercut-compiler", version.ref = "ieStuPapercutCompiler" }
+in-zeromod-ksonbin = { group = "in.zeromod", name = "ksonbin", version.ref = "inZeromodKsonbin" }
+info-novatec-micronautCamundaBpmFeature = { group = "info.novatec", name = "micronaut-camunda-bpm-feature", version.ref = "infoNovatecMicronautCamundaBpmFeature" }
+io-arrowkt-arrowAnkGradle = { group = "io.arrow-kt", name = "arrow-ank-gradle", version.ref = "ioArrowktArrowAnkGradle" }
+io-arrowkt-arrowAnnotations = { group = "io.arrow-kt", name = "arrow-annotations", version.ref = "ioArrowktArrowAnnotations" }
+io-arrowkt-arrowAql = { group = "io.arrow-kt", name = "arrow-aql", version.ref = "ioArrowktArrowAql" }
+io-arrowkt-arrowCheck = { group = "io.arrow-kt", name = "arrow-check", version.ref = "ioArrowktArrowCheck" }
+io-arrowkt-arrowCheckKotlintest = { group = "io.arrow-kt", name = "arrow-check-kotlintest", version.ref = "ioArrowktArrowCheckKotlintest" }
+io-arrowkt-arrowContinuations = { group = "io.arrow-kt", name = "arrow-continuations", version.ref = "ioArrowktArrowContinuations" }
+io-arrowkt-arrowCore = { group = "io.arrow-kt", name = "arrow-core", version.ref = "ioArrowktArrowCore" }
+io-arrowkt-arrowCoreData = { group = "io.arrow-kt", name = "arrow-core-data", version.ref = "ioArrowktArrowCoreData" }
+io-arrowkt-arrowCoreRetrofit = { group = "io.arrow-kt", name = "arrow-core-retrofit", version.ref = "ioArrowktArrowCoreRetrofit" }
+io-arrowkt-arrowCoreTest = { group = "io.arrow-kt", name = "arrow-core-test", version.ref = "ioArrowktArrowCoreTest" }
+io-arrowkt-arrowFree = { group = "io.arrow-kt", name = "arrow-free", version.ref = "ioArrowktArrowFree" }
+io-arrowkt-arrowFreeData = { group = "io.arrow-kt", name = "arrow-free-data", version.ref = "ioArrowktArrowFreeData" }
+io-arrowkt-arrowFx = { group = "io.arrow-kt", name = "arrow-fx", version.ref = "ioArrowktArrowFx" }
+io-arrowkt-arrowFxCoroutines = { group = "io.arrow-kt", name = "arrow-fx-coroutines", version.ref = "ioArrowktArrowFxCoroutines" }
+io-arrowkt-arrowFxCoroutinesKotlinxCoroutines = { group = "io.arrow-kt", name = "arrow-fx-coroutines-kotlinx-coroutines", version.ref = "ioArrowktArrowFxCoroutinesKotlinxCoroutines" }
+io-arrowkt-arrowFxKotlinxCoroutines = { group = "io.arrow-kt", name = "arrow-fx-kotlinx-coroutines", version.ref = "ioArrowktArrowFxKotlinxCoroutines" }
+io-arrowkt-arrowFxMtl = { group = "io.arrow-kt", name = "arrow-fx-mtl", version.ref = "ioArrowktArrowFxMtl" }
+io-arrowkt-arrowFxReactor = { group = "io.arrow-kt", name = "arrow-fx-reactor", version.ref = "ioArrowktArrowFxReactor" }
+io-arrowkt-arrowFxRx2 = { group = "io.arrow-kt", name = "arrow-fx-rx2", version.ref = "ioArrowktArrowFxRx2" }
+io-arrowkt-arrowFxTest = { group = "io.arrow-kt", name = "arrow-fx-test", version.ref = "ioArrowktArrowFxTest" }
+io-arrowkt-arrowGeneric = { group = "io.arrow-kt", name = "arrow-generic", version.ref = "ioArrowktArrowGeneric" }
+io-arrowkt-arrowIncubatorTest = { group = "io.arrow-kt", name = "arrow-incubator-test", version.ref = "ioArrowktArrowIncubatorTest" }
+io-arrowkt-arrowIntegrationsRetrofitAdapter = { group = "io.arrow-kt", name = "arrow-integrations-retrofit-adapter", version.ref = "ioArrowktArrowIntegrationsRetrofitAdapter" }
+io-arrowkt-arrowKindedj = { group = "io.arrow-kt", name = "arrow-kindedj", version.ref = "ioArrowktArrowKindedj" }
+io-arrowkt-arrowMeta = { group = "io.arrow-kt", name = "arrow-meta", version.ref = "ioArrowktArrowMeta" }
+io-arrowkt-arrowMtl = { group = "io.arrow-kt", name = "arrow-mtl", version.ref = "ioArrowktArrowMtl" }
+io-arrowkt-arrowMtlData = { group = "io.arrow-kt", name = "arrow-mtl-data", version.ref = "ioArrowktArrowMtlData" }
+io-arrowkt-arrowOptics = { group = "io.arrow-kt", name = "arrow-optics", version.ref = "ioArrowktArrowOptics" }
+io-arrowkt-arrowOpticsMtl = { group = "io.arrow-kt", name = "arrow-optics-mtl", version.ref = "ioArrowktArrowOpticsMtl" }
+io-arrowkt-arrowOpticsTest = { group = "io.arrow-kt", name = "arrow-optics-test", version.ref = "ioArrowktArrowOpticsTest" }
+io-arrowkt-arrowRecursion = { group = "io.arrow-kt", name = "arrow-recursion", version.ref = "ioArrowktArrowRecursion" }
+io-arrowkt-arrowRecursionData = { group = "io.arrow-kt", name = "arrow-recursion-data", version.ref = "ioArrowktArrowRecursionData" }
+io-arrowkt-arrowReflect = { group = "io.arrow-kt", name = "arrow-reflect", version.ref = "ioArrowktArrowReflect" }
+io-arrowkt-arrowSyntax = { group = "io.arrow-kt", name = "arrow-syntax", version.ref = "ioArrowktArrowSyntax" }
+io-arrowkt-arrowUi = { group = "io.arrow-kt", name = "arrow-ui", version.ref = "ioArrowktArrowUi" }
+io-arrowkt-arrowUiData = { group = "io.arrow-kt", name = "arrow-ui-data", version.ref = "ioArrowktArrowUiData" }
+io-arrowkt-arrowValidation = { group = "io.arrow-kt", name = "arrow-validation", version.ref = "ioArrowktArrowValidation" }
+io-arrowkt-kotlinCompilerLite = { group = "io.arrow-kt", name = "kotlin-compiler-lite", version.ref = "ioArrowktKotlinCompilerLite" }
+io-arrowkt-kotlinMetadata = { group = "io.arrow-kt", name = "kotlin-metadata", version.ref = "ioArrowktKotlinMetadata" }
+io-bootstage-testkit-testkitGradlePlugin = { group = "io.bootstage.testkit", name = "testkit-gradle-plugin", version.ref = "ioBootstageTestkitTestkitGradlePlugin" }
+io-concordant-cCrdtlib = { group = "io.concordant", name = "c-crdtlib", version.ref = "ioConcordantCCrdtlib" }
+io-deepmedia-tools-publisher = { group = "io.deepmedia.tools", name = "publisher", version.ref = "ioDeepmediaToolsPublisher" }
+io-floodplain-floodplainApi = { group = "io.floodplain", name = "floodplain-api", version.ref = "ioFloodplainFloodplainApi" }
+io-floodplain-floodplainDebezium = { group = "io.floodplain", name = "floodplain-debezium", version.ref = "ioFloodplainFloodplainDebezium" }
+io-floodplain-floodplainDebeziumPostgres = { group = "io.floodplain", name = "floodplain-debezium-postgres", version.ref = "ioFloodplainFloodplainDebeziumPostgres" }
+io-floodplain-floodplainDirect = { group = "io.floodplain", name = "floodplain-direct", version.ref = "ioFloodplainFloodplainDirect" }
+io-floodplain-floodplainDsl = { group = "io.floodplain", name = "floodplain-dsl", version.ref = "ioFloodplainFloodplainDsl" }
+io-floodplain-floodplainElasticsearch = { group = "io.floodplain", name = "floodplain-elasticsearch", version.ref = "ioFloodplainFloodplainElasticsearch" }
+io-floodplain-floodplainExample = { group = "io.floodplain", name = "floodplain-example", version.ref = "ioFloodplainFloodplainExample" }
+io-floodplain-floodplainFhir = { group = "io.floodplain", name = "floodplain-fhir", version.ref = "ioFloodplainFloodplainFhir" }
+io-floodplain-floodplainGooglesheets = { group = "io.floodplain", name = "floodplain-googlesheets", version.ref = "ioFloodplainFloodplainGooglesheets" }
+io-floodplain-floodplainIntegration = { group = "io.floodplain", name = "floodplain-integration", version.ref = "ioFloodplainFloodplainIntegration" }
+io-floodplain-floodplainMongodb = { group = "io.floodplain", name = "floodplain-mongodb", version.ref = "ioFloodplainFloodplainMongodb" }
+io-floodplain-floodplainQuarkus = { group = "io.floodplain", name = "floodplain-quarkus", version.ref = "ioFloodplainFloodplainQuarkus" }
+io-floodplain-floodplainRuntime = { group = "io.floodplain", name = "floodplain-runtime", version.ref = "ioFloodplainFloodplainRuntime" }
+io-floodplain-floodplainStreamTopology = { group = "io.floodplain", name = "floodplain-stream-topology", version.ref = "ioFloodplainFloodplainStreamTopology" }
+io-floodplain-floodplainTest = { group = "io.floodplain", name = "floodplain-test", version.ref = "ioFloodplainFloodplainTest" }
+io-floodplain-immutableApi = { group = "io.floodplain", name = "immutable-api", version.ref = "ioFloodplainImmutableApi" }
+io-floodplain-immutableImpl = { group = "io.floodplain", name = "immutable-impl", version.ref = "ioFloodplainImmutableImpl" }
+io-floodplain-kafkaConverter = { group = "io.floodplain", name = "kafka-converter", version.ref = "ioFloodplainKafkaConverter" }
+io-floodplain-replicationApi = { group = "io.floodplain", name = "replication-api", version.ref = "ioFloodplainReplicationApi" }
+io-floodplain-replicationImpl = { group = "io.floodplain", name = "replication-impl", version.ref = "ioFloodplainReplicationImpl" }
+io-floodplain-replicationJson = { group = "io.floodplain", name = "replication-json", version.ref = "ioFloodplainReplicationJson" }
+io-floodplain-replicationProtobuf = { group = "io.floodplain", name = "replication-protobuf", version.ref = "ioFloodplainReplicationProtobuf" }
+io-floodplain-streams = { group = "io.floodplain", name = "streams", version.ref = "ioFloodplainStreams" }
+io-floodplain-streamsApi = { group = "io.floodplain", name = "streams-api", version.ref = "ioFloodplainStreamsApi" }
+io-fluidsonic-cldr-fluidCldr = { group = "io.fluidsonic.cldr", name = "fluid-cldr", version.ref = "ioFluidsonicCldrFluidCldr" }
+io-fluidsonic-cldr-fluidCldrData = { group = "io.fluidsonic.cldr", name = "fluid-cldr-data", version.ref = "ioFluidsonicCldrFluidCldrData" }
+io-fluidsonic-compiler-fluidCompiler = { group = "io.fluidsonic.compiler", name = "fluid-compiler", version.ref = "ioFluidsonicCompilerFluidCompiler" }
+io-fluidsonic-country-fluidCountry = { group = "io.fluidsonic.country", name = "fluid-country", version.ref = "ioFluidsonicCountryFluidCountry" }
+io-fluidsonic-css-fluidCss = { group = "io.fluidsonic.css", name = "fluid-css", version.ref = "ioFluidsonicCssFluidCss" }
+io-fluidsonic-currency-fluidCurrency = { group = "io.fluidsonic.currency", name = "fluid-currency", version.ref = "ioFluidsonicCurrencyFluidCurrency" }
+io-fluidsonic-graphql-fluidGraphql = { group = "io.fluidsonic.graphql", name = "fluid-graphql", version.ref = "ioFluidsonicGraphqlFluidGraphql" }
+io-fluidsonic-graphql-fluidGraphqlDsl = { group = "io.fluidsonic.graphql", name = "fluid-graphql-dsl", version.ref = "ioFluidsonicGraphqlFluidGraphqlDsl" }
+io-fluidsonic-graphql-fluidGraphqlExecution = { group = "io.fluidsonic.graphql", name = "fluid-graphql-execution", version.ref = "ioFluidsonicGraphqlFluidGraphqlExecution" }
+io-fluidsonic-graphql-fluidGraphqlLanguage = { group = "io.fluidsonic.graphql", name = "fluid-graphql-language", version.ref = "ioFluidsonicGraphqlFluidGraphqlLanguage" }
+io-fluidsonic-i18n-fluidI18n = { group = "io.fluidsonic.i18n", name = "fluid-i18n", version.ref = "ioFluidsonicI18nFluidI18n" }
+io-fluidsonic-i18n-fluidI18nData = { group = "io.fluidsonic.i18n", name = "fluid-i18n-data", version.ref = "ioFluidsonicI18nFluidI18nData" }
+io-fluidsonic-i18n-fluidI18nDataIdentifiers = { group = "io.fluidsonic.i18n", name = "fluid-i18n-data-identifiers", version.ref = "ioFluidsonicI18nFluidI18nDataIdentifiers" }
+io-fluidsonic-i18n-fluidI18nDataRegions = { group = "io.fluidsonic.i18n", name = "fluid-i18n-data-regions", version.ref = "ioFluidsonicI18nFluidI18nDataRegions" }
+io-fluidsonic-json-fluidJsonAnnotationProcessor = { group = "io.fluidsonic.json", name = "fluid-json-annotation-processor", version.ref = "ioFluidsonicJsonFluidJsonAnnotationProcessor" }
+io-fluidsonic-json-fluidJsonAnnotations = { group = "io.fluidsonic.json", name = "fluid-json-annotations", version.ref = "ioFluidsonicJsonFluidJsonAnnotations" }
+io-fluidsonic-json-fluidJsonBasic = { group = "io.fluidsonic.json", name = "fluid-json-basic", version.ref = "ioFluidsonicJsonFluidJsonBasic" }
+io-fluidsonic-json-fluidJsonCoding = { group = "io.fluidsonic.json", name = "fluid-json-coding", version.ref = "ioFluidsonicJsonFluidJsonCoding" }
+io-fluidsonic-json-fluidJsonCodingJdk8 = { group = "io.fluidsonic.json", name = "fluid-json-coding-jdk8", version.ref = "ioFluidsonicJsonFluidJsonCodingJdk8" }
+io-fluidsonic-json-fluidJsonKtorClient = { group = "io.fluidsonic.json", name = "fluid-json-ktor-client", version.ref = "ioFluidsonicJsonFluidJsonKtorClient" }
+io-fluidsonic-locale-fluidLocale = { group = "io.fluidsonic.locale", name = "fluid-locale", version.ref = "ioFluidsonicLocaleFluidLocale" }
+io-fluidsonic-meta-fluidMeta = { group = "io.fluidsonic.meta", name = "fluid-meta", version.ref = "ioFluidsonicMetaFluidMeta" }
+io-fluidsonic-mongo-fluidMongo = { group = "io.fluidsonic.mongo", name = "fluid-mongo", version.ref = "ioFluidsonicMongoFluidMongo" }
+io-fluidsonic-pdf-fluidPdf = { group = "io.fluidsonic.pdf", name = "fluid-pdf", version.ref = "ioFluidsonicPdfFluidPdf" }
+io-fluidsonic-raptor-raptorBson = { group = "io.fluidsonic.raptor", name = "raptor-bson", version.ref = "ioFluidsonicRaptorRaptorBson" }
+io-fluidsonic-raptor-raptorCore = { group = "io.fluidsonic.raptor", name = "raptor-core", version.ref = "ioFluidsonicRaptorRaptorCore" }
+io-fluidsonic-raptor-raptorDi = { group = "io.fluidsonic.raptor", name = "raptor-di", version.ref = "ioFluidsonicRaptorRaptorDi" }
+io-fluidsonic-raptor-raptorDsl = { group = "io.fluidsonic.raptor", name = "raptor-dsl", version.ref = "ioFluidsonicRaptorRaptorDsl" }
+io-fluidsonic-raptor-raptorEntities = { group = "io.fluidsonic.raptor", name = "raptor-entities", version.ref = "ioFluidsonicRaptorRaptorEntities" }
+io-fluidsonic-raptor-raptorEntitiesCore = { group = "io.fluidsonic.raptor", name = "raptor-entities-core", version.ref = "ioFluidsonicRaptorRaptorEntitiesCore" }
+io-fluidsonic-raptor-raptorFreemarker = { group = "io.fluidsonic.raptor", name = "raptor-freemarker", version.ref = "ioFluidsonicRaptorRaptorFreemarker" }
+io-fluidsonic-raptor-raptorGraphql = { group = "io.fluidsonic.raptor", name = "raptor-graphql", version.ref = "ioFluidsonicRaptorRaptorGraphql" }
+io-fluidsonic-raptor-raptorJobs = { group = "io.fluidsonic.raptor", name = "raptor-jobs", version.ref = "ioFluidsonicRaptorRaptorJobs" }
+io-fluidsonic-raptor-raptorJobsQuartzMongo = { group = "io.fluidsonic.raptor", name = "raptor-jobs-quartz-mongo", version.ref = "ioFluidsonicRaptorRaptorJobsQuartzMongo" }
+io-fluidsonic-raptor-raptorKtor = { group = "io.fluidsonic.raptor", name = "raptor-ktor", version.ref = "ioFluidsonicRaptorRaptorKtor" }
+io-fluidsonic-raptor-raptorKtorTest = { group = "io.fluidsonic.raptor", name = "raptor-ktor-test", version.ref = "ioFluidsonicRaptorRaptorKtorTest" }
+io-fluidsonic-raptor-raptorLifecycle = { group = "io.fluidsonic.raptor", name = "raptor-lifecycle", version.ref = "ioFluidsonicRaptorRaptorLifecycle" }
+io-fluidsonic-raptor-raptorMongodb = { group = "io.fluidsonic.raptor", name = "raptor-mongodb", version.ref = "ioFluidsonicRaptorRaptorMongodb" }
+io-fluidsonic-raptor-raptorQuickstart = { group = "io.fluidsonic.raptor", name = "raptor-quickstart", version.ref = "ioFluidsonicRaptorRaptorQuickstart" }
+io-fluidsonic-raptor-raptorSecurity = { group = "io.fluidsonic.raptor", name = "raptor-security", version.ref = "ioFluidsonicRaptorRaptorSecurity" }
+io-fluidsonic-raptor-raptorSettings = { group = "io.fluidsonic.raptor", name = "raptor-settings", version.ref = "ioFluidsonicRaptorRaptorSettings" }
+io-fluidsonic-raptor-raptorSettingsHocon = { group = "io.fluidsonic.raptor", name = "raptor-settings-hocon", version.ref = "ioFluidsonicRaptorRaptorSettingsHocon" }
+io-fluidsonic-raptor-raptorTransactions = { group = "io.fluidsonic.raptor", name = "raptor-transactions", version.ref = "ioFluidsonicRaptorRaptorTransactions" }
+io-fluidsonic-react-fluidReact = { group = "io.fluidsonic.react", name = "fluid-react", version.ref = "ioFluidsonicReactFluidReact" }
+io-fluidsonic-react-fluidReactCoroutines = { group = "io.fluidsonic.react", name = "fluid-react-coroutines", version.ref = "ioFluidsonicReactFluidReactCoroutines" }
+io-fluidsonic-react-fluidReactDom = { group = "io.fluidsonic.react", name = "fluid-react-dom", version.ref = "ioFluidsonicReactFluidReactDom" }
+io-fluidsonic-react-fluidReactHelmet = { group = "io.fluidsonic.react", name = "fluid-react-helmet", version.ref = "ioFluidsonicReactFluidReactHelmet" }
+io-fluidsonic-react-fluidReactRouter = { group = "io.fluidsonic.react", name = "fluid-react-router", version.ref = "ioFluidsonicReactFluidReactRouter" }
+io-fluidsonic-react-fluidReactRouterDom = { group = "io.fluidsonic.react", name = "fluid-react-router-dom", version.ref = "ioFluidsonicReactFluidReactRouterDom" }
+io-fluidsonic-stdlib-fluidStdlib = { group = "io.fluidsonic.stdlib", name = "fluid-stdlib", version.ref = "ioFluidsonicStdlibFluidStdlib" }
+io-fluidsonic-time-fluidTime = { group = "io.fluidsonic.time", name = "fluid-time", version.ref = "ioFluidsonicTimeFluidTime" }
+io-gierla-reactivecomponents-annotations = { group = "io.gierla.reactivecomponents", name = "annotations", version.ref = "ioGierlaReactivecomponentsAnnotations" }
+io-gierla-reactivecomponents-core = { group = "io.gierla.reactivecomponents", name = "core", version.ref = "ioGierlaReactivecomponentsCore" }
+io-github-agcom-knio2 = { group = "io.github.agcom", name = "knio2", version.ref = "ioGithubAgcomKnio2" }
+io-github-animatedledstrip-animatedledstripCore = { group = "io.github.animatedledstrip", name = "animatedledstrip-core", version.ref = "ioGithubAnimatedledstripAnimatedledstripCore" }
+io-github-ashishkujoy-micronautKotestWrapper = { group = "io.github.ashishkujoy", name = "micronaut-kotest-wrapper", version.ref = "ioGithubAshishkujoyMicronautKotestWrapper" }
+io-github-chao2zhang-rnaAnnotation = { group = "io.github.chao2zhang", name = "rna-annotation", version.ref = "ioGithubChao2zhangRnaAnnotation" }
+io-github-chao2zhang-rnaCompilerPlugin = { group = "io.github.chao2zhang", name = "rna-compiler-plugin", version.ref = "ioGithubChao2zhangRnaCompilerPlugin" }
+io-github-chao2zhang-rnaGradlePlugin = { group = "io.github.chao2zhang", name = "rna-gradle-plugin", version.ref = "ioGithubChao2zhangRnaGradlePlugin" }
+io-github-chozzle-composeMacosTheme = { group = "io.github.chozzle", name = "compose-macos-theme", version.ref = "ioGithubChozzleComposeMacosTheme" }
+io-github-coteji-cotejiCore = { group = "io.github.coteji", name = "coteji-core", version.ref = "ioGithubCotejiCotejiCore" }
+io-github-detekt-sarif4j-sarif4j = { group = "io.github.detekt.sarif4j", name = "sarif4j", version.ref = "ioGithubDetektSarif4jSarif4j" }
+io-github-dragneelfps-aria2Kt = { group = "io.github.dragneelfps", name = "aria2-kt", version.ref = "ioGithubDragneelfpsAria2Kt" }
+io-github-dragneelfps-telegramBotKt = { group = "io.github.dragneelfps", name = "telegram-bot.kt", version.ref = "ioGithubDragneelfpsTelegramBotKt" }
+io-github-dzirbel-gsonBijectivereflection = { group = "io.github.dzirbel", name = "gson-bijectivereflection", version.ref = "ioGithubDzirbelGsonBijectivereflection" }
+io-github-eagerlogic-visage = { group = "io.github.eagerlogic", name = "visage", version.ref = "ioGithubEagerlogicVisage" }
+io-github-eaglesakura-armykniferuntime-armyknifeRuntime = { group = "io.github.eaglesakura.armyknife-runtime", name = "armyknife-runtime", version.ref = "ioGithubEaglesakuraArmykniferuntimeArmyknifeRuntime" }
+io-github-eaglesakura-flexiblethreadpooldispatcher-flexibleThreadPoolDispatcher = { group = "io.github.eaglesakura.flexible-thread-pool-dispatcher", name = "flexible-thread-pool-dispatcher", version.ref = "ioGithubEaglesakuraFlexiblethreadpooldispatcherFlexibleThreadPoolDispatcher" }
+io-github-eaglesakura-lazysingleton-lazysingleton = { group = "io.github.eaglesakura.lazysingleton", name = "lazysingleton", version.ref = "ioGithubEaglesakuraLazysingletonLazysingleton" }
+io-github-eaglesakura-staticrandom-staticRandom = { group = "io.github.eaglesakura.static-random", name = "static-random", version.ref = "ioGithubEaglesakuraStaticrandomStaticRandom" }
+io-github-eaglesakura-swagger2codegen-swagger2Codegen = { group = "io.github.eaglesakura.swagger2-codegen", name = "swagger2-codegen", version.ref = "ioGithubEaglesakuraSwagger2codegenSwagger2Codegen" }
+io-github-eaglesakura-workflowdispatcher-workflowDispatcherAnnotations = { group = "io.github.eaglesakura.workflowdispatcher", name = "workflow-dispatcher-annotations", version.ref = "ioGithubEaglesakuraWorkflowdispatcherWorkflowDispatcherAnnotations" }
+io-github-eaglesakura-workflowdispatcher-workflowDispatcherProcessor = { group = "io.github.eaglesakura.workflowdispatcher", name = "workflow-dispatcher-processor", version.ref = "ioGithubEaglesakuraWorkflowdispatcherWorkflowDispatcherProcessor" }
+io-github-ermadmi78-kobbyGeneratorKotlin = { group = "io.github.ermadmi78", name = "kobby-generator-kotlin", version.ref = "ioGithubErmadmi78KobbyGeneratorKotlin" }
+io-github-ermadmi78-kobbyGradlePlugin = { group = "io.github.ermadmi78", name = "kobby-gradle-plugin", version.ref = "ioGithubErmadmi78KobbyGradlePlugin" }
+io-github-ermadmi78-kobbyMavenPlugin = { group = "io.github.ermadmi78", name = "kobby-maven-plugin", version.ref = "ioGithubErmadmi78KobbyMavenPlugin" }
+io-github-ermadmi78-kobbyModel = { group = "io.github.ermadmi78", name = "kobby-model", version.ref = "ioGithubErmadmi78KobbyModel" }
+io-github-fomin-oasGen = { group = "io.github.fomin", name = "oas-gen", version.ref = "ioGithubFominOasGen" }
+io-github-gciatto-ktMath = { group = "io.github.gciatto", name = "kt-math", version.ref = "ioGithubGciattoKtMath" }
+io-github-gciatto-ktMppPp = { group = "io.github.gciatto", name = "kt-mpp-pp", version.ref = "ioGithubGciattoKtMppPp" }
+io-github-gciatto-ktNpmPublish = { group = "io.github.gciatto", name = "kt-npm-publish", version.ref = "ioGithubGciattoKtNpmPublish" }
+io-github-ischca-annotation = { group = "io.github.ischca", name = "annotation", version.ref = "ioGithubIschcaAnnotation" }
+io-github-ischca-compilerPlugin = { group = "io.github.ischca", name = "compiler-plugin", version.ref = "ioGithubIschcaCompilerPlugin" }
+io-github-ischca-usePlugin = { group = "io.github.ischca", name = "use-plugin", version.ref = "ioGithubIschcaUsePlugin" }
+io-github-katerinapetrova-mppSampleLib = { group = "io.github.katerinapetrova", name = "mpp-sample-lib", version.ref = "ioGithubKaterinapetrovaMppSampleLib" }
+io-github-kuuuurt-multiplatformPaging = { group = "io.github.kuuuurt", name = "multiplatform-paging", version.ref = "ioGithubKuuuurtMultiplatformPaging" }
+io-github-libktx-ktxActors = { group = "io.github.libktx", name = "ktx-actors", version.ref = "ioGithubLibktxKtxActors" }
+io-github-libktx-ktxApp = { group = "io.github.libktx", name = "ktx-app", version.ref = "ioGithubLibktxKtxApp" }
+io-github-libktx-ktxAshley = { group = "io.github.libktx", name = "ktx-ashley", version.ref = "ioGithubLibktxKtxAshley" }
+io-github-libktx-ktxAssets = { group = "io.github.libktx", name = "ktx-assets", version.ref = "ioGithubLibktxKtxAssets" }
+io-github-libktx-ktxAssetsAsync = { group = "io.github.libktx", name = "ktx-assets-async", version.ref = "ioGithubLibktxKtxAssetsAsync" }
+io-github-libktx-ktxAsync = { group = "io.github.libktx", name = "ktx-async", version.ref = "ioGithubLibktxKtxAsync" }
+io-github-libktx-ktxBox2d = { group = "io.github.libktx", name = "ktx-box2d", version.ref = "ioGithubLibktxKtxBox2d" }
+io-github-libktx-ktxCollections = { group = "io.github.libktx", name = "ktx-collections", version.ref = "ioGithubLibktxKtxCollections" }
+io-github-libktx-ktxFreetype = { group = "io.github.libktx", name = "ktx-freetype", version.ref = "ioGithubLibktxKtxFreetype" }
+io-github-libktx-ktxFreetypeAsync = { group = "io.github.libktx", name = "ktx-freetype-async", version.ref = "ioGithubLibktxKtxFreetypeAsync" }
+io-github-libktx-ktxGraphics = { group = "io.github.libktx", name = "ktx-graphics", version.ref = "ioGithubLibktxKtxGraphics" }
+io-github-libktx-ktxI18n = { group = "io.github.libktx", name = "ktx-i18n", version.ref = "ioGithubLibktxKtxI18n" }
+io-github-libktx-ktxInject = { group = "io.github.libktx", name = "ktx-inject", version.ref = "ioGithubLibktxKtxInject" }
+io-github-libktx-ktxJson = { group = "io.github.libktx", name = "ktx-json", version.ref = "ioGithubLibktxKtxJson" }
+io-github-libktx-ktxLog = { group = "io.github.libktx", name = "ktx-log", version.ref = "ioGithubLibktxKtxLog" }
+io-github-libktx-ktxMath = { group = "io.github.libktx", name = "ktx-math", version.ref = "ioGithubLibktxKtxMath" }
+io-github-libktx-ktxPreferences = { group = "io.github.libktx", name = "ktx-preferences", version.ref = "ioGithubLibktxKtxPreferences" }
+io-github-libktx-ktxScene2d = { group = "io.github.libktx", name = "ktx-scene2d", version.ref = "ioGithubLibktxKtxScene2d" }
+io-github-libktx-ktxStyle = { group = "io.github.libktx", name = "ktx-style", version.ref = "ioGithubLibktxKtxStyle" }
+io-github-libktx-ktxTiled = { group = "io.github.libktx", name = "ktx-tiled", version.ref = "ioGithubLibktxKtxTiled" }
+io-github-libktx-ktxVis = { group = "io.github.libktx", name = "ktx-vis", version.ref = "ioGithubLibktxKtxVis" }
+io-github-libktx-ktxVisStyle = { group = "io.github.libktx", name = "ktx-vis-style", version.ref = "ioGithubLibktxKtxVisStyle" }
+io-github-microutils-kotlinLogging = { group = "io.github.microutils", name = "kotlin-logging", version.ref = "ioGithubMicroutilsKotlinLogging" }
+io-github-miniclem-kotlinApiRiotWrapper = { group = "io.github.miniclem", name = "kotlin-api-riot-wrapper", version.ref = "ioGithubMiniclemKotlinApiRiotWrapper" }
+io-github-murphp15-jwtClientAuthentitationFilter = { group = "io.github.murphp15", name = "jwt-client-authentitation-filter", version.ref = "ioGithubMurphp15JwtClientAuthentitationFilter" }
+io-github-murphp15-jwtClientAuthorizationFilter = { group = "io.github.murphp15", name = "jwt-client-authorization-filter", version.ref = "ioGithubMurphp15JwtClientAuthorizationFilter" }
+io-github-murphp15-jwtServerAuthenticationFilter = { group = "io.github.murphp15", name = "jwt-server-authentication-filter", version.ref = "ioGithubMurphp15JwtServerAuthenticationFilter" }
+io-github-murphp15-twilioSmsAuthentication = { group = "io.github.murphp15", name = "twilio-sms-authentication", version.ref = "ioGithubMurphp15TwilioSmsAuthentication" }
+io-github-pak3nuh-util-lang-compiler-enumexpression-processor = { group = "io.github.pak3nuh.util.lang.compiler.enum-expression", name = "processor", version.ref = "ioGithubPak3nuhUtilLangCompilerEnumexpressionProcessor" }
+io-github-pak3nuh-util-lang-compiler-genUtil = { group = "io.github.pak3nuh.util.lang.compiler", name = "gen-util", version.ref = "ioGithubPak3nuhUtilLangCompilerGenUtil" }
+io-github-pak3nuh-util-lang-compiler-sealed-processor = { group = "io.github.pak3nuh.util.lang.compiler.sealed", name = "processor", version.ref = "ioGithubPak3nuhUtilLangCompilerSealedProcessor" }
+io-github-rakutentech-manifestconfig-manifestConfigProcessor = { group = "io.github.rakutentech.manifestconfig", name = "manifest-config-processor", version.ref = "ioGithubRakutentechManifestconfigManifestConfigProcessor" }
+io-github-reactivecircus-appversioning-appVersioningGradlePlugin = { group = "io.github.reactivecircus.appversioning", name = "app-versioning-gradle-plugin", version.ref = "ioGithubReactivecircusAppversioningAppVersioningGradlePlugin" }
+io-github-reactivecircus-blueprint-blueprintAsyncCoroutines = { group = "io.github.reactivecircus.blueprint", name = "blueprint-async-coroutines", version.ref = "ioGithubReactivecircusBlueprintBlueprintAsyncCoroutines" }
+io-github-reactivecircus-blueprint-blueprintAsyncRx2 = { group = "io.github.reactivecircus.blueprint", name = "blueprint-async-rx2", version.ref = "ioGithubReactivecircusBlueprintBlueprintAsyncRx2" }
+io-github-reactivecircus-blueprint-blueprintAsyncRx3 = { group = "io.github.reactivecircus.blueprint", name = "blueprint-async-rx3", version.ref = "ioGithubReactivecircusBlueprintBlueprintAsyncRx3" }
+io-github-reactivecircus-blueprint-blueprintInteractorCommon = { group = "io.github.reactivecircus.blueprint", name = "blueprint-interactor-common", version.ref = "ioGithubReactivecircusBlueprintBlueprintInteractorCommon" }
+io-github-reactivecircus-blueprint-blueprintInteractorCoroutines = { group = "io.github.reactivecircus.blueprint", name = "blueprint-interactor-coroutines", version.ref = "ioGithubReactivecircusBlueprintBlueprintInteractorCoroutines" }
+io-github-reactivecircus-blueprint-blueprintInteractorRx2 = { group = "io.github.reactivecircus.blueprint", name = "blueprint-interactor-rx2", version.ref = "ioGithubReactivecircusBlueprintBlueprintInteractorRx2" }
+io-github-reactivecircus-blueprint-blueprintInteractorRx3 = { group = "io.github.reactivecircus.blueprint", name = "blueprint-interactor-rx3", version.ref = "ioGithubReactivecircusBlueprintBlueprintInteractorRx3" }
+io-github-reactivecircus-cache4k-cache4k = { group = "io.github.reactivecircus.cache4k", name = "cache4k", version.ref = "ioGithubReactivecircusCache4kCache4k" }
+io-github-ricardorlg-devicefarmTractor = { group = "io.github.ricardorlg", name = "devicefarm-tractor", version.ref = "ioGithubRicardorlgDevicefarmTractor" }
+io-github-ricardorlg-devicefarmTractorGradlePlugin = { group = "io.github.ricardorlg", name = "devicefarm-tractor-gradle-plugin", version.ref = "ioGithubRicardorlgDevicefarmTractorGradlePlugin" }
+io-github-sapientpants-structurizrMacros = { group = "io.github.sapientpants", name = "structurizr-macros", version.ref = "ioGithubSapientpantsStructurizrMacros" }
+io-github-sorokod-simpleaesgcm = { group = "io.github.sorokod", name = "simpleaesgcm", version.ref = "ioGithubSorokodSimpleaesgcm" }
+io-github-thiyagu06-reactiveSqsConsumer = { group = "io.github.thiyagu06", name = "reactive-sqs-consumer", version.ref = "ioGithubThiyagu06ReactiveSqsConsumer" }
+io-gitlab-arturbosch-detekt-customChecks = { group = "io.gitlab.arturbosch.detekt", name = "custom-checks", version.ref = "ioGitlabArturboschDetektCustomChecks" }
+io-gitlab-arturbosch-detekt-detektApi = { group = "io.gitlab.arturbosch.detekt", name = "detekt-api", version.ref = "ioGitlabArturboschDetektDetektApi" }
+io-gitlab-arturbosch-detekt-detektCli = { group = "io.gitlab.arturbosch.detekt", name = "detekt-cli", version.ref = "ioGitlabArturboschDetektDetektCli" }
+io-gitlab-arturbosch-detekt-detektCore = { group = "io.gitlab.arturbosch.detekt", name = "detekt-core", version.ref = "ioGitlabArturboschDetektDetektCore" }
+io-gitlab-arturbosch-detekt-detektFormatting = { group = "io.gitlab.arturbosch.detekt", name = "detekt-formatting", version.ref = "ioGitlabArturboschDetektDetektFormatting" }
+io-gitlab-arturbosch-detekt-detektGenerator = { group = "io.gitlab.arturbosch.detekt", name = "detekt-generator", version.ref = "ioGitlabArturboschDetektDetektGenerator" }
+io-gitlab-arturbosch-detekt-detektGradlePlugin = { group = "io.gitlab.arturbosch.detekt", name = "detekt-gradle-plugin", version.ref = "ioGitlabArturboschDetektDetektGradlePlugin" }
+io-gitlab-arturbosch-detekt-detektMetrics = { group = "io.gitlab.arturbosch.detekt", name = "detekt-metrics", version.ref = "ioGitlabArturboschDetektDetektMetrics" }
+io-gitlab-arturbosch-detekt-detektParser = { group = "io.gitlab.arturbosch.detekt", name = "detekt-parser", version.ref = "ioGitlabArturboschDetektDetektParser" }
+io-gitlab-arturbosch-detekt-detektPsiUtils = { group = "io.gitlab.arturbosch.detekt", name = "detekt-psi-utils", version.ref = "ioGitlabArturboschDetektDetektPsiUtils" }
+io-gitlab-arturbosch-detekt-detektReportHtml = { group = "io.gitlab.arturbosch.detekt", name = "detekt-report-html", version.ref = "ioGitlabArturboschDetektDetektReportHtml" }
+io-gitlab-arturbosch-detekt-detektReportSarif = { group = "io.gitlab.arturbosch.detekt", name = "detekt-report-sarif", version.ref = "ioGitlabArturboschDetektDetektReportSarif" }
+io-gitlab-arturbosch-detekt-detektReportTxt = { group = "io.gitlab.arturbosch.detekt", name = "detekt-report-txt", version.ref = "ioGitlabArturboschDetektDetektReportTxt" }
+io-gitlab-arturbosch-detekt-detektReportXml = { group = "io.gitlab.arturbosch.detekt", name = "detekt-report-xml", version.ref = "ioGitlabArturboschDetektDetektReportXml" }
+io-gitlab-arturbosch-detekt-detektRules = { group = "io.gitlab.arturbosch.detekt", name = "detekt-rules", version.ref = "ioGitlabArturboschDetektDetektRules" }
+io-gitlab-arturbosch-detekt-detektRulesComplexity = { group = "io.gitlab.arturbosch.detekt", name = "detekt-rules-complexity", version.ref = "ioGitlabArturboschDetektDetektRulesComplexity" }
+io-gitlab-arturbosch-detekt-detektRulesCoroutines = { group = "io.gitlab.arturbosch.detekt", name = "detekt-rules-coroutines", version.ref = "ioGitlabArturboschDetektDetektRulesCoroutines" }
+io-gitlab-arturbosch-detekt-detektRulesDocumentation = { group = "io.gitlab.arturbosch.detekt", name = "detekt-rules-documentation", version.ref = "ioGitlabArturboschDetektDetektRulesDocumentation" }
+io-gitlab-arturbosch-detekt-detektRulesEmpty = { group = "io.gitlab.arturbosch.detekt", name = "detekt-rules-empty", version.ref = "ioGitlabArturboschDetektDetektRulesEmpty" }
+io-gitlab-arturbosch-detekt-detektRulesErrorprone = { group = "io.gitlab.arturbosch.detekt", name = "detekt-rules-errorprone", version.ref = "ioGitlabArturboschDetektDetektRulesErrorprone" }
+io-gitlab-arturbosch-detekt-detektRulesExceptions = { group = "io.gitlab.arturbosch.detekt", name = "detekt-rules-exceptions", version.ref = "ioGitlabArturboschDetektDetektRulesExceptions" }
+io-gitlab-arturbosch-detekt-detektRulesNaming = { group = "io.gitlab.arturbosch.detekt", name = "detekt-rules-naming", version.ref = "ioGitlabArturboschDetektDetektRulesNaming" }
+io-gitlab-arturbosch-detekt-detektRulesPerformance = { group = "io.gitlab.arturbosch.detekt", name = "detekt-rules-performance", version.ref = "ioGitlabArturboschDetektDetektRulesPerformance" }
+io-gitlab-arturbosch-detekt-detektRulesStyle = { group = "io.gitlab.arturbosch.detekt", name = "detekt-rules-style", version.ref = "ioGitlabArturboschDetektDetektRulesStyle" }
+io-gitlab-arturbosch-detekt-detektSampleExtensions = { group = "io.gitlab.arturbosch.detekt", name = "detekt-sample-extensions", version.ref = "ioGitlabArturboschDetektDetektSampleExtensions" }
+io-gitlab-arturbosch-detekt-detektTest = { group = "io.gitlab.arturbosch.detekt", name = "detekt-test", version.ref = "ioGitlabArturboschDetektDetektTest" }
+io-gitlab-arturbosch-detekt-detektTestUtils = { group = "io.gitlab.arturbosch.detekt", name = "detekt-test-utils", version.ref = "ioGitlabArturboschDetektDetektTestUtils" }
+io-gitlab-arturbosch-detekt-detektTooling = { group = "io.gitlab.arturbosch.detekt", name = "detekt-tooling", version.ref = "ioGitlabArturboschDetektDetektTooling" }
+io-guthix-jagexBytebuf = { group = "io.guthix", name = "jagex-bytebuf", version.ref = "ioGuthixJagexBytebuf" }
+io-guthix-jagexStore5 = { group = "io.guthix", name = "jagex-store-5", version.ref = "ioGuthixJagexStore5" }
+io-guthix-oldscape-oldscapeCache = { group = "io.guthix.oldscape", name = "oldscape-cache", version.ref = "ioGuthixOldscapeOldscapeCache" }
+io-guthix-oldscape-oldscapeWiki = { group = "io.guthix.oldscape", name = "oldscape-wiki", version.ref = "ioGuthixOldscapeOldscapeWiki" }
+io-guthix-oldscape-oldscapeWikiDownloader = { group = "io.guthix.oldscape", name = "oldscape-wiki-downloader", version.ref = "ioGuthixOldscapeOldscapeWikiDownloader" }
+io-guthix-oldscape-oldscapeWikiParser = { group = "io.guthix.oldscape", name = "oldscape-wiki-parser", version.ref = "ioGuthixOldscapeOldscapeWikiParser" }
+io-hackle-hackleJvmSdk = { group = "io.hackle", name = "hackle-jvm-sdk", version.ref = "ioHackleHackleJvmSdk" }
+io-hackle-hackleSdkCommon = { group = "io.hackle", name = "hackle-sdk-common", version.ref = "ioHackleHackleSdkCommon" }
+io-hackle-hackleSdkCore = { group = "io.hackle", name = "hackle-sdk-core", version.ref = "ioHackleHackleSdkCore" }
+io-hackle-hackleServerSdk = { group = "io.hackle", name = "hackle-server-sdk", version.ref = "ioHackleHackleServerSdk" }
+io-hkhc-gradle-simplepublisher = { group = "io.hkhc.gradle", name = "simplepublisher", version.ref = "ioHkhcGradleSimplepublisher" }
+io-hndrs-jsonapiSpringBootStarter = { group = "io.hndrs", name = "jsonapi-spring-boot-starter", version.ref = "ioHndrsJsonapiSpringBootStarter" }
+io-hndrs-jwtAuthSpringBootStarter = { group = "io.hndrs", name = "jwt-auth-spring-boot-starter", version.ref = "ioHndrsJwtAuthSpringBootStarter" }
+io-hndrs-slack-slackApiClient = { group = "io.hndrs.slack", name = "slack-api-client", version.ref = "ioHndrsSlackSlackApiClient" }
+io-hndrs-slack-slackJacksonDto = { group = "io.hndrs.slack", name = "slack-jackson-dto", version.ref = "ioHndrsSlackSlackJacksonDto" }
+io-hndrs-slack-slackJacksonDtoTest = { group = "io.hndrs.slack", name = "slack-jackson-dto-test", version.ref = "ioHndrsSlackSlackJacksonDtoTest" }
+io-hndrs-slack-slackSpringApiClient = { group = "io.hndrs.slack", name = "slack-spring-api-client", version.ref = "ioHndrsSlackSlackSpringApiClient" }
+io-hndrs-slack-slackSpringBoot = { group = "io.hndrs.slack", name = "slack-spring-boot", version.ref = "ioHndrsSlackSlackSpringBoot" }
+io-hndrs-slack-slackSpringBootAutoconfigure = { group = "io.hndrs.slack", name = "slack-spring-boot-autoconfigure", version.ref = "ioHndrsSlackSlackSpringBootAutoconfigure" }
+io-hndrs-slack-slackSpringBootStarter = { group = "io.hndrs.slack", name = "slack-spring-boot-starter", version.ref = "ioHndrsSlackSlackSpringBootStarter" }
+io-hndrs-slack-slackSpringTestApiClient = { group = "io.hndrs.slack", name = "slack-spring-test-api-client", version.ref = "ioHndrsSlackSlackSpringTestApiClient" }
+io-hndrs-springJsonApi = { group = "io.hndrs", name = "spring-json-api", version.ref = "ioHndrsSpringJsonApi" }
+io-infinitic-infiniticCache = { group = "io.infinitic", name = "infinitic-cache", version.ref = "ioInfiniticInfiniticCache" }
+io-infinitic-infiniticClient = { group = "io.infinitic", name = "infinitic-client", version.ref = "ioInfiniticInfiniticClient" }
+io-infinitic-infiniticCommon = { group = "io.infinitic", name = "infinitic-common", version.ref = "ioInfiniticInfiniticCommon" }
+io-infinitic-infiniticInMemory = { group = "io.infinitic", name = "infinitic-inMemory", version.ref = "ioInfiniticInfiniticInMemory" }
+io-infinitic-infiniticMonitoringEngines = { group = "io.infinitic", name = "infinitic-monitoring-engines", version.ref = "ioInfiniticInfiniticMonitoringEngines" }
+io-infinitic-infiniticPulsar = { group = "io.infinitic", name = "infinitic-pulsar", version.ref = "ioInfiniticInfiniticPulsar" }
+io-infinitic-infiniticStorage = { group = "io.infinitic", name = "infinitic-storage", version.ref = "ioInfiniticInfiniticStorage" }
+io-infinitic-infiniticTaskEngine = { group = "io.infinitic", name = "infinitic-task-engine", version.ref = "ioInfiniticInfiniticTaskEngine" }
+io-infinitic-infiniticTaskExecutor = { group = "io.infinitic", name = "infinitic-task-executor", version.ref = "ioInfiniticInfiniticTaskExecutor" }
+io-infinitic-infiniticWorkerPulsar = { group = "io.infinitic", name = "infinitic-worker-pulsar", version.ref = "ioInfiniticInfiniticWorkerPulsar" }
+io-infinitic-infiniticWorkflowEngine = { group = "io.infinitic", name = "infinitic-workflow-engine", version.ref = "ioInfiniticInfiniticWorkflowEngine" }
+io-infinitic-infiniticWorkflowTask = { group = "io.infinitic", name = "infinitic-workflow-task", version.ref = "ioInfiniticInfiniticWorkflowTask" }
+io-insertkoin-koinCore = { group = "io.insert-koin", name = "koin-core", version.ref = "ioInsertkoinKoinCore" }
+io-insertkoin-koinCoreExt = { group = "io.insert-koin", name = "koin-core-ext", version.ref = "ioInsertkoinKoinCoreExt" }
+io-insertkoin-koinKtor = { group = "io.insert-koin", name = "koin-ktor", version.ref = "ioInsertkoinKoinKtor" }
+io-insertkoin-koinLoggerSlf4j = { group = "io.insert-koin", name = "koin-logger-slf4j", version.ref = "ioInsertkoinKoinLoggerSlf4j" }
+io-insertkoin-koinTest = { group = "io.insert-koin", name = "koin-test", version.ref = "ioInsertkoinKoinTest" }
+io-insertkoin-koinTestJunit4 = { group = "io.insert-koin", name = "koin-test-junit4", version.ref = "ioInsertkoinKoinTestJunit4" }
+io-insertkoin-koinTestJunit5 = { group = "io.insert-koin", name = "koin-test-junit5", version.ref = "ioInsertkoinKoinTestJunit5" }
+io-insource-inRulesEngine = { group = "io.insource", name = "in-rules-engine", version.ref = "ioInsourceInRulesEngine" }
+io-insource-inSpringZeromq = { group = "io.insource", name = "in-spring-zeromq", version.ref = "ioInsourceInSpringZeromq" }
+io-islandtime-core = { group = "io.islandtime", name = "core", version.ref = "ioIslandtimeCore" }
+io-islandtime-serializationExtensions = { group = "io.islandtime", name = "serialization-extensions", version.ref = "ioIslandtimeSerializationExtensions" }
+io-jawg-geojson-geojsonJackson = { group = "io.jawg.geojson", name = "geojson-jackson", version.ref = "ioJawgGeojsonGeojsonJackson" }
+io-jawg-geojson-geojsonJacksonJtsExtensions = { group = "io.jawg.geojson", name = "geojson-jackson-jts-extensions", version.ref = "ioJawgGeojsonGeojsonJacksonJtsExtensions" }
+io-johnsonlee-booster-boosterPngquantProvider = { group = "io.johnsonlee.booster", name = "booster-pngquant-provider", version.ref = "ioJohnsonleeBoosterBoosterPngquantProvider" }
+io-johnsonlee-buildprops-buildpropsGradlePlugin = { group = "io.johnsonlee.buildprops", name = "buildprops-gradle-plugin", version.ref = "ioJohnsonleeBuildpropsBuildpropsGradlePlugin" }
+io-johnsonlee-gradle-gradlePrometheusPlugin = { group = "io.johnsonlee.gradle", name = "gradle-prometheus-plugin", version.ref = "ioJohnsonleeGradleGradlePrometheusPlugin" }
+io-johnsonlee-laReader = { group = "io.johnsonlee", name = "la-reader", version.ref = "ioJohnsonleeLaReader" }
+io-johnsonlee-spi-boosterTransformServiceLoader = { group = "io.johnsonlee.spi", name = "booster-transform-service-loader", version.ref = "ioJohnsonleeSpiBoosterTransformServiceLoader" }
+io-johnsonlee-spi-serviceCompiler = { group = "io.johnsonlee.spi", name = "service-compiler", version.ref = "ioJohnsonleeSpiServiceCompiler" }
+io-johnsonlee-traceFileParser = { group = "io.johnsonlee", name = "trace-file-parser", version.ref = "ioJohnsonleeTraceFileParser" }
+io-johnsonlee-uxu-uxu = { group = "io.johnsonlee.uxu", name = "uxu", version.ref = "ioJohnsonleeUxuUxu" }
+io-jumpco-open-kfsm = { group = "io.jumpco.open", name = "kfsm", version.ref = "ioJumpcoOpenKfsm" }
+io-jumpco-open-kfsmCommon = { group = "io.jumpco.open", name = "kfsm-common", version.ref = "ioJumpcoOpenKfsmCommon" }
+io-knotx-knotxGradlePlugins = { group = "io.knotx", name = "knotx-gradle-plugins", version.ref = "ioKnotxKnotxGradlePlugins" }
+io-kotest-extensions-kotestAssertionsArrow = { group = "io.kotest.extensions", name = "kotest-assertions-arrow", version.ref = "ioKotestExtensionsKotestAssertionsArrow" }
+io-kotest-extensions-kotestAssertionsJsoup = { group = "io.kotest.extensions", name = "kotest-assertions-jsoup", version.ref = "ioKotestExtensionsKotestAssertionsJsoup" }
+io-kotest-extensions-kotestAssertionsKotlinxDatetime = { group = "io.kotest.extensions", name = "kotest-assertions-kotlinx-datetime", version.ref = "ioKotestExtensionsKotestAssertionsKotlinxDatetime" }
+io-kotest-extensions-kotestAssertionsKtor = { group = "io.kotest.extensions", name = "kotest-assertions-ktor", version.ref = "ioKotestExtensionsKotestAssertionsKtor" }
+io-kotest-extensions-kotestExtensionsEmbeddedKafka = { group = "io.kotest.extensions", name = "kotest-extensions-embedded-kafka", version.ref = "ioKotestExtensionsKotestExtensionsEmbeddedKafka" }
+io-kotest-extensions-kotestExtensionsRobolectric = { group = "io.kotest.extensions", name = "kotest-extensions-robolectric", version.ref = "ioKotestExtensionsKotestExtensionsRobolectric" }
+io-kotest-extensions-kotestExtensionsWiremock = { group = "io.kotest.extensions", name = "kotest-extensions-wiremock", version.ref = "ioKotestExtensionsKotestExtensionsWiremock" }
+io-kotest-kotestAssertions = { group = "io.kotest", name = "kotest-assertions", version.ref = "ioKotestKotestAssertions" }
+io-kotest-kotestAssertionsApi = { group = "io.kotest", name = "kotest-assertions-api", version.ref = "ioKotestKotestAssertionsApi" }
+io-kotest-kotestAssertionsArrow = { group = "io.kotest", name = "kotest-assertions-arrow", version.ref = "ioKotestKotestAssertionsArrow" }
+io-kotest-kotestAssertionsCompiler = { group = "io.kotest", name = "kotest-assertions-compiler", version.ref = "ioKotestKotestAssertionsCompiler" }
+io-kotest-kotestAssertionsCore = { group = "io.kotest", name = "kotest-assertions-core", version.ref = "ioKotestKotestAssertionsCore" }
+io-kotest-kotestAssertionsJson = { group = "io.kotest", name = "kotest-assertions-json", version.ref = "ioKotestKotestAssertionsJson" }
+io-kotest-kotestAssertionsJsoup = { group = "io.kotest", name = "kotest-assertions-jsoup", version.ref = "ioKotestKotestAssertionsJsoup" }
+io-kotest-kotestAssertionsKlock = { group = "io.kotest", name = "kotest-assertions-klock", version.ref = "ioKotestKotestAssertionsKlock" }
+io-kotest-kotestAssertionsKonform = { group = "io.kotest", name = "kotest-assertions-konform", version.ref = "ioKotestKotestAssertionsKonform" }
+io-kotest-kotestAssertionsKotlinxTime = { group = "io.kotest", name = "kotest-assertions-kotlinx-time", version.ref = "ioKotestKotestAssertionsKotlinxTime" }
+io-kotest-kotestAssertionsKtor = { group = "io.kotest", name = "kotest-assertions-ktor", version.ref = "ioKotestKotestAssertionsKtor" }
+io-kotest-kotestAssertionsShared = { group = "io.kotest", name = "kotest-assertions-shared", version.ref = "ioKotestKotestAssertionsShared" }
+io-kotest-kotestAssertionsSql = { group = "io.kotest", name = "kotest-assertions-sql", version.ref = "ioKotestKotestAssertionsSql" }
+io-kotest-kotestCommon = { group = "io.kotest", name = "kotest-common", version.ref = "ioKotestKotestCommon" }
+io-kotest-kotestCore = { group = "io.kotest", name = "kotest-core", version.ref = "ioKotestKotestCore" }
+io-kotest-kotestExtensions = { group = "io.kotest", name = "kotest-extensions", version.ref = "ioKotestKotestExtensions" }
+io-kotest-kotestExtensionsAllure = { group = "io.kotest", name = "kotest-extensions-allure", version.ref = "ioKotestKotestExtensionsAllure" }
+io-kotest-kotestExtensionsEmbeddedKafka = { group = "io.kotest", name = "kotest-extensions-embedded-kafka", version.ref = "ioKotestKotestExtensionsEmbeddedKafka" }
+io-kotest-kotestExtensionsHttp = { group = "io.kotest", name = "kotest-extensions-http", version.ref = "ioKotestKotestExtensionsHttp" }
+io-kotest-kotestExtensionsJunit5 = { group = "io.kotest", name = "kotest-extensions-junit5", version.ref = "ioKotestKotestExtensionsJunit5" }
+io-kotest-kotestExtensionsJunit5extensions = { group = "io.kotest", name = "kotest-extensions-junit5extensions", version.ref = "ioKotestKotestExtensionsJunit5extensions" }
+io-kotest-kotestExtensionsJunitxml = { group = "io.kotest", name = "kotest-extensions-junitxml", version.ref = "ioKotestKotestExtensionsJunitxml" }
+io-kotest-kotestExtensionsKoin = { group = "io.kotest", name = "kotest-extensions-koin", version.ref = "ioKotestKotestExtensionsKoin" }
+io-kotest-kotestExtensionsMockserver = { group = "io.kotest", name = "kotest-extensions-mockserver", version.ref = "ioKotestKotestExtensionsMockserver" }
+io-kotest-kotestExtensionsRobolectric = { group = "io.kotest", name = "kotest-extensions-robolectric", version.ref = "ioKotestKotestExtensionsRobolectric" }
+io-kotest-kotestExtensionsSpring = { group = "io.kotest", name = "kotest-extensions-spring", version.ref = "ioKotestKotestExtensionsSpring" }
+io-kotest-kotestExtensionsTestcontainers = { group = "io.kotest", name = "kotest-extensions-testcontainers", version.ref = "ioKotestKotestExtensionsTestcontainers" }
+io-kotest-kotestExtensionsWiremock = { group = "io.kotest", name = "kotest-extensions-wiremock", version.ref = "ioKotestKotestExtensionsWiremock" }
+io-kotest-kotestFp = { group = "io.kotest", name = "kotest-fp", version.ref = "ioKotestKotestFp" }
+io-kotest-kotestFrameworkApi = { group = "io.kotest", name = "kotest-framework-api", version.ref = "ioKotestKotestFrameworkApi" }
+io-kotest-kotestFrameworkDiscovery = { group = "io.kotest", name = "kotest-framework-discovery", version.ref = "ioKotestKotestFrameworkDiscovery" }
+io-kotest-kotestFrameworkEngine = { group = "io.kotest", name = "kotest-framework-engine", version.ref = "ioKotestKotestFrameworkEngine" }
+io-kotest-kotestFrameworkLauncher = { group = "io.kotest", name = "kotest-framework-launcher", version.ref = "ioKotestKotestFrameworkLauncher" }
+io-kotest-kotestLauncher = { group = "io.kotest", name = "kotest-launcher", version.ref = "ioKotestKotestLauncher" }
+io-kotest-kotestMpp = { group = "io.kotest", name = "kotest-mpp", version.ref = "ioKotestKotestMpp" }
+io-kotest-kotestPluginsPitest = { group = "io.kotest", name = "kotest-plugins-pitest", version.ref = "ioKotestKotestPluginsPitest" }
+io-kotest-kotestProperty = { group = "io.kotest", name = "kotest-property", version.ref = "ioKotestKotestProperty" }
+io-kotest-kotestPropertyArrow = { group = "io.kotest", name = "kotest-property-arrow", version.ref = "ioKotestKotestPropertyArrow" }
+io-kotest-kotestPropertyDatetime = { group = "io.kotest", name = "kotest-property-datetime", version.ref = "ioKotestKotestPropertyDatetime" }
+io-kotest-kotestRunnerConsole = { group = "io.kotest", name = "kotest-runner-console", version.ref = "ioKotestKotestRunnerConsole" }
+io-kotest-kotestRunnerJunit4 = { group = "io.kotest", name = "kotest-runner-junit4", version.ref = "ioKotestKotestRunnerJunit4" }
+io-kotest-kotestRunnerJunit5 = { group = "io.kotest", name = "kotest-runner-junit5", version.ref = "ioKotestKotestRunnerJunit5" }
+io-ktgp-core = { group = "io.ktgp", name = "core", version.ref = "ioKtgpCore" }
+io-ktor-ktorAuthJwtKotlinMultiplatform = { group = "io.ktor", name = "ktor-auth-jwt-kotlinMultiplatform", version.ref = "ioKtorKtorAuthJwtKotlinMultiplatform" }
+io-ktor-ktorAuthKotlinMultiplatform = { group = "io.ktor", name = "ktor-auth-kotlinMultiplatform", version.ref = "ioKtorKtorAuthKotlinMultiplatform" }
+io-ktor-ktorAuthLdapKotlinMultiplatform = { group = "io.ktor", name = "ktor-auth-ldap-kotlinMultiplatform", version.ref = "ioKtorKtorAuthLdapKotlinMultiplatform" }
+io-ktor-ktorClientAndroidKotlinMultiplatform = { group = "io.ktor", name = "ktor-client-android-kotlinMultiplatform", version.ref = "ioKtorKtorClientAndroidKotlinMultiplatform" }
+io-ktor-ktorClientApacheKotlinMultiplatform = { group = "io.ktor", name = "ktor-client-apache-kotlinMultiplatform", version.ref = "ioKtorKtorClientApacheKotlinMultiplatform" }
+io-ktor-ktorClientAuth = { group = "io.ktor", name = "ktor-client-auth", version.ref = "ioKtorKtorClientAuth" }
+io-ktor-ktorClientAuthBasic = { group = "io.ktor", name = "ktor-client-auth-basic", version.ref = "ioKtorKtorClientAuthBasic" }
+io-ktor-ktorClientAuthBasicNative = { group = "io.ktor", name = "ktor-client-auth-basic-native", version.ref = "ioKtorKtorClientAuthBasicNative" }
+io-ktor-ktorClientAuthNative = { group = "io.ktor", name = "ktor-client-auth-native", version.ref = "ioKtorKtorClientAuthNative" }
+io-ktor-ktorClientCio = { group = "io.ktor", name = "ktor-client-cio", version.ref = "ioKtorKtorClientCio" }
+io-ktor-ktorClientCioKotlinMultiplatform = { group = "io.ktor", name = "ktor-client-cio-kotlinMultiplatform", version.ref = "ioKtorKtorClientCioKotlinMultiplatform" }
+io-ktor-ktorClientCore = { group = "io.ktor", name = "ktor-client-core", version.ref = "ioKtorKtorClientCore" }
+io-ktor-ktorClientCoreIos = { group = "io.ktor", name = "ktor-client-core-ios", version.ref = "ioKtorKtorClientCoreIos" }
+io-ktor-ktorClientCoreNative = { group = "io.ktor", name = "ktor-client-core-native", version.ref = "ioKtorKtorClientCoreNative" }
+io-ktor-ktorClientCurl = { group = "io.ktor", name = "ktor-client-curl", version.ref = "ioKtorKtorClientCurl" }
+io-ktor-ktorClientEncoding = { group = "io.ktor", name = "ktor-client-encoding", version.ref = "ioKtorKtorClientEncoding" }
+io-ktor-ktorClientEncodingNative = { group = "io.ktor", name = "ktor-client-encoding-native", version.ref = "ioKtorKtorClientEncodingNative" }
+io-ktor-ktorClientFeaturesKotlinMultiplatform = { group = "io.ktor", name = "ktor-client-features-kotlinMultiplatform", version.ref = "ioKtorKtorClientFeaturesKotlinMultiplatform" }
+io-ktor-ktorClientGsonKotlinMultiplatform = { group = "io.ktor", name = "ktor-client-gson-kotlinMultiplatform", version.ref = "ioKtorKtorClientGsonKotlinMultiplatform" }
+io-ktor-ktorClientIos = { group = "io.ktor", name = "ktor-client-ios", version.ref = "ioKtorKtorClientIos" }
+io-ktor-ktorClientJacksonKotlinMultiplatform = { group = "io.ktor", name = "ktor-client-jackson-kotlinMultiplatform", version.ref = "ioKtorKtorClientJacksonKotlinMultiplatform" }
+io-ktor-ktorClientJavaKotlinMultiplatform = { group = "io.ktor", name = "ktor-client-java-kotlinMultiplatform", version.ref = "ioKtorKtorClientJavaKotlinMultiplatform" }
+io-ktor-ktorClientJettyKotlinMultiplatform = { group = "io.ktor", name = "ktor-client-jetty-kotlinMultiplatform", version.ref = "ioKtorKtorClientJettyKotlinMultiplatform" }
+io-ktor-ktorClientJsKotlinMultiplatform = { group = "io.ktor", name = "ktor-client-js-kotlinMultiplatform", version.ref = "ioKtorKtorClientJsKotlinMultiplatform" }
+io-ktor-ktorClientJson = { group = "io.ktor", name = "ktor-client-json", version.ref = "ioKtorKtorClientJson" }
+io-ktor-ktorClientJsonIos = { group = "io.ktor", name = "ktor-client-json-ios", version.ref = "ioKtorKtorClientJsonIos" }
+io-ktor-ktorClientJsonNative = { group = "io.ktor", name = "ktor-client-json-native", version.ref = "ioKtorKtorClientJsonNative" }
+io-ktor-ktorClientJsonTestsKotlinMultiplatform = { group = "io.ktor", name = "ktor-client-json-tests-kotlinMultiplatform", version.ref = "ioKtorKtorClientJsonTestsKotlinMultiplatform" }
+io-ktor-ktorClientKotlinMultiplatform = { group = "io.ktor", name = "ktor-client-kotlinMultiplatform", version.ref = "ioKtorKtorClientKotlinMultiplatform" }
+io-ktor-ktorClientLogging = { group = "io.ktor", name = "ktor-client-logging", version.ref = "ioKtorKtorClientLogging" }
+io-ktor-ktorClientLoggingIos = { group = "io.ktor", name = "ktor-client-logging-ios", version.ref = "ioKtorKtorClientLoggingIos" }
+io-ktor-ktorClientLoggingNative = { group = "io.ktor", name = "ktor-client-logging-native", version.ref = "ioKtorKtorClientLoggingNative" }
+io-ktor-ktorClientMock = { group = "io.ktor", name = "ktor-client-mock", version.ref = "ioKtorKtorClientMock" }
+io-ktor-ktorClientMockIos = { group = "io.ktor", name = "ktor-client-mock-ios", version.ref = "ioKtorKtorClientMockIos" }
+io-ktor-ktorClientMockNative = { group = "io.ktor", name = "ktor-client-mock-native", version.ref = "ioKtorKtorClientMockNative" }
+io-ktor-ktorClientOkhttpKotlinMultiplatform = { group = "io.ktor", name = "ktor-client-okhttp-kotlinMultiplatform", version.ref = "ioKtorKtorClientOkhttpKotlinMultiplatform" }
+io-ktor-ktorClientSerialization = { group = "io.ktor", name = "ktor-client-serialization", version.ref = "ioKtorKtorClientSerialization" }
+io-ktor-ktorClientSerializationNative = { group = "io.ktor", name = "ktor-client-serialization-native", version.ref = "ioKtorKtorClientSerializationNative" }
+io-ktor-ktorClientTests = { group = "io.ktor", name = "ktor-client-tests", version.ref = "ioKtorKtorClientTests" }
+io-ktor-ktorClientTestsDispatcherNative = { group = "io.ktor", name = "ktor-client-tests-dispatcher-native", version.ref = "ioKtorKtorClientTestsDispatcherNative" }
+io-ktor-ktorClientTestsNative = { group = "io.ktor", name = "ktor-client-tests-native", version.ref = "ioKtorKtorClientTestsNative" }
+io-ktor-ktorClientWebsockets = { group = "io.ktor", name = "ktor-client-websockets", version.ref = "ioKtorKtorClientWebsockets" }
+io-ktor-ktorClientWebsocketsNative = { group = "io.ktor", name = "ktor-client-websockets-native", version.ref = "ioKtorKtorClientWebsocketsNative" }
+io-ktor-ktorFeaturesKotlinMultiplatform = { group = "io.ktor", name = "ktor-features-kotlinMultiplatform", version.ref = "ioKtorKtorFeaturesKotlinMultiplatform" }
+io-ktor-ktorFreemarkerKotlinMultiplatform = { group = "io.ktor", name = "ktor-freemarker-kotlinMultiplatform", version.ref = "ioKtorKtorFreemarkerKotlinMultiplatform" }
+io-ktor-ktorGsonKotlinMultiplatform = { group = "io.ktor", name = "ktor-gson-kotlinMultiplatform", version.ref = "ioKtorKtorGsonKotlinMultiplatform" }
+io-ktor-ktorHtmlBuilderKotlinMultiplatform = { group = "io.ktor", name = "ktor-html-builder-kotlinMultiplatform", version.ref = "ioKtorKtorHtmlBuilderKotlinMultiplatform" }
+io-ktor-ktorHttp = { group = "io.ktor", name = "ktor-http", version.ref = "ioKtorKtorHttp" }
+io-ktor-ktorHttpCio = { group = "io.ktor", name = "ktor-http-cio", version.ref = "ioKtorKtorHttpCio" }
+io-ktor-ktorHttpCioNative = { group = "io.ktor", name = "ktor-http-cio-native", version.ref = "ioKtorKtorHttpCioNative" }
+io-ktor-ktorHttpIos = { group = "io.ktor", name = "ktor-http-ios", version.ref = "ioKtorKtorHttpIos" }
+io-ktor-ktorHttpNative = { group = "io.ktor", name = "ktor-http-native", version.ref = "ioKtorKtorHttpNative" }
+io-ktor-ktorIo = { group = "io.ktor", name = "ktor-io", version.ref = "ioKtorKtorIo" }
+io-ktor-ktorIoNative = { group = "io.ktor", name = "ktor-io-native", version.ref = "ioKtorKtorIoNative" }
+io-ktor-ktorJacksonKotlinMultiplatform = { group = "io.ktor", name = "ktor-jackson-kotlinMultiplatform", version.ref = "ioKtorKtorJacksonKotlinMultiplatform" }
+io-ktor-ktorKotlinMultiplatform = { group = "io.ktor", name = "ktor-kotlinMultiplatform", version.ref = "ioKtorKtorKotlinMultiplatform" }
+io-ktor-ktorLocationsKotlinMultiplatform = { group = "io.ktor", name = "ktor-locations-kotlinMultiplatform", version.ref = "ioKtorKtorLocationsKotlinMultiplatform" }
+io-ktor-ktorMetricsKotlinMultiplatform = { group = "io.ktor", name = "ktor-metrics-kotlinMultiplatform", version.ref = "ioKtorKtorMetricsKotlinMultiplatform" }
+io-ktor-ktorMetricsMicrometerKotlinMultiplatform = { group = "io.ktor", name = "ktor-metrics-micrometer-kotlinMultiplatform", version.ref = "ioKtorKtorMetricsMicrometerKotlinMultiplatform" }
+io-ktor-ktorMustacheKotlinMultiplatform = { group = "io.ktor", name = "ktor-mustache-kotlinMultiplatform", version.ref = "ioKtorKtorMustacheKotlinMultiplatform" }
+io-ktor-ktorNetwork = { group = "io.ktor", name = "ktor-network", version.ref = "ioKtorKtorNetwork" }
+io-ktor-ktorNetworkKotlinMultiplatform = { group = "io.ktor", name = "ktor-network-kotlinMultiplatform", version.ref = "ioKtorKtorNetworkKotlinMultiplatform" }
+io-ktor-ktorNetworkTls = { group = "io.ktor", name = "ktor-network-tls", version.ref = "ioKtorKtorNetworkTls" }
+io-ktor-ktorNetworkTlsKotlinMultiplatform = { group = "io.ktor", name = "ktor-network-tls-kotlinMultiplatform", version.ref = "ioKtorKtorNetworkTlsKotlinMultiplatform" }
+io-ktor-ktorPebbleKotlinMultiplatform = { group = "io.ktor", name = "ktor-pebble-kotlinMultiplatform", version.ref = "ioKtorKtorPebbleKotlinMultiplatform" }
+io-ktor-ktorSerializationKotlinMultiplatform = { group = "io.ktor", name = "ktor-serialization-kotlinMultiplatform", version.ref = "ioKtorKtorSerializationKotlinMultiplatform" }
+io-ktor-ktorServerCioKotlinMultiplatform = { group = "io.ktor", name = "ktor-server-cio-kotlinMultiplatform", version.ref = "ioKtorKtorServerCioKotlinMultiplatform" }
+io-ktor-ktorServerCoreKotlinMultiplatform = { group = "io.ktor", name = "ktor-server-core-kotlinMultiplatform", version.ref = "ioKtorKtorServerCoreKotlinMultiplatform" }
+io-ktor-ktorServerHostCommonKotlinMultiplatform = { group = "io.ktor", name = "ktor-server-host-common-kotlinMultiplatform", version.ref = "ioKtorKtorServerHostCommonKotlinMultiplatform" }
+io-ktor-ktorServerJettyKotlinMultiplatform = { group = "io.ktor", name = "ktor-server-jetty-kotlinMultiplatform", version.ref = "ioKtorKtorServerJettyKotlinMultiplatform" }
+io-ktor-ktorServerKotlinMultiplatform = { group = "io.ktor", name = "ktor-server-kotlinMultiplatform", version.ref = "ioKtorKtorServerKotlinMultiplatform" }
+io-ktor-ktorServerNettyKotlinMultiplatform = { group = "io.ktor", name = "ktor-server-netty-kotlinMultiplatform", version.ref = "ioKtorKtorServerNettyKotlinMultiplatform" }
+io-ktor-ktorServerServletKotlinMultiplatform = { group = "io.ktor", name = "ktor-server-servlet-kotlinMultiplatform", version.ref = "ioKtorKtorServerServletKotlinMultiplatform" }
+io-ktor-ktorServerSessionsKotlinMultiplatform = { group = "io.ktor", name = "ktor-server-sessions-kotlinMultiplatform", version.ref = "ioKtorKtorServerSessionsKotlinMultiplatform" }
+io-ktor-ktorServerTestHostKotlinMultiplatform = { group = "io.ktor", name = "ktor-server-test-host-kotlinMultiplatform", version.ref = "ioKtorKtorServerTestHostKotlinMultiplatform" }
+io-ktor-ktorServerTestSuitesKotlinMultiplatform = { group = "io.ktor", name = "ktor-server-test-suites-kotlinMultiplatform", version.ref = "ioKtorKtorServerTestSuitesKotlinMultiplatform" }
+io-ktor-ktorServerTestsKotlinMultiplatform = { group = "io.ktor", name = "ktor-server-tests-kotlinMultiplatform", version.ref = "ioKtorKtorServerTestsKotlinMultiplatform" }
+io-ktor-ktorServerTomcatKotlinMultiplatform = { group = "io.ktor", name = "ktor-server-tomcat-kotlinMultiplatform", version.ref = "ioKtorKtorServerTomcatKotlinMultiplatform" }
+io-ktor-ktorTestDispatcher = { group = "io.ktor", name = "ktor-test-dispatcher", version.ref = "ioKtorKtorTestDispatcher" }
+io-ktor-ktorTestDispatcherNative = { group = "io.ktor", name = "ktor-test-dispatcher-native", version.ref = "ioKtorKtorTestDispatcherNative" }
+io-ktor-ktorThymeleafKotlinMultiplatform = { group = "io.ktor", name = "ktor-thymeleaf-kotlinMultiplatform", version.ref = "ioKtorKtorThymeleafKotlinMultiplatform" }
+io-ktor-ktorUtils = { group = "io.ktor", name = "ktor-utils", version.ref = "ioKtorKtorUtils" }
+io-ktor-ktorUtilsIos = { group = "io.ktor", name = "ktor-utils-ios", version.ref = "ioKtorKtorUtilsIos" }
+io-ktor-ktorUtilsNative = { group = "io.ktor", name = "ktor-utils-native", version.ref = "ioKtorKtorUtilsNative" }
+io-ktor-ktorVelocityKotlinMultiplatform = { group = "io.ktor", name = "ktor-velocity-kotlinMultiplatform", version.ref = "ioKtorKtorVelocityKotlinMultiplatform" }
+io-ktor-ktorWebjarsKotlinMultiplatform = { group = "io.ktor", name = "ktor-webjars-kotlinMultiplatform", version.ref = "ioKtorKtorWebjarsKotlinMultiplatform" }
+io-ktor-ktorWebsocketsKotlinMultiplatform = { group = "io.ktor", name = "ktor-websockets-kotlinMultiplatform", version.ref = "ioKtorKtorWebsocketsKotlinMultiplatform" }
+io-kuberig-kuberigDslBase = { group = "io.kuberig", name = "kuberig-dsl-base", version.ref = "ioKuberigKuberigDslBase" }
+io-kuberig-kuberigDslGenerator = { group = "io.kuberig", name = "kuberig-dsl-generator", version.ref = "ioKuberigKuberigDslGenerator" }
+io-kuberig-kuberigDslGeneratorGradlePlugin = { group = "io.kuberig", name = "kuberig-dsl-generator-gradle-plugin", version.ref = "ioKuberigKuberigDslGeneratorGradlePlugin" }
+io-kvision-jqueryKotlin = { group = "io.kvision", name = "jquery-kotlin", version.ref = "ioKvisionJqueryKotlin" }
+io-kvision-kvision = { group = "io.kvision", name = "kvision", version.ref = "ioKvisionKvision" }
+io-kvision-kvisionBootstrap = { group = "io.kvision", name = "kvision-bootstrap", version.ref = "ioKvisionKvisionBootstrap" }
+io-kvision-kvisionBootstrapCss = { group = "io.kvision", name = "kvision-bootstrap-css", version.ref = "ioKvisionKvisionBootstrapCss" }
+io-kvision-kvisionBootstrapDatetime = { group = "io.kvision", name = "kvision-bootstrap-datetime", version.ref = "ioKvisionKvisionBootstrapDatetime" }
+io-kvision-kvisionBootstrapDialog = { group = "io.kvision", name = "kvision-bootstrap-dialog", version.ref = "ioKvisionKvisionBootstrapDialog" }
+io-kvision-kvisionBootstrapSelect = { group = "io.kvision", name = "kvision-bootstrap-select", version.ref = "ioKvisionKvisionBootstrapSelect" }
+io-kvision-kvisionBootstrapSelectRemote = { group = "io.kvision", name = "kvision-bootstrap-select-remote", version.ref = "ioKvisionKvisionBootstrapSelectRemote" }
+io-kvision-kvisionBootstrapSpinner = { group = "io.kvision", name = "kvision-bootstrap-spinner", version.ref = "ioKvisionKvisionBootstrapSpinner" }
+io-kvision-kvisionBootstrapTypeahead = { group = "io.kvision", name = "kvision-bootstrap-typeahead", version.ref = "ioKvisionKvisionBootstrapTypeahead" }
+io-kvision-kvisionBootstrapTypeaheadRemote = { group = "io.kvision", name = "kvision-bootstrap-typeahead-remote", version.ref = "ioKvisionKvisionBootstrapTypeaheadRemote" }
+io-kvision-kvisionBootstrapUpload = { group = "io.kvision", name = "kvision-bootstrap-upload", version.ref = "ioKvisionKvisionBootstrapUpload" }
+io-kvision-kvisionChart = { group = "io.kvision", name = "kvision-chart", version.ref = "ioKvisionKvisionChart" }
+io-kvision-kvisionCommonAnnotations = { group = "io.kvision", name = "kvision-common-annotations", version.ref = "ioKvisionKvisionCommonAnnotations" }
+io-kvision-kvisionCommonRemote = { group = "io.kvision", name = "kvision-common-remote", version.ref = "ioKvisionKvisionCommonRemote" }
+io-kvision-kvisionCommonTypes = { group = "io.kvision", name = "kvision-common-types", version.ref = "ioKvisionKvisionCommonTypes" }
+io-kvision-kvisionCompilerPlugin = { group = "io.kvision", name = "kvision-compiler-plugin", version.ref = "ioKvisionKvisionCompilerPlugin" }
+io-kvision-kvisionCordova = { group = "io.kvision", name = "kvision-cordova", version.ref = "ioKvisionKvisionCordova" }
+io-kvision-kvisionDatacontainer = { group = "io.kvision", name = "kvision-datacontainer", version.ref = "ioKvisionKvisionDatacontainer" }
+io-kvision-kvisionElectron = { group = "io.kvision", name = "kvision-electron", version.ref = "ioKvisionKvisionElectron" }
+io-kvision-kvisionEventFlow = { group = "io.kvision", name = "kvision-event-flow", version.ref = "ioKvisionKvisionEventFlow" }
+io-kvision-kvisionFontawesome = { group = "io.kvision", name = "kvision-fontawesome", version.ref = "ioKvisionKvisionFontawesome" }
+io-kvision-kvisionGradlePlugin = { group = "io.kvision", name = "kvision-gradle-plugin", version.ref = "ioKvisionKvisionGradlePlugin" }
+io-kvision-kvisionHandlebars = { group = "io.kvision", name = "kvision-handlebars", version.ref = "ioKvisionKvisionHandlebars" }
+io-kvision-kvisionI18n = { group = "io.kvision", name = "kvision-i18n", version.ref = "ioKvisionKvisionI18n" }
+io-kvision-kvisionMaps = { group = "io.kvision", name = "kvision-maps", version.ref = "ioKvisionKvisionMaps" }
+io-kvision-kvisionMoment = { group = "io.kvision", name = "kvision-moment", version.ref = "ioKvisionKvisionMoment" }
+io-kvision-kvisionOnsenui = { group = "io.kvision", name = "kvision-onsenui", version.ref = "ioKvisionKvisionOnsenui" }
+io-kvision-kvisionOnsenuiCss = { group = "io.kvision", name = "kvision-onsenui-css", version.ref = "ioKvisionKvisionOnsenuiCss" }
+io-kvision-kvisionPace = { group = "io.kvision", name = "kvision-pace", version.ref = "ioKvisionKvisionPace" }
+io-kvision-kvisionPrint = { group = "io.kvision", name = "kvision-print", version.ref = "ioKvisionKvisionPrint" }
+io-kvision-kvisionReact = { group = "io.kvision", name = "kvision-react", version.ref = "ioKvisionKvisionReact" }
+io-kvision-kvisionRedux = { group = "io.kvision", name = "kvision-redux", version.ref = "ioKvisionKvisionRedux" }
+io-kvision-kvisionReduxKotlin = { group = "io.kvision", name = "kvision-redux-kotlin", version.ref = "ioKvisionKvisionReduxKotlin" }
+io-kvision-kvisionRichtext = { group = "io.kvision", name = "kvision-richtext", version.ref = "ioKvisionKvisionRichtext" }
+io-kvision-kvisionRoutingNavigo = { group = "io.kvision", name = "kvision-routing-navigo", version.ref = "ioKvisionKvisionRoutingNavigo" }
+io-kvision-kvisionRoutingNavigoNg = { group = "io.kvision", name = "kvision-routing-navigo-ng", version.ref = "ioKvisionKvisionRoutingNavigoNg" }
+io-kvision-kvisionServerJavalin = { group = "io.kvision", name = "kvision-server-javalin", version.ref = "ioKvisionKvisionServerJavalin" }
+io-kvision-kvisionServerJooby = { group = "io.kvision", name = "kvision-server-jooby", version.ref = "ioKvisionKvisionServerJooby" }
+io-kvision-kvisionServerKtor = { group = "io.kvision", name = "kvision-server-ktor", version.ref = "ioKvisionKvisionServerKtor" }
+io-kvision-kvisionServerMicronaut = { group = "io.kvision", name = "kvision-server-micronaut", version.ref = "ioKvisionKvisionServerMicronaut" }
+io-kvision-kvisionServerSpringBoot = { group = "io.kvision", name = "kvision-server-spring-boot", version.ref = "ioKvisionKvisionServerSpringBoot" }
+io-kvision-kvisionServerVertx = { group = "io.kvision", name = "kvision-server-vertx", version.ref = "ioKvisionKvisionServerVertx" }
+io-kvision-kvisionTabulator = { group = "io.kvision", name = "kvision-tabulator", version.ref = "ioKvisionKvisionTabulator" }
+io-kvision-kvisionTabulatorRemote = { group = "io.kvision", name = "kvision-tabulator-remote", version.ref = "ioKvisionKvisionTabulatorRemote" }
+io-kvision-kvisionTestutils = { group = "io.kvision", name = "kvision-testutils", version.ref = "ioKvisionKvisionTestutils" }
+io-kvision-kvisionToast = { group = "io.kvision", name = "kvision-toast", version.ref = "ioKvisionKvisionToast" }
+io-kvision-navigoKotlin = { group = "io.kvision", name = "navigo-kotlin", version.ref = "ioKvisionNavigoKotlin" }
+io-kvision-navigoKotlinNg = { group = "io.kvision", name = "navigo-kotlin-ng", version.ref = "ioKvisionNavigoKotlinNg" }
+io-kvision-snabbdomKotlin = { group = "io.kvision", name = "snabbdom-kotlin", version.ref = "ioKvisionSnabbdomKotlin" }
+io-lightweightform-lightweightformCore = { group = "io.lightweightform", name = "lightweightform-core", version.ref = "ioLightweightformLightweightformCore" }
+io-mehow-laboratory-laboratory = { group = "io.mehow.laboratory", name = "laboratory", version.ref = "ioMehowLaboratoryLaboratory" }
+io-mehow-laboratory-laboratoryGenerator = { group = "io.mehow.laboratory", name = "laboratory-generator", version.ref = "ioMehowLaboratoryLaboratoryGenerator" }
+io-mehow-laboratory-laboratoryGradlePlugin = { group = "io.mehow.laboratory", name = "laboratory-gradle-plugin", version.ref = "ioMehowLaboratoryLaboratoryGradlePlugin" }
+io-mehow-ruler-ruler = { group = "io.mehow.ruler", name = "ruler", version.ref = "ioMehowRulerRuler" }
+io-mehow-threetenbp-utils = { group = "io.mehow.threetenbp", name = "utils", version.ref = "ioMehowThreetenbpUtils" }
+io-micronaut-azure-micronautExampleKotlin = { group = "io.micronaut.azure", name = "micronaut-example-kotlin", version.ref = "ioMicronautAzureMicronautExampleKotlin" }
+io-micronaut-example-micronautGraphqlExampleHelloWorldKotlin = { group = "io.micronaut.example", name = "micronaut-graphql-example-hello-world-kotlin", version.ref = "ioMicronautExampleMicronautGraphqlExampleHelloWorldKotlin" }
+io-micronaut-kotlin-micronautGreeting = { group = "io.micronaut.kotlin", name = "micronaut-greeting", version.ref = "ioMicronautKotlinMicronautGreeting" }
+io-micronaut-kotlin-micronautKotlinExtensionFunctions = { group = "io.micronaut.kotlin", name = "micronaut-kotlin-extension-functions", version.ref = "ioMicronautKotlinMicronautKotlinExtensionFunctions" }
+io-micronaut-kotlin-micronautKotlinRuntime = { group = "io.micronaut.kotlin", name = "micronaut-kotlin-runtime", version.ref = "ioMicronautKotlinMicronautKotlinRuntime" }
+io-micronaut-kotlin-micronautKtor = { group = "io.micronaut.kotlin", name = "micronaut-ktor", version.ref = "ioMicronautKotlinMicronautKtor" }
+io-micronaut-micronautHttp = { group = "io.micronaut", name = "micronaut-http", version.ref = "ioMicronautMicronautHttp" }
+io-micronaut-micronautTestSuiteKotlin = { group = "io.micronaut", name = "micronaut-test-suite-kotlin", version.ref = "ioMicronautMicronautTestSuiteKotlin" }
+io-micronaut-test-micronautTestKotest = { group = "io.micronaut.test", name = "micronaut-test-kotest", version.ref = "ioMicronautTestMicronautTestKotest" }
+io-micronaut-test-micronautTestKotlintest = { group = "io.micronaut.test", name = "micronaut-test-kotlintest", version.ref = "ioMicronautTestMicronautTestKotlintest" }
+io-mockk-mockk = { group = "io.mockk", name = "mockk", version.ref = "ioMockkMockk" }
+io-mockk-mockkAgentApi = { group = "io.mockk", name = "mockk-agent-api", version.ref = "ioMockkMockkAgentApi" }
+io-mockk-mockkAgentCommon = { group = "io.mockk", name = "mockk-agent-common", version.ref = "ioMockkMockkAgentCommon" }
+io-mockk-mockkAgentJvm = { group = "io.mockk", name = "mockk-agent-jvm", version.ref = "ioMockkMockkAgentJvm" }
+io-mockk-mockkDslJvm = { group = "io.mockk", name = "mockk-dsl-jvm", version.ref = "ioMockkMockkDslJvm" }
+io-monkeypatch-kaval-kavalArrow = { group = "io.monkeypatch.kaval", name = "kaval-arrow", version.ref = "ioMonkeypatchKavalKavalArrow" }
+io-monkeypatch-kaval-kavalCore = { group = "io.monkeypatch.kaval", name = "kaval-core", version.ref = "ioMonkeypatchKavalKavalCore" }
+io-monkeypatch-kaval-kavalCoroutine = { group = "io.monkeypatch.kaval", name = "kaval-coroutine", version.ref = "ioMonkeypatchKavalKavalCoroutine" }
+io-monkeypatch-kaval-kavalKotest = { group = "io.monkeypatch.kaval", name = "kaval-kotest", version.ref = "ioMonkeypatchKavalKavalKotest" }
+io-monkeypatch-kaval-kavalReflect = { group = "io.monkeypatch.kaval", name = "kaval-reflect", version.ref = "ioMonkeypatchKavalKavalReflect" }
+io-nacular-doodle-animation = { group = "io.nacular.doodle", name = "animation", version.ref = "ioNacularDoodleAnimation" }
+io-nacular-doodle-browser = { group = "io.nacular.doodle", name = "browser", version.ref = "ioNacularDoodleBrowser" }
+io-nacular-doodle-controls = { group = "io.nacular.doodle", name = "controls", version.ref = "ioNacularDoodleControls" }
+io-nacular-doodle-core = { group = "io.nacular.doodle", name = "core", version.ref = "ioNacularDoodleCore" }
+io-nacular-doodle-doodle = { group = "io.nacular.doodle", name = "doodle", version.ref = "ioNacularDoodleDoodle" }
+io-nacular-doodle-themes = { group = "io.nacular.doodle", name = "themes", version.ref = "ioNacularDoodleThemes" }
+io-nacular-measured-measured = { group = "io.nacular.measured", name = "measured", version.ref = "ioNacularMeasuredMeasured" }
+io-nats-bridge-natsJmsBridgeSpringbootApp = { group = "io.nats.bridge", name = "nats-jms-bridge-springboot-app", version.ref = "ioNatsBridgeNatsJmsBridgeSpringbootApp" }
+io-nixer-bloomTool = { group = "io.nixer", name = "bloom-tool", version.ref = "ioNixerBloomTool" }
+io-onema-playlistDsl = { group = "io.onema", name = "playlist-dsl", version.ref = "ioOnemaPlaylistDsl" }
+io-opengood-commons-kotlinCommons = { group = "io.opengood.commons", name = "kotlin-commons", version.ref = "ioOpengoodCommonsKotlinCommons" }
+io-opengood-commons-springCommons = { group = "io.opengood.commons", name = "spring-commons", version.ref = "ioOpengoodCommonsSpringCommons" }
+io-opentelemetry-javaagent-instrumentation-opentelemetryJavaagentKotlinxCoroutines = { group = "io.opentelemetry.javaagent.instrumentation", name = "opentelemetry-javaagent-kotlinx-coroutines", version.ref = "ioOpentelemetryJavaagentInstrumentationOpentelemetryJavaagentKotlinxCoroutines" }
+io-opentelemetry-opentelemetryExtensionKotlin = { group = "io.opentelemetry", name = "opentelemetry-extension-kotlin", version.ref = "ioOpentelemetryOpentelemetryExtensionKotlin" }
+io-outfoxx-swiftpoet = { group = "io.outfoxx", name = "swiftpoet", version.ref = "ioOutfoxxSwiftpoet" }
+io-outfoxx-typescriptpoet = { group = "io.outfoxx", name = "typescriptpoet", version.ref = "ioOutfoxxTypescriptpoet" }
+io-peekandpoke-ultra-common = { group = "io.peekandpoke.ultra", name = "common", version.ref = "ioPeekandpokeUltraCommon" }
+io-peekandpoke-ultra-commonmp = { group = "io.peekandpoke.ultra", name = "commonmp", version.ref = "ioPeekandpokeUltraCommonmp" }
+io-peekandpoke-ultra-kontainer = { group = "io.peekandpoke.ultra", name = "kontainer", version.ref = "ioPeekandpokeUltraKontainer" }
+io-peekandpoke-ultra-logging = { group = "io.peekandpoke.ultra", name = "logging", version.ref = "ioPeekandpokeUltraLogging" }
+io-peekandpoke-ultra-meta = { group = "io.peekandpoke.ultra", name = "meta", version.ref = "ioPeekandpokeUltraMeta" }
+io-peekandpoke-ultra-mutator = { group = "io.peekandpoke.ultra", name = "mutator", version.ref = "ioPeekandpokeUltraMutator" }
+io-peekandpoke-ultra-security = { group = "io.peekandpoke.ultra", name = "security", version.ref = "ioPeekandpokeUltraSecurity" }
+io-peekandpoke-ultra-slumber = { group = "io.peekandpoke.ultra", name = "slumber", version.ref = "ioPeekandpokeUltraSlumber" }
+io-peekandpoke-ultra-ultra = { group = "io.peekandpoke.ultra", name = "ultra", version.ref = "ioPeekandpokeUltraUltra" }
+io-pixeloutlaw-kindling = { group = "io.pixeloutlaw", name = "kindling", version.ref = "ioPixeloutlawKindling" }
+io-pixeloutlaw-mythicdrops-mythicdrops = { group = "io.pixeloutlaw.mythicdrops", name = "mythicdrops", version.ref = "ioPixeloutlawMythicdropsMythicdrops" }
+io-pixeloutlaw-plumbing115R1 = { group = "io.pixeloutlaw", name = "plumbing-1_15_R1", version.ref = "ioPixeloutlawPlumbing115R1" }
+io-pixeloutlaw-plumbing116R1 = { group = "io.pixeloutlaw", name = "plumbing-1_16_R1", version.ref = "ioPixeloutlawPlumbing116R1" }
+io-pixeloutlaw-plumbing116R2 = { group = "io.pixeloutlaw", name = "plumbing-1_16_R2", version.ref = "ioPixeloutlawPlumbing116R2" }
+io-pixeloutlaw-plumbing116R3 = { group = "io.pixeloutlaw", name = "plumbing-1_16_R3", version.ref = "ioPixeloutlawPlumbing116R3" }
+io-pixeloutlaw-plumbingApi = { group = "io.pixeloutlaw", name = "plumbing-api", version.ref = "ioPixeloutlawPlumbingApi" }
+io-pixeloutlaw-plumbingLib = { group = "io.pixeloutlaw", name = "plumbing-lib", version.ref = "ioPixeloutlawPlumbingLib" }
+io-pixeloutlaw-worldguard-adapter62X = { group = "io.pixeloutlaw.worldguard", name = "adapter-6.2.x", version.ref = "ioPixeloutlawWorldguardAdapter62X" }
+io-pixeloutlaw-worldguard-adapter70X = { group = "io.pixeloutlaw.worldguard", name = "adapter-7.0.x", version.ref = "ioPixeloutlawWorldguardAdapter70X" }
+io-pixeloutlaw-worldguard-adapterApi = { group = "io.pixeloutlaw.worldguard", name = "adapter-api", version.ref = "ioPixeloutlawWorldguardAdapterApi" }
+io-pixeloutlaw-worldguard-adapterLib = { group = "io.pixeloutlaw.worldguard", name = "adapter-lib", version.ref = "ioPixeloutlawWorldguardAdapterLib" }
+io-projectreactor-reactorCore = { group = "io.projectreactor", name = "reactor-core", version.ref = "ioProjectreactorReactorCore" }
+io-projectreactor-reactorTest = { group = "io.projectreactor", name = "reactor-test", version.ref = "ioProjectreactorReactorTest" }
+io-realm-realmAnnotationsProcessor = { group = "io.realm", name = "realm-annotations-processor", version.ref = "ioRealmRealmAnnotationsProcessor" }
+io-realm-realmTransformer = { group = "io.realm", name = "realm-transformer", version.ref = "ioRealmRealmTransformer" }
+io-reflectoring-bootgraphAnnotations = { group = "io.reflectoring", name = "bootgraph-annotations", version.ref = "ioReflectoringBootgraphAnnotations" }
+io-reflectoring-bootgraphCore = { group = "io.reflectoring", name = "bootgraph-core", version.ref = "ioReflectoringBootgraphCore" }
+io-sirix-sirixRestApi = { group = "io.sirix", name = "sirix-rest-api", version.ref = "ioSirixSirixRestApi" }
+io-strikt-striktArrow = { group = "io.strikt", name = "strikt-arrow", version.ref = "ioStriktStriktArrow" }
+io-strikt-striktCore = { group = "io.strikt", name = "strikt-core", version.ref = "ioStriktStriktCore" }
+io-strikt-striktGradle = { group = "io.strikt", name = "strikt-gradle", version.ref = "ioStriktStriktGradle" }
+io-strikt-striktJackson = { group = "io.strikt", name = "strikt-jackson", version.ref = "ioStriktStriktJackson" }
+io-strikt-striktJavaTime = { group = "io.strikt", name = "strikt-java-time", version.ref = "ioStriktStriktJavaTime" }
+io-strikt-striktJvm = { group = "io.strikt", name = "strikt-jvm", version.ref = "ioStriktStriktJvm" }
+io-strikt-striktMockk = { group = "io.strikt", name = "strikt-mockk", version.ref = "ioStriktStriktMockk" }
+io-strikt-striktProtobuf = { group = "io.strikt", name = "strikt-protobuf", version.ref = "ioStriktStriktProtobuf" }
+io-strikt-striktSpring = { group = "io.strikt", name = "strikt-spring", version.ref = "ioStriktStriktSpring" }
+io-teamif-comciganLib = { group = "io.teamif", name = "comcigan-lib", version.ref = "ioTeamifComciganLib" }
+io-tesfy-tesfyKotlin = { group = "io.tesfy", name = "tesfy-kotlin", version.ref = "ioTesfyTesfyKotlin" }
+io-thumbcat-oss-semver2KtCore = { group = "io.thumbcat.oss", name = "semver2-kt-core", version.ref = "ioThumbcatOssSemver2KtCore" }
+io-v47-events = { group = "io.v47", name = "events", version.ref = "ioV47Events" }
+io-voiapp-android-buildscripts = { group = "io.voiapp.android", name = "buildscripts", version.ref = "ioVoiappAndroidBuildscripts" }
+io-yegair-jom-jom = { group = "io.yegair.jom", name = "jom", version.ref = "ioYegairJomJom" }
+it-czerwinski-android-hilt-hiltAnnotations = { group = "it.czerwinski.android.hilt", name = "hilt-annotations", version.ref = "itCzerwinskiAndroidHiltHiltAnnotations" }
+it-czerwinski-android-hilt-hiltProcessor = { group = "it.czerwinski.android.hilt", name = "hilt-processor", version.ref = "itCzerwinskiAndroidHiltHiltProcessor" }
+it-czerwinski-android-room-roomConverters = { group = "it.czerwinski.android.room", name = "room-converters", version.ref = "itCzerwinskiAndroidRoomRoomConverters" }
+it-czerwinski-android-room-roomConvertersProcessor = { group = "it.czerwinski.android.room", name = "room-converters-processor", version.ref = "itCzerwinskiAndroidRoomRoomConvertersProcessor" }
+it-czerwinski-kotlinUtil = { group = "it.czerwinski", name = "kotlin-util", version.ref = "itCzerwinskiKotlinUtil" }
+it-skrape-skrapeIt = { group = "it.skrape", name = "skrape-it", version.ref = "itSkrapeSkrapeIt" }
+it-skrape-skrapeitCore = { group = "it.skrape", name = "skrapeit-core", version.ref = "itSkrapeSkrapeitCore" }
+it-unibo-alchemist-alchemist = { group = "it.unibo.alchemist", name = "alchemist", version.ref = "itUniboAlchemistAlchemist" }
+it-unibo-alchemist-alchemistCognitiveAgents = { group = "it.unibo.alchemist", name = "alchemist-cognitive-agents", version.ref = "itUniboAlchemistAlchemistCognitiveAgents" }
+it-unibo-alchemist-alchemistEngine = { group = "it.unibo.alchemist", name = "alchemist-engine", version.ref = "itUniboAlchemistAlchemistEngine" }
+it-unibo-alchemist-alchemistEuclideanGeometry = { group = "it.unibo.alchemist", name = "alchemist-euclidean-geometry", version.ref = "itUniboAlchemistAlchemistEuclideanGeometry" }
+it-unibo-alchemist-alchemistFull = { group = "it.unibo.alchemist", name = "alchemist-full", version.ref = "itUniboAlchemistAlchemistFull" }
+it-unibo-alchemist-alchemistFxui = { group = "it.unibo.alchemist", name = "alchemist-fxui", version.ref = "itUniboAlchemistAlchemistFxui" }
+it-unibo-alchemist-alchemistGrid = { group = "it.unibo.alchemist", name = "alchemist-grid", version.ref = "itUniboAlchemistAlchemistGrid" }
+it-unibo-alchemist-alchemistImplementationbase = { group = "it.unibo.alchemist", name = "alchemist-implementationbase", version.ref = "itUniboAlchemistAlchemistImplementationbase" }
+it-unibo-alchemist-alchemistIncarnationBiochemistry = { group = "it.unibo.alchemist", name = "alchemist-incarnation-biochemistry", version.ref = "itUniboAlchemistAlchemistIncarnationBiochemistry" }
+it-unibo-alchemist-alchemistIncarnationProtelis = { group = "it.unibo.alchemist", name = "alchemist-incarnation-protelis", version.ref = "itUniboAlchemistAlchemistIncarnationProtelis" }
+it-unibo-alchemist-alchemistIncarnationSapere = { group = "it.unibo.alchemist", name = "alchemist-incarnation-sapere", version.ref = "itUniboAlchemistAlchemistIncarnationSapere" }
+it-unibo-alchemist-alchemistIncarnationScafi = { group = "it.unibo.alchemist", name = "alchemist-incarnation-scafi", version.ref = "itUniboAlchemistAlchemistIncarnationScafi" }
+it-unibo-alchemist-alchemistInfluenceSphere = { group = "it.unibo.alchemist", name = "alchemist-influence-sphere", version.ref = "itUniboAlchemistAlchemistInfluenceSphere" }
+it-unibo-alchemist-alchemistInterfaces = { group = "it.unibo.alchemist", name = "alchemist-interfaces", version.ref = "itUniboAlchemistAlchemistInterfaces" }
+it-unibo-alchemist-alchemistLoading = { group = "it.unibo.alchemist", name = "alchemist-loading", version.ref = "itUniboAlchemistAlchemistLoading" }
+it-unibo-alchemist-alchemistMaps = { group = "it.unibo.alchemist", name = "alchemist-maps", version.ref = "itUniboAlchemistAlchemistMaps" }
+it-unibo-alchemist-alchemistPhysicalAgents = { group = "it.unibo.alchemist", name = "alchemist-physical-agents", version.ref = "itUniboAlchemistAlchemistPhysicalAgents" }
+it-unibo-alchemist-alchemistSapereMathexp = { group = "it.unibo.alchemist", name = "alchemist-sapere-mathexp", version.ref = "itUniboAlchemistAlchemistSapereMathexp" }
+it-unibo-alchemist-alchemistSmartcam = { group = "it.unibo.alchemist", name = "alchemist-smartcam", version.ref = "itUniboAlchemistAlchemistSmartcam" }
+it-unibo-alchemist-alchemistSwingui = { group = "it.unibo.alchemist", name = "alchemist-swingui", version.ref = "itUniboAlchemistAlchemistSwingui" }
+it-unibo-alchemist-alchemistTest = { group = "it.unibo.alchemist", name = "alchemist-test", version.ref = "itUniboAlchemistAlchemistTest" }
+it-unibo-alchemist-alchemistUiTooling = { group = "it.unibo.alchemist", name = "alchemist-ui-tooling", version.ref = "itUniboAlchemistAlchemistUiTooling" }
+it-unibo-tuprolog-2p = { group = "it.unibo.tuprolog", name = "2p", version.ref = "itUniboTuprolog2p" }
+it-unibo-tuprolog-argumentation-arg2p = { group = "it.unibo.tuprolog.argumentation", name = "arg2p", version.ref = "itUniboTuprologArgumentationArg2p" }
+it-unibo-tuprolog-argumentation-core = { group = "it.unibo.tuprolog.argumentation", name = "core", version.ref = "itUniboTuprologArgumentationCore" }
+it-unibo-tuprolog-argumentation-ide = { group = "it.unibo.tuprolog.argumentation", name = "ide", version.ref = "itUniboTuprologArgumentationIde" }
+it-unibo-tuprolog-core = { group = "it.unibo.tuprolog", name = "core", version.ref = "itUniboTuprologCore" }
+it-unibo-tuprolog-dslCore = { group = "it.unibo.tuprolog", name = "dsl-core", version.ref = "itUniboTuprologDslCore" }
+it-unibo-tuprolog-dslSolve = { group = "it.unibo.tuprolog", name = "dsl-solve", version.ref = "itUniboTuprologDslSolve" }
+it-unibo-tuprolog-dslTheory = { group = "it.unibo.tuprolog", name = "dsl-theory", version.ref = "itUniboTuprologDslTheory" }
+it-unibo-tuprolog-dslUnify = { group = "it.unibo.tuprolog", name = "dsl-unify", version.ref = "itUniboTuprologDslUnify" }
+it-unibo-tuprolog-examples = { group = "it.unibo.tuprolog", name = "examples", version.ref = "itUniboTuprologExamples" }
+it-unibo-tuprolog-ide = { group = "it.unibo.tuprolog", name = "ide", version.ref = "itUniboTuprologIde" }
+it-unibo-tuprolog-ioLib = { group = "it.unibo.tuprolog", name = "io-lib", version.ref = "itUniboTuprologIoLib" }
+it-unibo-tuprolog-oopLib = { group = "it.unibo.tuprolog", name = "oop-lib", version.ref = "itUniboTuprologOopLib" }
+it-unibo-tuprolog-parserCore = { group = "it.unibo.tuprolog", name = "parser-core", version.ref = "itUniboTuprologParserCore" }
+it-unibo-tuprolog-parserJs = { group = "it.unibo.tuprolog", name = "parser-js", version.ref = "itUniboTuprologParserJs" }
+it-unibo-tuprolog-parserJvm = { group = "it.unibo.tuprolog", name = "parser-jvm", version.ref = "itUniboTuprologParserJvm" }
+it-unibo-tuprolog-parserTheory = { group = "it.unibo.tuprolog", name = "parser-theory", version.ref = "itUniboTuprologParserTheory" }
+it-unibo-tuprolog-repl = { group = "it.unibo.tuprolog", name = "repl", version.ref = "itUniboTuprologRepl" }
+it-unibo-tuprolog-serializeCore = { group = "it.unibo.tuprolog", name = "serialize-core", version.ref = "itUniboTuprologSerializeCore" }
+it-unibo-tuprolog-serializeTheory = { group = "it.unibo.tuprolog", name = "serialize-theory", version.ref = "itUniboTuprologSerializeTheory" }
+it-unibo-tuprolog-solve = { group = "it.unibo.tuprolog", name = "solve", version.ref = "itUniboTuprologSolve" }
+it-unibo-tuprolog-solveClassic = { group = "it.unibo.tuprolog", name = "solve-classic", version.ref = "itUniboTuprologSolveClassic" }
+it-unibo-tuprolog-solveStreams = { group = "it.unibo.tuprolog", name = "solve-streams", version.ref = "itUniboTuprologSolveStreams" }
+it-unibo-tuprolog-testSolve = { group = "it.unibo.tuprolog", name = "test-solve", version.ref = "itUniboTuprologTestSolve" }
+it-unibo-tuprolog-theory = { group = "it.unibo.tuprolog", name = "theory", version.ref = "itUniboTuprologTheory" }
+it-unibo-tuprolog-unify = { group = "it.unibo.tuprolog", name = "unify", version.ref = "itUniboTuprologUnify" }
