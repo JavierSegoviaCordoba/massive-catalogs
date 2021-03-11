@@ -1,4 +1,3 @@
-
 dependencyResolutionManagement {
     repositories {
         mavenCentral()
@@ -9,8 +8,11 @@ dependencyResolutionManagement {
     }
 
     versionCatalogs {
-        create("testingLibs") {
-            from("com.javiersc.massive-catalogs:libs-catalog:0.2.0-SNAPSHOT")
+
+        create("testingLibs") { from("com.javiersc.massive-catalogs:libs-catalog:0.2.0-SNAPSHOT") }
+
+        create("testingKotlinLibs") {
+            from("com.javiersc.massive-catalogs:kotlin-catalog:0.2.0-SNAPSHOT")
         }
 
         create("testingPlugins") {
