@@ -27,11 +27,11 @@ val turbine = "0.4.0"
 "app.cash.turbine:turbine:$turbine"
 "com.javiersc.run-blocking:run-blocking:$runBlocking"
 "com.javiersc.suspend-test:suspend-test:$runBlocking"
+"com.squareup.retrofit2:retrofit:$retrofit"
+"io.kotest:kotest-assertions-core:$kotest"
 "org.jetbrains.kotlin:kotlin-test-multiplatform:$kotlin"
 "org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutines"
 "org.jetbrains.kotlinx:kotlinx-serialization-core:$serialization"
 "org.jetbrains.kotlinx:kotlinx-serialization-json:$serialization"
-"io.kotest:kotest-assertions-core:$kotest"
-"com.squareup.retrofit2:retrofit:$retrofit"
 
 // catalog end

@@ -17,6 +17,8 @@ tasks {
         useJUnitPlatform()
         useTestNG()
     }
+
+    register<tasks.AddLibTask>("addLib")
 }
 
 subprojects.onEach { subproject ->
