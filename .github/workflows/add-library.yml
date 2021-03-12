@@ -46,6 +46,11 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gradle-
 
+      - name: Reset branch
+        run: |
+          git fetch origin main:main
+          git reset --hard main
+
       - name: Add library
         run: ./gradlew addLib --"projectName"="${{ github.event.inputs.project_name }}" --"artifactGroup"="${{ github.event.inputs.artifact_group }}" --"artifactName"="${{ github.event.inputs.artifact_name }}" --"artifactVersionRef"="${{ github.event.inputs.version_ref }}" --"artifactVersion"="${{ github.event.inputs.artifact_version }}"
 
@@ -54,18 +59,18 @@ jobs:
         with:
           token: ${{ secrets.TOKEN_GITHUB_ACTION }}
           commit-message: |
-            Add the library ${{ github.event.inputs.artifact_group }}:${{ github.event.inputs.artifact_name }}
+            Add the library `${{ github.event.inputs.artifact_group }}:${{ github.event.inputs.artifact_name }}`
 
-            Project: ${{ github.event.inputs.project_name }}
-            Group: ${{ github.event.inputs.artifact_group }}
-            Name: ${{ github.event.inputs.artifact_name }}
-            Initial version: ${{ github.event.inputs.artifact_version }}
-            Version reference: ${{ github.event.inputs.version_ref }}
-          title: "Add the library: ${{ github.event.inputs.artifact_group }}:${{ github.event.inputs.artifact_name }} to the project ${{ github.event.inputs.project_name }}"
+            Project: `${{ github.event.inputs.project_name }}`
+            Group: `${{ github.event.inputs.artifact_group }}`
+            Name: `${{ github.event.inputs.artifact_name }}`
+            Initial version: `${{ github.event.inputs.artifact_version }}`
+            Version reference: `${{ github.event.inputs.version_ref }}`
+          title: "Add the library `${{ github.event.inputs.artifact_group }}:${{ github.event.inputs.artifact_name }}` to the project `${{ github.event.inputs.project_name }}`"
           body: |
-            Project: ${{ github.event.inputs.project_name }}
-            Group: ${{ github.event.inputs.artifact_group }}
-            Name: ${{ github.event.inputs.artifact_name }}
-            Initial version: ${{ github.event.inputs.artifact_version }}
-            Version reference: ${{ github.event.inputs.version_ref }}
+            Project: `${{ github.event.inputs.project_name }}`
+            Group: `${{ github.event.inputs.artifact_group }}`
+            Name: `${{ github.event.inputs.artifact_name }}`
+            Initial version: `${{ github.event.inputs.artifact_version }}`
+            Version reference: `${{ github.event.inputs.version_ref }}`
           branch: "${{ github.event.inputs.project_name }}--${{ github.event.inputs.artifact_group }}-${{ github.event.inputs.artifact_name }}"
