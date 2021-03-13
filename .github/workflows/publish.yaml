@@ -14,8 +14,51 @@ env:
   GPG_KEY: '${{ secrets.GPG_PRIVATE_KEY }}'
 
 jobs:
+  build-catalogs:
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 15
+      matrix:
+        range:
+          - from: c
+            to: c
+          - from: o
+            to: o
+          - from: i
+            to: i
+          - from: a
+            to: b
+          - from: d
+            to: h
+          - from: j
+            to: n
+          - from: p
+            to: z
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Set up Java
+        uses: actions/setup-java@v1
+        with:
+          java-version: 15
+
+      - name: Generate Kotlin libraries catalogs
+        run: java -jar scanner/scanner.jar mavenCentral --from ${{ matrix.range.from }} --to ${{ matrix.range.to }}
+
+      - name: Upload catalogs
+        uses: actions/upload-artifact@v2
+        with:
+          name: catalogs-${{ matrix.range.from }}-${{ matrix.range.to }}
+          path: build/catalogs
+
   publish:
     runs-on: ubuntu-latest
+
+    needs: build-catalogs
 
     steps:
       - name: Checkout
@@ -38,6 +81,11 @@ jobs:
           key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle*') }}-${{ hashFiles('**/gradle.properties') }}
           restore-keys: |
             ${{ runner.os }}-gradle-
+
+      - name: Download catalogs
+        uses: actions/download-artifact@v2
+        with:
+          path: build/catalogs
 
       - name: Gradle build
         run: ./gradlew build
