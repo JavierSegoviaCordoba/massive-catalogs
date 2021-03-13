@@ -13,10 +13,15 @@
     - org.jetbrains.kotlin:kotlin-test-multiplatform
     - org.jetbrains.kotlinx:kotlinx-coroutines-core
     - com.squareup.retrofit2:retrofit
+    - com.squareup.okhttp3:mockwebserver
     - org.jetbrains.kotlinx:kotlinx-serialization-core
     - org.jetbrains.kotlinx:kotlinx-serialization-json
     - io.kotest:kotest-assertions-core
-    - io.ktor:ktor-client-core  
+    - io.ktor:ktor-client-core 
+    - io.ktor:ktor-client-cio
+    - io.ktor:ktor-client-mock
+    - io.ktor:ktor-client-serialization
+    - com.jakewharton.retrofit:retrofit2-kotlinx-serialization-converter
 
   - Plugins - `plugins-catalog`
     - com.android.tools.build:gradle
