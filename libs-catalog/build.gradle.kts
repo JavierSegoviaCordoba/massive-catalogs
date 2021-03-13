@@ -28,7 +28,7 @@ val turbine = "0.4.0"
 // [libraries]
 "app.cash.turbine:turbine:$turbine"
 "com.javiersc.run-blocking:run-blocking:$runBlocking"
-"com.javiersc.suspend-test:suspend-test:$runBlocking"
+"com.javiersc.run-blocking:suspend-test:$runBlocking"
 "com.squareup.okhttp3:okhttp:$okHttp"
 "com.squareup.retrofit2:retrofit:$retrofit"
 "io.kotest:kotest-assertions-core:$kotest"
