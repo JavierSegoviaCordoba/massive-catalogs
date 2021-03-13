@@ -43,25 +43,44 @@ class Artifact(private val group: String, private val name: String, private val 
         get() = group.split(".")[1]
 
     private val groupAfterDomain: String
-        get() = group.split(".").takeLastWhile { !it.contains(domain) }.joinToString("-")
+        get() =
+            group
+                .split(".")
+                .takeLastWhile { !it.contains(domain) }
+                .joinToString("-")
+                .cleanUnderscore()
+                .cleanHyphen()
+
+    private val cleanName: String
+        get() = name.cleanHyphen().cleanUnderscore()
 
     private fun buildAlias(): String =
-        "$domain-${("$groupAfterDomain-$name").replace("\"", "").replace(".", "-").replace(":", "-")}"
+        "$domain-${
+                ("$groupAfterDomain-$cleanName").replaceSeparators()
+            }"
             .split("-")
             .filter { it.isNotBlank() }
-            .map { it.replace("-", "") }
-            .removeConsecutiveDuplicates()
-            .joinToString("-")
+            .joinToString("-") { it.replace("-", "") }
 
     private fun buildArtifact(): String =
         if (version.isBlank()) """{ group = "$group", name = "$name" }"""
         else """{ group = "$group", name = "$name", version.ref = "$version" }"""
 
-    private fun List<String>.removeConsecutiveDuplicates(): List<String> = buildList {
-        for (word in this@removeConsecutiveDuplicates) {
-            if (count() == 0 || last() != word) add(word)
-        }
-    }
+    private fun String.replaceSeparators(): String =
+        replace("\"", "").replace(".", "-").replace(":", "-")
+
+    private fun String.cleanHyphen(firstLowerCase: Boolean = true): String =
+        this.split('-').toStringCamelCase(firstLowerCase)
+
+    private fun String.cleanUnderscore(firstLowerCase: Boolean = true): String =
+        this.split('_').toStringCamelCase(firstLowerCase)
+
+    private fun List<String>.toStringCamelCase(firstLowerCase: Boolean = true): String =
+        joinToString("", transform = String::capitalize)
+            .mapIndexed { index: Int, char: Char ->
+                if (index == 0 && firstLowerCase) char.toLowerCase() else char
+            }
+            .joinToString("")
 
     companion object {
         fun build(line: String): Artifact =
