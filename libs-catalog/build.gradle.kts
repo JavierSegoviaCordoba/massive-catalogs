@@ -15,7 +15,7 @@ catalog {
 // catalog start
 
 // [versions]
-val coroutines = "1.4.3"
+val coroutines = "1.4.3-native-mt"
 val kotest = "4.4.3"
 val kotlin = "1.4.31"
 val ktor = "1.5.2"
