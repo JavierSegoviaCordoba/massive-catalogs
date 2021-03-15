@@ -24,7 +24,7 @@ val retrofit = "2.9.0"
 val retrofitKotlinConverter = "0.8.0"
 val runBlocking = "0.1.0-alpha.1"
 val serialization = "1.1.0"
-val turbine = "0.4.0"
+val turbine = "0.4.1"
 
 // [libraries]
 "app.cash.turbine:turbine:$turbine"
