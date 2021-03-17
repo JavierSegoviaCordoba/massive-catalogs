@@ -46,11 +46,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gradle-
 
-      - name: Reset branch
-        run: |
-          git fetch origin main:main
-          git reset --hard main
-
       - name: Add library
         run: ./gradlew addLib --"projectName"="${{ github.event.inputs.project_name }}" --"artifactGroup"="${{ github.event.inputs.artifact_group }}" --"artifactName"="${{ github.event.inputs.artifact_name }}" --"artifactVersionRef"="${{ github.event.inputs.version_ref }}" --"artifactVersion"="${{ github.event.inputs.artifact_version }}"
 
