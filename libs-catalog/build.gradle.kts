@@ -1,7 +1,7 @@
 import internal.groupId
 
 plugins {
-    publish
+    `publish-catalog`
 }
 
 group = groupId

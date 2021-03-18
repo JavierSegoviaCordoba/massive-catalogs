@@ -72,4 +72,4 @@ jobs:
         env:
           ossUser: ${{ secrets.OSS_USER }}
           ossToken: ${{ secrets.OSS_TOKEN }}
-        run: ./gradlew libs-catalog:publishToSonatype plugins-catalog:publishToSonatype -P"reckon.stage"="snapshot" -P"isSnapshot"="true"
+        run: ./gradlew libs-catalog:publishToSonatype plugins-catalog:publishToSonatype plugins-accessors:publishToSonatype -P"reckon.stage"="snapshot" -P"isSnapshot"="true"
