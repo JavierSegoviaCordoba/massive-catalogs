@@ -82,6 +82,12 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gradle-
 
+      - name: Set version
+        id: versioning
+        run: |
+          ./gradlew -P"reckon.scope"="${{ github.event.inputs.scope }}" -P"reckon.stage"="${{ github.event.inputs.stage }}"
+          echo "lib_version=$(cat build/versioning/version.txt)" >> $GITHUB_ENV
+
       - name: Patch Changelog
         run: ./gradlew patchChangelog -P"reckon.scope"="${{ github.event.inputs.scope }}" -P"reckon.stage"="${{ github.event.inputs.stage }}"
 
@@ -89,7 +95,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Update CHANGELOG" -a
+          git commit -m "Publish ${{ env.lib_version }}" -a
 
       - name: Generate Tag
         run: ./gradlew reckonTagCreate -P"reckon.scope"="${{ github.event.inputs.scope }}" -P"reckon.stage"="${{ github.event.inputs.stage }}"
