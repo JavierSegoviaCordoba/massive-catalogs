@@ -14,6 +14,10 @@
 
 ### Updated
 
+## [0.1.0-alpha.5] - 2021-03-19
+
+### Updated
+
   - javiersc to 0.1.0-alpha.3
 
 ## [0.1.0-alpha.4] - 2021-03-19
@@ -123,3 +127,4 @@
     - org.jetbrains.kotlin:kotlin-serialization
 
     - org.jetbrains.kotlinx:binary-compatibility-validator
+
