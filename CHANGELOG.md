@@ -14,6 +14,10 @@
 
 ### Updated
 
+## [0.1.0-alpha.4] - 2021-03-19
+
+### Updated
+
 ## [0.1.0-alpha.3] - 2021-03-19
 
 ### Changed
@@ -117,3 +121,4 @@
     - org.jetbrains.kotlin:kotlin-serialization
 
     - org.jetbrains.kotlinx:binary-compatibility-validator
+
