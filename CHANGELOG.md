@@ -4,30 +4,6 @@
 
 ### Added
 
-  - `plugins-accessors` module
-
-  - Plugins - `plugins-catalog`
-    
-    - com.javiersc.gradle-plugins:changelog
-      
-    - com.javiersc.gradle-plugins:code-analysis
-      
-    - com.javiersc.gradle-plugins:code-formatter
-      
-    - com.javiersc.gradle-plugins:dependency-updates
-      
-    - com.javiersc.gradle-plugins:docs
-      
-    - com.javiersc.gradle-plugins:kotlin-multiplatform
-      
-    - com.javiersc.gradle-plugins:nexus
-      
-    - com.javiersc.gradle-plugins:publish
-      
-    - com.javiersc.gradle-plugins:readme-badges-generator
-      
-    - com.javiersc.gradle-plugins:versioning
-    
 ### Changed
 
 ### Deprecated
@@ -35,6 +11,36 @@
 ### Removed
 
 ### Fixed
+
+### Updated
+
+## [0.1.0-alpha.2] - 2021-03-19
+
+### Added
+
+  - `plugins-accessors` module
+
+  - Plugins - `plugins-catalog`
+
+    - com.javiersc.gradle-plugins:changelog
+
+    - com.javiersc.gradle-plugins:code-analysis
+
+    - com.javiersc.gradle-plugins:code-formatter
+
+    - com.javiersc.gradle-plugins:dependency-updates
+
+    - com.javiersc.gradle-plugins:docs
+
+    - com.javiersc.gradle-plugins:kotlin-multiplatform
+
+    - com.javiersc.gradle-plugins:nexus
+
+    - com.javiersc.gradle-plugins:publish
+
+    - com.javiersc.gradle-plugins:readme-badges-generator
+
+    - com.javiersc.gradle-plugins:versioning
 
 ### Updated
 
@@ -103,3 +109,4 @@
     - org.jetbrains.kotlin:kotlin-serialization
 
     - org.jetbrains.kotlinx:binary-compatibility-validator
+
