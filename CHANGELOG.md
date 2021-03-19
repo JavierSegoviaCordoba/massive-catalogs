@@ -6,13 +6,19 @@
 
 ### Changed
 
-  - Unmerged `plugins-catalog` to `plugins-accessors`
-
 ### Deprecated
 
 ### Removed
 
 ### Fixed
+
+### Updated
+
+## [0.1.0-alpha.6] - 2021-03-19
+
+### Changed
+
+  - Unmerged `plugins-catalog` to `plugins-accessors`
 
 ### Updated
 
@@ -129,3 +135,4 @@
     - org.jetbrains.kotlin:kotlin-serialization
 
     - org.jetbrains.kotlinx:binary-compatibility-validator
+
