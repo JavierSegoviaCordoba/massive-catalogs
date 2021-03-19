@@ -19,3 +19,11 @@ rootProject.allprojects {
         }
     }
 }
+
+file("${rootProject.buildDir}/versioning/version.txt").apply {
+    if (!exists()) {
+        parentFile.mkdirs()
+        createNewFile()
+    }
+    writeText(version.toString())
+}
