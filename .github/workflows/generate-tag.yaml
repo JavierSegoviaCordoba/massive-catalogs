@@ -93,7 +93,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Bump `plugins-catalog` version to ${{ env.lib_version }}" -a
+          git commit -m "Bump plugins-catalog version to ${{ env.lib_version }}" -a
 
       - name: Patch Changelog
         run: ./gradlew patchChangelog -P"reckon.scope"="${{ github.event.inputs.scope }}" -P"reckon.stage"="${{ github.event.inputs.stage }}"
