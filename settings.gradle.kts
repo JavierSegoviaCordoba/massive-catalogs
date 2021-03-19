@@ -12,7 +12,6 @@ dependencyResolutionManagement {
 
 include(":libs-catalog")
 include(":kotlin-catalog")
-include(":plugins-accessors")
 include(":plugins-catalog")
 
 includeBuild("testing-catalog")

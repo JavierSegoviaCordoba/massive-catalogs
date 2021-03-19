@@ -1,15 +1,27 @@
 import internal.groupId
+import internal.isSignificant
 
 plugins {
+    kotlin("jvm")
     `publish-catalog`
 }
 
 group = groupId
 
-catalog {
-    versionCatalog {
-        from(files("$buildDir/catalogs/libs.versions.toml"))
+catalog { versionCatalog { from(files("$buildDir/catalogs/libs.versions.toml")) } }
+
+if (isSignificant) {
+    file("$projectDir/build.gradle.kts").apply {
+        writeText(
+            readLines().joinToString("\n") {
+                if (it.startsWith("val massiveCatalogs =")) "val massiveCatalogs = \"$version\"" else it
+            } + "\n"
+        )
     }
+}
+
+dependencies {
+    implementation(gradleApi())
 }
 
 // catalog start
@@ -21,10 +33,11 @@ val changelog = "1.1.2"
 val detekt = "1.16.0"
 val dokka = "1.4.30"
 val gradlePublish = "0.13.0"
-val javiersc = "0.1.0-alpha.2"
+val javiersc = "0.2.0"
 val kotlin = "1.4.31"
 val kotlinBinaryValidator = "0.4.0"
 val ktfmt = "0.21"
+val massiveCatalogs = "0.1.0-alpha.2"
 val nexusPublish = "1.0.0"
 val reckon = "0.13.0"
 val spotless = "5.11.0"
@@ -45,6 +58,7 @@ val versions = "0.38.0"
 "com.javiersc.gradle-plugins:publish:$javiersc"
 "com.javiersc.gradle-plugins:readme-badges-generator:$javiersc"
 "com.javiersc.gradle-plugins:versioning:$javiersc"
+"com.javiersc.massive-catalogs:plugins-catalog:$massiveCatalogs"
 "com.pablisco.gradle.auto.include:plugin:$versions"
 "io.github.gradle-nexus:publish-plugin:$nexusPublish"
 "io.gitlab.arturbosch.detekt:detekt-gradle-plugin:$detekt"

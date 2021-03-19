@@ -12,6 +12,11 @@ val dokkaJar by tasks.creating(Jar::class) {
     dependsOn(tasks.dokkaHtml)
 }
 
+val sourcesJar by tasks.creating(Jar::class) {
+    archiveClassifier.set("sources")
+    from((project.properties["sourceSets"] as? SourceSetContainer)?.get("main")?.allSource)
+}
+
 publishing {
     publications {
         withType<MavenPublication> {
@@ -43,10 +48,13 @@ publishing {
             }
 
             artifact(dokkaJar)
+
+            artifact(sourcesJar)
         }
 
         create<MavenPublication>("maven") {
             from(components["versionCatalog"])
+            runCatching { from(components["java"]) }
         }
     }
 }

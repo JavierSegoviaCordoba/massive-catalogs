@@ -2,7 +2,7 @@ package internal
 
 import org.gradle.api.Project
 
-internal val Project.isSignificant: Boolean
+val Project.isSignificant: Boolean
     get() =
         Regex(
                 "^(0|[1-9]\\d*)\\.(0|[1-9]\\d*)\\.(0|[1-9]\\d*)(?:-((?:0|[1-9]\\d*|\\d*[a-zA-Z-]" +
