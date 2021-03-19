@@ -6,13 +6,19 @@
 
 ### Changed
 
-  - `plugins-accessors` module merged to `plugins-catalog`
-
 ### Deprecated
 
 ### Removed
 
 ### Fixed
+
+### Updated
+
+## [0.1.0-alpha.3] - 2021-03-19
+
+### Changed
+
+  - `plugins-accessors` module merged to `plugins-catalog`
 
 ### Updated
 
@@ -111,3 +117,4 @@
     - org.jetbrains.kotlin:kotlin-serialization
 
     - org.jetbrains.kotlinx:binary-compatibility-validator
+
