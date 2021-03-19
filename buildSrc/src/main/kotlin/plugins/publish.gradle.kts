@@ -2,7 +2,6 @@ import internal.isSignificant
 
 plugins {
     `maven-publish`
-    `version-catalog`
     signing
     id("docs")
 }
@@ -10,6 +9,11 @@ plugins {
 val dokkaJar by tasks.creating(Jar::class) {
     archiveClassifier.set("javadoc")
     dependsOn(tasks.dokkaHtml)
+}
+
+val sourcesJar by tasks.creating(Jar::class) {
+    archiveClassifier.set("sources")
+    from((project.properties["sourceSets"] as SourceSetContainer)["main"].allSource)
 }
 
 publishing {
@@ -43,10 +47,12 @@ publishing {
             }
 
             artifact(dokkaJar)
+
+            artifact(sourcesJar)
         }
 
         create<MavenPublication>("maven") {
-            from(components["versionCatalog"])
+            from(components["java"])
         }
     }
 }

@@ -1,9 +1,7 @@
 import org.jetbrains.changelog.closure
 import org.jetbrains.changelog.date
 
-plugins {
-    id("org.jetbrains.changelog")
-}
+plugins { id("org.jetbrains.changelog") }
 
 changelog {
     version = "${project.version}"
@@ -12,17 +10,11 @@ changelog {
 }
 
 tasks {
-    patchChangelog {
-        doLast {
-            improveChangelog(File("$projectDir/CHANGELOG.md"), "Unreleased")
-        }
-    }
+    patchChangelog { doLast { improveChangelog(File("$projectDir/CHANGELOG.md"), "Unreleased") } }
 }
 
 fun improveChangelog(changelogFile: File, unreleasedFlag: String) {
-    val filteredChangelog = changelogFile
-        .readLines()
-        .filter { it.isNotBlank() }
+    val filteredChangelog = changelogFile.readLines().filter { it.isNotBlank() }
 
     val startIndex =
         filteredChangelog.indexOfFirst { it.contains("## [") && !it.contains(unreleasedFlag) }
@@ -33,15 +25,18 @@ fun improveChangelog(changelogFile: File, unreleasedFlag: String) {
                 !line.startsWith("###") && line.isNotBlank() -> appendLine(line + "\n")
                 line.startsWith("###") && index < startIndex -> appendLine(line + "\n")
                 line.startsWith("###") &&
-                        filteredChangelog
-                            .getOrNull(index + 1)
-                            ?.startsWith("###") == true -> Unit
+                    filteredChangelog.getOrNull(index + 1)?.startsWith("###") == true -> Unit
                 line.startsWith("###") &&
-                        filteredChangelog
-                            .getOrNull(index + 1)
-                            ?.startsWith("###") == false -> appendLine(line + "\n")
+                    filteredChangelog.getOrNull(index + 1)?.startsWith("###") == false ->
+                    appendLine(line + "\n")
             }
         }
     }
-    changelogFile.writeText(changelogToWrite)
+
+    val changelogToWriteWithLineBreak =
+        if (changelogToWrite.takeLast(1).isBlank())
+            changelogToWrite.lines().dropLast(0).joinToString("\n")
+        else changelogToWrite
+
+    changelogFile.writeText(changelogToWriteWithLineBreak)
 }

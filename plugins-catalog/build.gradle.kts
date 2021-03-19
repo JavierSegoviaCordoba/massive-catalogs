@@ -2,13 +2,16 @@ import internal.groupId
 import internal.isSignificant
 
 plugins {
-    kotlin("jvm")
     `publish-catalog`
 }
 
 group = groupId
 
-catalog { versionCatalog { from(files("$buildDir/catalogs/libs.versions.toml")) } }
+catalog {
+    versionCatalog {
+        from(files("$buildDir/catalogs/libs.versions.toml"))
+    }
+}
 
 if (isSignificant) {
     file("$projectDir/build.gradle.kts").apply {
@@ -18,10 +21,6 @@ if (isSignificant) {
             } + "\n"
         )
     }
-}
-
-dependencies {
-    implementation(gradleApi())
 }
 
 // catalog start
@@ -58,7 +57,7 @@ val versions = "0.38.0"
 "com.javiersc.gradle-plugins:publish:$javiersc"
 "com.javiersc.gradle-plugins:readme-badges-generator:$javiersc"
 "com.javiersc.gradle-plugins:versioning:$javiersc"
-"com.javiersc.massive-catalogs:plugins-catalog:$massiveCatalogs"
+"com.javiersc.massive-catalogs:plugins-accessors:$massiveCatalogs"
 "com.pablisco.gradle.auto.include:plugin:$versions"
 "io.github.gradle-nexus:publish-plugin:$nexusPublish"
 "io.gitlab.arturbosch.detekt:detekt-gradle-plugin:$detekt"
