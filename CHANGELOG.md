@@ -4,6 +4,8 @@
 
 ### Added
 
+  - `ktfmt` to `plugins-catalog`
+
 ### Changed
 
 ### Deprecated

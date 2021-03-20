@@ -45,6 +45,7 @@ val versions = "0.38.0"
 // [libraries]
 "com.android.tools.build:gradle:$android"
 "com.diffplug.spotless:spotless-plugin-gradle:$spotless"
+"com.facebook:ktfmt:$ktfmt"
 "com.github.ben-manes:gradle-versions-plugin:$versions"
 "com.gradle.publish:plugin-publish-plugin:$gradlePublish"
 "com.javiersc.gradle-plugins:changelog:$javiersc"
