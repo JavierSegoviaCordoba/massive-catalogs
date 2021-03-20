@@ -15,11 +15,16 @@ catalog {
 // catalog start
 
 // [versions]
+val activity = "1.2.1"
+val appCompat = "1.2.0"
+val browser = "1.3.0"
+val core = "1.3.2"
 val coroutines = "1.4.3-native-mt"
 val kotest = "4.4.3"
 val kotlin = "1.4.31"
 val ktor = "1.5.2"
 val okHttp = "4.9.1"
+val popkorn = "2.1.1"
 val retrofit = "2.9.0"
 val retrofitKotlinConverter = "0.8.0"
 val runBlocking = "0.1.0-alpha.1"
@@ -27,7 +32,13 @@ val serialization = "1.1.0"
 val turbine = "0.4.1"
 
 // [libraries]
+"androidx.activity:activity-ktx:$activity"
+"androidx.appcompat:appcompat:$appCompat"
+"androidx.browser:browser:$browser"
+"androidx.core:core-ktx:$core"
 "app.cash.turbine:turbine:$turbine"
+"cc.popkorn:popkorn:$popkorn"
+"cc.popkorn:popkorn-compiler:$popkorn"
 "com.jakewharton.retrofit:retrofit2-kotlinx-serialization-converter:$retrofitKotlinConverter"
 "com.javiersc.run-blocking:run-blocking:$runBlocking"
 "com.javiersc.run-blocking:suspend-test:$runBlocking"
