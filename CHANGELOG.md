@@ -10,9 +10,15 @@
 
 ### Removed
 
-  - `kotlin-catalog`
-
 ### Fixed
+
+### Updated
+
+## [0.1.0-alpha.7] - 2021-03-20
+
+### Removed
+
+  - `kotlin-catalog`
 
 ### Updated
 
@@ -136,4 +142,4 @@
 
     - org.jetbrains.kotlin:kotlin-serialization
 
-    - org.jetbrains.kotlinx:binary-compatibility-validator
+    - org.jetbrains.kotlinx:binary-compatibility-validator 
