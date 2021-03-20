@@ -16,6 +16,8 @@ tasks {
 fun improveChangelog(changelogFile: File, unreleasedFlag: String) {
     val filteredChangelog = changelogFile.readLines().filter { it.isNotBlank() }
 
+    println("filteredChangelog")
+
     val startIndex =
         filteredChangelog.indexOfFirst { it.contains("## [") && !it.contains(unreleasedFlag) }
 
@@ -31,12 +33,7 @@ fun improveChangelog(changelogFile: File, unreleasedFlag: String) {
                     appendLine(line + "\n")
             }
         }
-    }
+    }.dropLastWhile { it.isWhitespace() } + " \n"
 
-    val changelogToWriteWithLineBreak =
-        if (changelogToWrite.takeLast(1).isBlank())
-            changelogToWrite.lines().dropLast(0).joinToString("\n")
-        else changelogToWrite
-
-    changelogFile.writeText(changelogToWriteWithLineBreak)
+    changelogFile.writeText(changelogToWrite)
 }
