@@ -1,8 +1,8 @@
-import internal.groupId
+import com.javiersc.plugins.core.groupId
 
 plugins {
     kotlin("jvm")
-    publish
+    `javiersc-publish-kotlin-jvm`
 }
 
 group = groupId

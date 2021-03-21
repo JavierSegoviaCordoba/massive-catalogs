@@ -1,8 +1,8 @@
-import internal.groupId
-import internal.isSignificant
+import com.javiersc.plugins.core.groupId
+import com.javiersc.plugins.core.isSignificant
 
 plugins {
-    `publish-catalog`
+    `javiersc-publish-version-catalog`
 }
 
 group = groupId

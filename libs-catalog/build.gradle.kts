@@ -1,7 +1,7 @@
-import internal.groupId
+import com.javiersc.plugins.core.groupId
 
 plugins {
-    `publish-catalog`
+    `javiersc-publish-version-catalog`
 }
 
 group = groupId
