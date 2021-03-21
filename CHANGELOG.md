@@ -6,6 +6,13 @@
 
 ### Changed
 
+- `javiersc-publish` to:
+    - `javiersc-publish-android-library`
+    - `javiersc-publish-gradle-plugin`
+    - `javiersc-publish-kotlin-jvm`
+    - `javiersc-publish-kotlin-multiplatform`
+    - `javiersc-publish-version-catalog`
+
 ### Deprecated
 
 ### Removed
