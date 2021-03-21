@@ -4,8 +4,6 @@
 
 ### Added
 
-  - `ktfmt` to `plugins-catalog`
-
 ### Changed
 
 ### Deprecated
@@ -13,6 +11,14 @@
 ### Removed
 
 ### Fixed
+
+### Updated
+
+## [0.1.0-alpha.8] - 2021-03-21
+
+### Added
+
+  - `ktfmt` to `plugins-catalog`
 
 ### Updated
 
