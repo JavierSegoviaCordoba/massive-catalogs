@@ -6,18 +6,29 @@
 
 ### Changed
 
-- `javiersc-publish` to:
-    - `javiersc-publish-android-library`
-    - `javiersc-publish-gradle-plugin`
-    - `javiersc-publish-kotlin-jvm`
-    - `javiersc-publish-kotlin-multiplatform`
-    - `javiersc-publish-version-catalog`
-
 ### Deprecated
 
 ### Removed
 
 ### Fixed
+
+### Updated
+
+## [0.1.0-alpha.9] - 2021-03-21
+
+### Changed
+
+- `javiersc-publish` to:
+
+    - `javiersc-publish-android-library`
+
+    - `javiersc-publish-gradle-plugin`
+
+    - `javiersc-publish-kotlin-jvm`
+
+    - `javiersc-publish-kotlin-multiplatform`
+
+    - `javiersc-publish-version-catalog`
 
 ### Updated
 
