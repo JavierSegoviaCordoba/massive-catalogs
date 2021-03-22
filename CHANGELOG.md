@@ -14,14 +14,21 @@
 
 ### Updated
 
+## [0.1.0-alpha.13] - 2021-03-22
+
+
+- No changes
+
 ## [0.1.0-alpha.12] - 2021-03-21
 
 
 - No changes
+
 ## [0.1.0-alpha.11] - 2021-03-21
 
 
 - No changes
+
 ## [0.1.0-alpha.10] - 2021-03-21
 
 
@@ -56,6 +63,7 @@
 
 ### Updated
   - `javiersc` to `0.1.0-alpha.3`
+
 ## [0.1.0-alpha.4] - 2021-03-19
 
 
@@ -112,5 +120,3 @@
     - org.ajoberstar.reckon:reckon-gradle
     - org.jetbrains.dokka:dokka-core
     - org.jetbrains.dokka:dokka-gradle-plugin
-    - org.jetbrains.intellij.plugins:gradle-changelog-plugin
-    - org.jetbrains.kotlin:kotlin-gradle-plugin
