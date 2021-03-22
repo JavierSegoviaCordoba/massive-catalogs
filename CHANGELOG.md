@@ -3,8 +3,6 @@
 ## [Unreleased]
 
 ### Added
-- `AddLibTask` adds the new added library to the `CHANGELOG`
-- Enable `kotlin-catalog` and separate its publication to MavenCentral
 
 ### Changed
 
@@ -15,6 +13,13 @@
 ### Fixed
 
 ### Updated
+
+
+## [0.1.0-alpha.15] - 2021-03-22
+
+### Added
+- `AddLibTask` adds the new added library to the `CHANGELOG`
+- Enable `kotlin-catalog` and separate its publication to MavenCentral
 
 ## [0.1.0-alpha.14] - 2021-03-22
 - No changes
