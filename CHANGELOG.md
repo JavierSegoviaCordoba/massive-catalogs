@@ -4,6 +4,7 @@
 
 ### Added
 - `AddLibTask` adds the new added library to the `CHANGELOG`
+- Enable `kotlin-catalog` and separate its publication to MavenCentral
 
 ### Changed
 
