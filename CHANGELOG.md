@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- `AddLibTask` adds the new added library to the `CHANGELOG`
 
 ### Changed
 
@@ -15,28 +16,18 @@
 ### Updated
 
 ## [0.1.0-alpha.14] - 2021-03-22
-
-
 - No changes
 
 ## [0.1.0-alpha.13] - 2021-03-22
-
-
 - No changes
 
 ## [0.1.0-alpha.12] - 2021-03-21
-
-
 - No changes
 
 ## [0.1.0-alpha.11] - 2021-03-21
-
-
 - No changes
 
 ## [0.1.0-alpha.10] - 2021-03-21
-
-
 - No changes
 
 ## [0.1.0-alpha.9] - 2021-03-21
@@ -70,8 +61,6 @@
   - `javiersc` to `0.1.0-alpha.3`
 
 ## [0.1.0-alpha.4] - 2021-03-19
-
-
 - No changes
 
 ## [0.1.0-alpha.3] - 2021-03-19
@@ -115,7 +104,7 @@
     - io.ktor:ktor-client-mock
     - io.ktor:ktor-client-serialization
     - com.jakewharton.retrofit:retrofit2-kotlinx-serialization-converter
-  - Plugins - `plugins-catalog`
+- Plugins - `plugins-catalog`
     - com.android.tools.build:gradle
     - com.diffplug.spotless:spotless-plugin-gradle
     - com.github.ben-manes:gradle-versions-plugin
@@ -123,3 +112,9 @@
     - io.github.gradle-nexus:publish-plugin
     - io.gitlab.arturbosch.detekt:detekt-gradle-plugin
     - org.ajoberstar.reckon:reckon-gradle
+    - org.jetbrains.dokka:dokka-core
+    - org.jetbrains.dokka:dokka-gradle-plugin
+    - org.jetbrains.intellij.plugins:gradle-changelog-plugin
+    - org.jetbrains.kotlin:kotlin-gradle-plugin
+    - org.jetbrains.kotlin:kotlin-serialization
+    - org.jetbrains.kotlinx:binary-compatibility-validator

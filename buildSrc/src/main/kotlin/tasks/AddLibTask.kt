@@ -8,6 +8,11 @@ import org.gradle.api.tasks.Input
 import org.gradle.api.tasks.TaskAction
 import org.gradle.api.tasks.options.Option
 
+/**
+ * ```
+ * ./gradlew addLib --"projectName"="libs-catalog" --"artifactGroup"="org.example" --"artifactName"="example-name" --"artifactVersionRef"="exampleName" --"artifactVersion"="1.0.1"
+ * ```
+ */
 open class AddLibTask : DefaultTask() {
 
     lateinit var projectName: String
@@ -30,22 +35,55 @@ open class AddLibTask : DefaultTask() {
         @Input get
         @Option(option = "artifactVersion", description = "Artifact version") set
 
+    private val artifactGroupClean: String
+        get() =
+            artifactGroup.replace(" ", "").also {
+                check(regex.containsMatchIn(it)) { "Wrong artifact group" }
+            }
+
+    private val artifactNameClean: String
+        get() =
+            artifactName.replace(" ", "").also {
+                check(regex.containsMatchIn(it)) { "Wrong artifact name" }
+            }
+    private val artifactVersionRefClean: String
+        get() =
+            artifactVersionRef.replace(" ", "").also {
+                check(regex.containsMatchIn(it)) { "Wrong artifact version ref" }
+            }
+
+    private val artifactVersionClean: String
+        get() =
+            artifactVersion.replace(" ", "").also {
+                check(regex.containsMatchIn(it)) { "Wrong artifact version" }
+            }
+
+    private val regex
+        get() = Regex("""[a-zA-Z_0-9]""")
+
     @TaskAction
     fun create() {
-        val regex = Regex("""[a-zA-Z_0-9]""")
+        writeLibToChangelog()
+        writeCatalog()
+    }
 
-        val artifactGroupClean = artifactGroup.replace(" ", "")
-        check(regex.containsMatchIn(artifactGroupClean)) { "Wrong artifact group" }
+    private fun writeLibToChangelog() {
+        val addedRegex = Regex("""^(###)(\s)(Added)(.*)${'$'}""")
 
-        val artifactNameClean = artifactName.replace(" ", "")
-        check(regex.containsMatchIn(artifactNameClean)) { "Wrong artifact name" }
+        File("${project.rootProject.projectDir}/CHANGELOG.md").apply {
+            val content = readLines()
+            val contentUpdated = buildList {
+                addAll(content)
+                add(
+                    content.indexOfFirst { addedRegex.matches(it) } + 1,
+                    "- $artifactGroupClean:$artifactName"
+                )
+            }.joinToString("\n")
+            writeText(contentUpdated)
+        }
+    }
 
-        val artifactVersionRefClean = artifactVersionRef.replace(" ", "")
-        check(regex.containsMatchIn(artifactVersionRefClean)) { "Wrong artifact version ref" }
-
-        val artifactVersionClean = artifactVersion.replace(" ", "")
-        check(regex.containsMatchIn(artifactVersionClean)) { "Wrong artifact version" }
-
+    private fun writeCatalog() {
         val buildGradleFile = File("$projectName/build.gradle.kts")
         val buildGradleContent = buildGradleFile.readLines()
         val catalogStartIndex = buildGradleContent.indexOfFirst { it.contains("// catalog start") }
