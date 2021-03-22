@@ -14,6 +14,11 @@
 
 ### Updated
 
+## [0.1.0-alpha.14] - 2021-03-22
+
+
+- No changes
+
 ## [0.1.0-alpha.13] - 2021-03-22
 
 
@@ -118,5 +123,3 @@
     - io.github.gradle-nexus:publish-plugin
     - io.gitlab.arturbosch.detekt:detekt-gradle-plugin
     - org.ajoberstar.reckon:reckon-gradle
-    - org.jetbrains.dokka:dokka-core
-    - org.jetbrains.dokka:dokka-gradle-plugin
