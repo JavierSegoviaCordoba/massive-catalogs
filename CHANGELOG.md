@@ -3,6 +3,8 @@
 ## [Unreleased]
 
 ### Added
+- `com.javiersc.mokoki:mokoki-core`
+- `com.javiersc.mokoki:mokoki-serialization`
 
 ### Changed
 
