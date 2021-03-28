@@ -55,6 +55,7 @@ val turbine = "0.4.1"
 "io.ktor:ktor-client-serialization:$ktor"
 "org.jetbrains.kotlin:kotlin-test-multiplatform:$kotlin"
 "org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutines"
+"org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutines"
 "org.jetbrains.kotlinx:kotlinx-serialization-core:$serialization"
 "org.jetbrains.kotlinx:kotlinx-serialization-json:$serialization"
 

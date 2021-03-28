@@ -5,6 +5,7 @@
 ### Added
 - `com.javiersc.mokoki:mokoki-core`
 - `com.javiersc.mokoki:mokoki-serialization`
+- `org.jetbrains.kotlinx:kotlinx-coroutines-test`
 
 ### Changed
 
