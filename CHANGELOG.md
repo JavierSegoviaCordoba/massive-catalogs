@@ -3,9 +3,6 @@
 ## [Unreleased]
 
 ### Added
-- `com.javiersc.mokoki:mokoki-core`
-- `com.javiersc.mokoki:mokoki-serialization`
-- `org.jetbrains.kotlinx:kotlinx-coroutines-test`
 
 ### Changed
 
@@ -17,6 +14,13 @@
 
 ### Updated
 
+
+## [0.1.0-alpha.16] - 2021-03-28
+
+### Added
+- `com.javiersc.mokoki:mokoki-core`
+- `com.javiersc.mokoki:mokoki-serialization`
+- `org.jetbrains.kotlinx:kotlinx-coroutines-test`
 
 ## [0.1.0-alpha.15] - 2021-03-22
 
