@@ -2,6 +2,7 @@
 rootProject.name = providers.gradleProperty("libName").forUseAtConfigurationTime().get()
 
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
+enableFeaturePreview("VERSION_CATALOGS")
 
 dependencyResolutionManagement {
     repositories {
