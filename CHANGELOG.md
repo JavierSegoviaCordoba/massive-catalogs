@@ -13,6 +13,7 @@
 ### Fixed
 
 ### Updated
+- activity
 - android
 - kotlin
 - Gradle wrapper
