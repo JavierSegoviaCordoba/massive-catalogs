@@ -13,7 +13,10 @@
 ### Fixed
 
 ### Updated
-
+- android
+- kotlin
+- Gradle wrapper
+- gradle-publish
 
 ## [0.1.0-alpha.16] - 2021-03-28
 

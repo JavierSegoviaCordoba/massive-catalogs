@@ -1,4 +1,3 @@
-@file:OptIn(ExperimentalStdlibApi::class)
 
 plugins {
     `javiersc-versioning`
@@ -9,6 +8,16 @@ plugins {
     `kotlinx-binary-compatibility-validator`
     `javiersc-nexus`
     `javiersc-readme-badges-generator`
+}
+
+// TODO: Remove when [#3286](https://github.com/dependabot/dependabot-core/issues/3286) is fixed
+allprojects {
+    repositories {
+        mavenCentral()
+        google()
+        jcenter()
+        gradlePluginPortal()
+    }
 }
 
 tasks {
