@@ -77,6 +77,22 @@ jobs:
           clean: false
           single-commit: true
 
+      - name: Bump internal Massive Catalogs to latest version in gradle.properties
+        run: ./gradlew updateMassiveCatalogs
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Bump internal Massive Catalogs version to ${{ steps.tags.outputs.version }}" -a
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: 'main'
+          tags: true
+          github_token: '${{ secrets.GITHUB_TOKEN }}'
+
   github-release:
     runs-on: ubuntu-latest
 
