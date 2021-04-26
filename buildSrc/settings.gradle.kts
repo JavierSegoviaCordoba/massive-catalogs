@@ -13,6 +13,7 @@ val massiveCatalogs: String = properties.getProperty("massiveCatalogs")
 dependencyResolutionManagement {
     repositories {
         mavenCentral()
+        google()
         jcenter()
         gradlePluginPortal()
     }

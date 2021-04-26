@@ -26,18 +26,18 @@ if (isSignificant) {
 // catalog start
 
 // [versions]
-val android = "4.1.2"
+val android = "4.1.3"
 val autoInclude = "1.3"
 val changelog = "1.1.2"
 val detekt = "1.16.0"
 val dokka = "1.4.32"
 val gradlePublish = "0.13.0"
 val javierscGradlePlugins = "0.1.0-alpha.16"
-val kotlin = "1.4.31"
+val kotlin = "1.5.0"
 val kotlinBinaryValidator = "0.5.0"
 val ktfmt = "0.24"
 val massiveCatalogs = "0.1.0-alpha.16"
-val nexusPublish = "1.0.0"
+val nexusPublish = "1.1.0"
 val reckon = "0.13.0"
 val spotless = "5.12.4"
 val versions = "0.38.0"
