@@ -16,9 +16,6 @@ dependencyResolutionManagement {
         val massiveCatalogs: String by settings
 
         create("libs") { from("com.javiersc.massive-catalogs:libs-catalog:$massiveCatalogs") }
-        create("pluginLibs") {
-            from("com.javiersc.massive-catalogs:plugins-catalog:$massiveCatalogs")
-        }
     }
 }
 

@@ -1,3 +1,4 @@
+import org.jetbrains.kotlin.gradle.plugin.getKotlinPluginVersion
 import tasks.AddLibTask
 import tasks.UpdateMassiveCatalogsTask
 
@@ -31,6 +32,15 @@ tasks {
 
     register<AddLibTask>("addLib")
     register<UpdateMassiveCatalogsTask>("updateMassiveCatalogs")
+    register("checkKotlinVersion") {
+        allprojects
+            .asSequence()
+            .map { project -> project.getKotlinPluginVersion() }
+            .toSet()
+            .filterNotNull()
+            .firstOrNull()
+            .also { println("HELLO $it") }
+    }
 }
 
 subprojects.onEach { subproject ->

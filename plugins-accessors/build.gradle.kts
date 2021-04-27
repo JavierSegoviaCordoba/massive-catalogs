@@ -7,6 +7,4 @@ plugins {
 
 group = groupId
 
-dependencies {
-    implementation(gradleApi())
-}
+dependencies { implementation(gradleApi()) }

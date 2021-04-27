@@ -11,13 +11,15 @@
 ### Removed
 
 ### Fixed
+- Recursive issues by using specific version for javiersc plugins
 
 ### Updated
 - activity
 - android
-- kotlin
-- Gradle wrapper
 - gradle-publish
+- Gradle wrapper
+- javiersc plugins
+- kotlin
 
 ## [0.1.0-alpha.16] - 2021-03-28
 
