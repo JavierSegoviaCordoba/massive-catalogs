@@ -91,7 +91,8 @@ jobs:
           ./gradlew -P"reckon.scope"="${{ github.event.inputs.scope }}" -P"reckon.stage"="${{ github.event.inputs.stage }}"
           echo "lib_version=$(cat build/versioning/version.txt)" >> $GITHUB_ENV
 
-      - name: Commit plugins catalog updated version
+      - name: Commit Massive Catalogs version in plugins-catalog
+        continue-on-error: true
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"

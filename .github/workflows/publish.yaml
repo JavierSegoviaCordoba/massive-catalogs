@@ -77,21 +77,18 @@ jobs:
           clean: false
           single-commit: true
 
-      - name: Bump internal Massive Catalogs to latest version in gradle.properties
-        run: ./gradlew updateMassiveCatalogs
+      - name: Bump internal Massive Catalogs to latest version and regenerate README badges
+        run: ./gradlew updateMassiveCatalogs generateReadmeBadges
 
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git commit -m "Bump internal Massive Catalogs version to ${{ steps.tags.outputs.version }}" -a
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: Create Pull Request
+        continue-on-error: true
+        uses: peter-evans/create-pull-request@v3
         with:
-          branch: 'main'
-          tags: true
-          github_token: '${{ secrets.GITHUB_TOKEN }}'
+          token: ${{ secrets.TOKEN_GITHUB_ACTION }}
+          commit-message: "Bump internal Massive Catalogs version to ${{ steps.tags.outputs.version }}"
+          title: "Bump internal Massive Catalogs version to ${{ steps.tags.outputs.version }}"
+          branch: "bump-internal-massive-catalogs-version-to-${{ steps.tags.outputs.version }}"
+          base: main
 
   github-release:
     runs-on: ubuntu-latest
