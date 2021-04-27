@@ -77,19 +77,6 @@ jobs:
           clean: false
           single-commit: true
 
-      - name: Bump internal Massive Catalogs to latest version and regenerate README badges
-        run: ./gradlew updateMassiveCatalogs generateReadmeBadges
-
-      - name: Create Pull Request
-        continue-on-error: true
-        uses: peter-evans/create-pull-request@v3
-        with:
-          token: ${{ secrets.TOKEN_GITHUB_ACTION }}
-          commit-message: "Bump internal Massive Catalogs version to ${{ steps.tags.outputs.version }}"
-          title: "Bump internal Massive Catalogs version to ${{ steps.tags.outputs.version }}"
-          branch: "bump-internal-massive-catalogs-version-to-${{ steps.tags.outputs.version }}"
-          base: main
-
   github-release:
     runs-on: ubuntu-latest
 
