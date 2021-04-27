@@ -3,7 +3,6 @@
 ## [Unreleased]
 
 ### Added
-- org.jetbrains.kotlinx:kotlinx-datetime
 
 ### Changed
 
@@ -15,6 +14,11 @@
 
 ### Updated
 
+
+## [0.1.0-alpha.18] - 2021-04-27
+
+### Added
+- org.jetbrains.kotlinx:kotlinx-datetime
 
 ## [0.1.0-alpha.17] - 2021-04-27
 
