@@ -11,6 +11,13 @@
 ### Removed
 
 ### Fixed
+
+### Updated
+
+
+## [0.1.0-alpha.17] - 2021-04-27
+
+### Fixed
 - Recursive issues by using specific version for javiersc plugins
 
 ### Updated
