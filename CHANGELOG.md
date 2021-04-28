@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- com.google.dagger:hilt-android-gradle-plugin
 - com.google.dagger:hilt-android
 - com.google.dagger:hilt-compiler
 - com.google.dagger:hilt-core
