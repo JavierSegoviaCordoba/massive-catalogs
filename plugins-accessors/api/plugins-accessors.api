@@ -13,6 +13,8 @@ public final class PluginsAccessorsKt {
 	public static final fun getChangelog (Lorg/gradle/plugin/use/PluginDependenciesSpec;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun getDetekt (Lorg/gradle/plugin/use/PluginDependenciesSpec;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun getDokka (Lorg/gradle/plugin/use/PluginDependenciesSpec;)Lorg/gradle/plugin/use/PluginDependencySpec;
+	public static final fun getGradle-plugin-publish (Lorg/gradle/plugin/use/PluginDependenciesSpec;)Lorg/gradle/plugin/use/PluginDependencySpec;
+	public static final fun getHilt-android (Lorg/gradle/plugin/use/PluginDependenciesSpec;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun getKotlin-android (Lorg/gradle/plugin/use/PluginDependenciesSpec;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun getKotlin-js (Lorg/gradle/plugin/use/PluginDependenciesSpec;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun getKotlin-jvm (Lorg/gradle/plugin/use/PluginDependenciesSpec;)Lorg/gradle/plugin/use/PluginDependencySpec;
@@ -21,9 +23,12 @@ public final class PluginsAccessorsKt {
 	public static final fun getKotlin-parcelize (Lorg/gradle/plugin/use/PluginDependenciesSpec;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun getKotlin-serialization (Lorg/gradle/plugin/use/PluginDependenciesSpec;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun getKotlinx-binary-compatibility-validator (Lorg/gradle/plugin/use/PluginDependenciesSpec;)Lorg/gradle/plugin/use/PluginDependencySpec;
+	public static final fun getMkdocs (Lorg/gradle/plugin/use/PluginDependenciesSpec;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun getNexus-publish (Lorg/gradle/plugin/use/PluginDependenciesSpec;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun getReckon (Lorg/gradle/plugin/use/PluginDependenciesSpec;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun getSpotless (Lorg/gradle/plugin/use/PluginDependenciesSpec;)Lorg/gradle/plugin/use/PluginDependencySpec;
+	public static final fun gradle-plugin-publish (Lorg/gradle/plugin/use/PluginDependenciesSpec;Ljava/lang/String;)Lorg/gradle/plugin/use/PluginDependencySpec;
+	public static final fun hilt-android (Lorg/gradle/plugin/use/PluginDependenciesSpec;Ljava/lang/String;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun kotlin-android (Lorg/gradle/plugin/use/PluginDependenciesSpec;Ljava/lang/String;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun kotlin-binary-compatibility-validator (Lorg/gradle/plugin/use/PluginDependenciesSpec;Ljava/lang/String;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun kotlin-js (Lorg/gradle/plugin/use/PluginDependenciesSpec;Ljava/lang/String;)Lorg/gradle/plugin/use/PluginDependencySpec;
@@ -32,6 +37,7 @@ public final class PluginsAccessorsKt {
 	public static final fun kotlin-multiplatform (Lorg/gradle/plugin/use/PluginDependenciesSpec;Ljava/lang/String;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun kotlin-parcelize (Lorg/gradle/plugin/use/PluginDependenciesSpec;Ljava/lang/String;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun kotlin-serialization (Lorg/gradle/plugin/use/PluginDependenciesSpec;Ljava/lang/String;)Lorg/gradle/plugin/use/PluginDependencySpec;
+	public static final fun mkdocs (Lorg/gradle/plugin/use/PluginDependenciesSpec;Ljava/lang/String;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun nexus-publish (Lorg/gradle/plugin/use/PluginDependenciesSpec;Ljava/lang/String;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun reckon (Lorg/gradle/plugin/use/PluginDependenciesSpec;Ljava/lang/String;)Lorg/gradle/plugin/use/PluginDependencySpec;
 	public static final fun spotless (Lorg/gradle/plugin/use/PluginDependenciesSpec;Ljava/lang/String;)Lorg/gradle/plugin/use/PluginDependencySpec;

@@ -39,6 +39,12 @@ val PluginDependenciesSpec.`changelog`: PluginDependencySpec
 fun PluginDependenciesSpec.`changelog`(version: String): PluginDependencySpec =
     id("org.jetbrains.changelog").version(version)
 
+val PluginDependenciesSpec.`hilt-android`: PluginDependencySpec
+    get() = id("dagger.hilt.android.plugin")
+
+fun PluginDependenciesSpec.`hilt-android`(version: String): PluginDependencySpec =
+    id("dagger.hilt.android.plugin").version(version)
+
 val PluginDependenciesSpec.`detekt`: PluginDependencySpec
     get() = id("io.gitlab.arturbosch.detekt")
 
@@ -50,6 +56,12 @@ val PluginDependenciesSpec.`dokka`: PluginDependencySpec
 
 fun PluginDependenciesSpec.`dokka`(version: String): PluginDependencySpec =
     id("org.jetbrains.dokka").version(version)
+
+val PluginDependenciesSpec.`gradle-plugin-publish`: PluginDependencySpec
+    get() = id("com.gradle.plugin-publish")
+
+fun PluginDependenciesSpec.`gradle-plugin-publish`(version: String): PluginDependencySpec =
+        id("com.gradle.plugin-publish").version(version)
 
 val PluginDependenciesSpec.`kotlin-android`: PluginDependencySpec
     get() = id("org.jetbrains.kotlin.android")
@@ -100,6 +112,12 @@ fun PluginDependenciesSpec.`kotlin-binary-compatibility-validator`(
     version: String
 ): PluginDependencySpec =
     id("org.jetbrains.kotlinx.binary-compatibility-validator").version(version)
+
+val PluginDependenciesSpec.`mkdocs`: PluginDependencySpec
+    get() = id("ru.vyarus.mkdocs")
+
+fun PluginDependenciesSpec.`mkdocs`(version: String): PluginDependencySpec =
+    id("ru.vyarus.mkdocs").version(version)
 
 val PluginDependenciesSpec.`nexus-publish`: PluginDependencySpec
     get() = id("io.github.gradle-nexus.publish-plugin")
