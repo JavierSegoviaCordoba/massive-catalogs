@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- com.google.dagger:hilt-compiler
 - com.google.dagger:hilt-core
 
 ### Changed
