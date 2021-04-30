@@ -99,7 +99,7 @@ jobs:
           git commit -m "Bump plugins-catalog version to ${{ env.lib_version }}" -a
 
       - name: Patch CHANGELOG and generate README badges
-        run: ./gradlew patchChangelog generateReadmeBadges -P"reckon.scope"="${{ github.event.inputs.scope }}" -P"reckon.stage"="${{ github.event.inputs.stage }}"
+        run: ./gradlew patchChangelog buildReadmeBadges -P"reckon.scope"="${{ github.event.inputs.scope }}" -P"reckon.stage"="${{ github.event.inputs.stage }}"
 
       - name: Commit patched changelog
         run: |
