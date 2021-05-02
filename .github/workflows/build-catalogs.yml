@@ -103,8 +103,8 @@ jobs:
         with:
           sarif_file: 'build/reports/detekt/detekt.sarif'
 
-      - name: Generate snapshot docs
-        run: ./gradlew dokkaHtmlMultiModule -P"reckon.stage"="snapshot" -P"isSnapshot"="true"
+      - name: Generate docs
+        run: ./gradlew buildDocs -P"reckon.stage"="snapshot" -P"isSnapshot"="true"
 
       - name: Publish a snapshot
         env:
