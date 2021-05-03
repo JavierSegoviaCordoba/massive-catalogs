@@ -5,6 +5,7 @@
 ### Added
 
 ### Changed
+- com.javiersc.run-blocking:run-blocking to com.javiersc.run-blocking:run-blocking-core 
 
 ### Deprecated
 
