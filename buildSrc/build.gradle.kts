@@ -33,7 +33,6 @@ dependencies {
         implementation(javiersc.gradlePlugins.nexus)
         implementation(javiersc.gradlePlugins.readmeBadgesGenerator)
         implementation(javiersc.gradlePlugins.versioning)
-        implementation(javiersc.massiveCatalogs.pluginsAccessors)
         implementation(jetbrains.kotlinx.binaryCompatibilityValidator)
     }
 }

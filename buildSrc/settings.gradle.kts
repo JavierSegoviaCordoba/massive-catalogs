@@ -8,25 +8,17 @@ val properties = Properties().apply { load(input) }
 
 input.close()
 
-val massiveCatalogs: String = properties.getProperty("massiveCatalogs")
 val javierscGradlePlugins: String = properties.getProperty("javierscGradlePlugins")
 
 dependencyResolutionManagement {
     repositories {
         mavenCentral()
-        maven {
-            setUrl("https://oss.sonatype.org/content/repositories/snapshots")
-            content {
-                includeGroup("com.javiersc.massive-catalogs")
-                includeGroup("com.javiersc.gradle-plugins")
-            }
-        }
     }
 
     versionCatalogs {
-        create("libs") { from("com.javiersc.massive-catalogs:libs-catalog:$massiveCatalogs") }
+        create("libs") { from(files("../libs-catalog/build/catalogs/libs.versions.toml")) }
         create("pluginLibs") {
-            from("com.javiersc.massive-catalogs:plugins-catalog:$massiveCatalogs")
+            from(files("../plugins-catalog/build/catalogs/libs.versions.toml"))
             version("javierscGradlePlugins", javierscGradlePlugins)
         }
     }
