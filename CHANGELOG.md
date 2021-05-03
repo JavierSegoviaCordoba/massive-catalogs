@@ -3,11 +3,6 @@
 ## [Unreleased]
 
 ### Added
-- ru.vyarus:gradle-mkdocs-plugin
-- com.google.dagger:hilt-android-gradle-plugin
-- com.google.dagger:hilt-android
-- com.google.dagger:hilt-compiler
-- com.google.dagger:hilt-core
 
 ### Changed
 
@@ -19,6 +14,15 @@
 
 ### Updated
 
+
+## [0.1.0-alpha.19] - 2021-05-03
+
+### Added
+- ru.vyarus:gradle-mkdocs-plugin
+- com.google.dagger:hilt-android-gradle-plugin
+- com.google.dagger:hilt-android
+- com.google.dagger:hilt-compiler
+- com.google.dagger:hilt-core
 
 ## [0.1.0-alpha.18] - 2021-04-27
 
