@@ -5,7 +5,6 @@
 ### Added
 
 ### Changed
-- com.javiersc.run-blocking:run-blocking to com.javiersc.run-blocking:run-blocking-core 
 
 ### Deprecated
 
@@ -14,6 +13,12 @@
 ### Fixed
 
 ### Updated
+
+
+## [0.1.0-alpha.22] - 2021-05-03
+
+### Changed
+- com.javiersc.run-blocking:run-blocking to com.javiersc.run-blocking:run-blocking-core 
 
 ## [0.1.0-alpha.21] - 2021-05-03
 - No changes
