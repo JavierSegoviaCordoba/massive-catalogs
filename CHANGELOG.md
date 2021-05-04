@@ -5,6 +5,7 @@
 ### Added
 
 ### Changed
+-  `readme-badges-generator` to `readme-badges`
 
 ### Deprecated
 
