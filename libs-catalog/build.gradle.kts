@@ -1,10 +1,7 @@
-import com.javiersc.plugins.core.groupId
 
 plugins {
     `javiersc-publish-version-catalog`
 }
-
-group = groupId
 
 catalog {
     versionCatalog {

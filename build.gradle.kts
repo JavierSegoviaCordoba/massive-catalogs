@@ -3,6 +3,7 @@ import tasks.AddLibTask
 
 plugins {
     `javiersc-versioning`
+    `javiersc-all-projects`
     `javiersc-changelog`
     `javiersc-code-analysis`
     `javiersc-dependency-updates`

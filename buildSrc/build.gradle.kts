@@ -16,6 +16,7 @@ dependencies {
     libs.apply { implementation(javiersc.kamp.scanner) }
 
     pluginLibs.apply {
+        implementation(javiersc.gradlePlugins.allProjects)
         implementation(javiersc.gradlePlugins.changelog)
         implementation(javiersc.gradlePlugins.codeAnalysis)
         implementation(javiersc.gradlePlugins.codeFormatter)

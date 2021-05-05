@@ -1,11 +1,8 @@
-import com.javiersc.plugins.core.groupId
 import com.javiersc.plugins.core.isSignificant
 
 plugins {
     `javiersc-publish-version-catalog`
 }
-
-group = groupId
 
 catalog {
     versionCatalog {
@@ -50,6 +47,7 @@ val versions = "0.38.0"
 "com.google.dagger:hilt-android-gradle-plugin:$dagger"
 "com.gradle.publish:plugin-publish-plugin:$gradlePublish"
 "com.javiersc.gradle-plugins:all-plugins:$javierscGradlePlugins"
+"com.javiersc.gradle-plugins:all-projects:$javierscGradlePlugins"
 "com.javiersc.gradle-plugins:changelog:$javierscGradlePlugins"
 "com.javiersc.gradle-plugins:code-analysis:$javierscGradlePlugins"
 "com.javiersc.gradle-plugins:code-formatter:$javierscGradlePlugins"
