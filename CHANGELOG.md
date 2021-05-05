@@ -5,7 +5,6 @@
 ### Added
 
 ### Changed
--  `readme-badges-generator` to `readme-badges`
 
 ### Deprecated
 
@@ -15,6 +14,11 @@
 
 ### Updated
 
+
+## [0.1.0-alpha.23] - 2021-05-05
+
+### Changed
+-  `readme-badges-generator` to `readme-badges`
 
 ## [0.1.0-alpha.22] - 2021-05-03
 
