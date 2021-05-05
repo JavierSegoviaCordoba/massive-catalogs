@@ -1,3 +1,4 @@
+import scanner.ScannerTask
 import tasks.AddLibTask
 
 plugins {
@@ -29,6 +30,7 @@ tasks {
     }
 
     register<AddLibTask>("addLib")
+    register<ScannerTask>("mavenScan")
 }
 
 subprojects.onEach { subproject ->

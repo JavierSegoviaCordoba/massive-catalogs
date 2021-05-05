@@ -13,6 +13,8 @@ dependencies {
     implementation(gradleApi())
     implementation(localGroovy())
 
+    libs.apply { implementation(javiersc.kamp.scanner) }
+
     pluginLibs.apply {
         implementation(javiersc.gradlePlugins.changelog)
         implementation(javiersc.gradlePlugins.codeAnalysis)
