@@ -45,7 +45,7 @@ jobs:
           java-version: 11
 
       - name: Generate Kotlin libraries catalogs
-        run: java -jar scanner/scanner-0.1.0.jar mavenCentral --from ${{ matrix.range.from }} --to ${{ matrix.range.to }}
+        run: ./gradlew mavenScan --repository=mavenCentral --from=${{ matrix.range.from }} --to=${{ matrix.range.to }}
 
       - name: Upload catalogs
         uses: actions/upload-artifact@v2
