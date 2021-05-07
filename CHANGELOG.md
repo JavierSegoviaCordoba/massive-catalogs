@@ -3,7 +3,6 @@
 ## [Unreleased]
 
 ### Added
-- `com.facebook:ktfmt` to `libs-catalog`
 
 ### Changed
 
@@ -14,6 +13,12 @@
 ### Fixed
 
 ### Updated
+
+
+## [0.1.0-alpha.29] - 2021-05-07
+
+### Added
+- `com.facebook:ktfmt` to `libs-catalog`
 
 ## [0.1.0-alpha.28] - 2021-05-06
 - No changes
