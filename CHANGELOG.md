@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- io.insert-koin:koin-android
 - io.insert-koin:koin-test
 - io.insert-koin:koin-core
 
