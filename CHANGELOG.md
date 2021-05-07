@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- `com.facebook:ktfmt` to `libs-catalog`
 
 ### Changed
 
