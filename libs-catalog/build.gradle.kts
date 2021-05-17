@@ -1,3 +1,4 @@
+@file:kotlin.Suppress("UNUSED_EXPRESSION")
 
 plugins {
     `javiersc-publish-version-catalog`
@@ -22,7 +23,6 @@ val datetime = "0.2.0"
 val javierscKamp = "0.1.0"
 val koin = "3.0.1"
 val kotest = "4.5.0"
-val kotlin = "1.5.0"
 val ktfmt = "0.25"
 val ktor = "1.5.4"
 val mokoki = "0.1.0-alpha.3"
@@ -64,7 +64,8 @@ val turbine = "0.5.0"
 "io.ktor:ktor-client-core:$ktor"
 "io.ktor:ktor-client-mock:$ktor"
 "io.ktor:ktor-client-serialization:$ktor"
-"org.jetbrains.kotlin:kotlin-test:$kotlin"
+"org.jetbrains.kotlin:kotlin-reflect"
+"org.jetbrains.kotlin:kotlin-test"
 "org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutines"
 "org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutines"
 "org.jetbrains.kotlinx:kotlinx-datetime:$datetime"
