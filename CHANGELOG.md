@@ -3,10 +3,6 @@
 ## [Unreleased]
 
 ### Added
-- io.insert-koin:koin-androidx-compose
-- io.insert-koin:koin-android
-- io.insert-koin:koin-test
-- io.insert-koin:koin-core
 
 ### Changed
 
@@ -17,6 +13,15 @@
 ### Fixed
 
 ### Updated
+
+
+## [0.1.0-alpha.31] - 2021-05-17
+
+### Added
+- io.insert-koin:koin-androidx-compose
+- io.insert-koin:koin-android
+- io.insert-koin:koin-test
+- io.insert-koin:koin-core
 
 ## [0.1.0-alpha.30] - 2021-05-07
 - No changes
