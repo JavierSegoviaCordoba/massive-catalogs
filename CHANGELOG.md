@@ -11,6 +11,7 @@
 ### Removed
 
 ### Fixed
+- `koin-compose` version is not the same as Koin
 
 ### Updated
 
