@@ -11,10 +11,14 @@
 ### Removed
 
 ### Fixed
-- `koin-compose` version is not the same as Koin
 
 ### Updated
 
+
+## [0.1.0-alpha.32] - 2021-05-25
+
+### Fixed
+- `koin-compose` version is not the same as Koin
 
 ## [0.1.0-alpha.31] - 2021-05-17
 
