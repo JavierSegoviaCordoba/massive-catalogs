@@ -26,7 +26,7 @@ if (isSignificant) {
 val android = "4.1.3"
 val autoInclude = "1.3"
 val changelog = "1.1.2"
-val dagger = "2.35.1"
+val dagger = "2.36"
 val detekt = "1.17.1"
 val dokka = "1.4.32"
 val gradlePublish = "0.13.0"
