@@ -33,7 +33,7 @@ val retrofit = "2.9.0"
 val retrofitKotlinConverter = "0.8.0"
 val runBlocking = "0.1.0-alpha.2"
 val serialization = "1.2.1"
-val turbine = "0.5.1"
+val turbine = "0.5.2"
 
 // [libraries]
 "androidx.activity:activity-ktx:$activity"
