@@ -37,7 +37,7 @@ val massiveCatalogs = "0.1.0-alpha.32"
 val mkdocs = "2.1.1"
 val nexusPublish = "1.1.0"
 val reckon = "0.13.0"
-val spotless = "5.12.5"
+val spotless = "5.13.0"
 val versions = "0.39.0"
 
 // [libraries]
