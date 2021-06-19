@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- me.tatarka.inject:kotlin-inject-compiler-ksp
 - me.tatarka.inject:kotlin-inject-runtime
 - me.tatarka.inject:kotlin-inject-compiler-kapt
 
