@@ -4,6 +4,7 @@
 
 ### Added
 - me.tatarka.inject:kotlin-inject-runtime
+- me.tatarka.inject:kotlin-inject-compiler-kapt
 
 ### Changed
 
