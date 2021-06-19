@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- me.tatarka.inject:kotlin-inject-compiler-kapt
 
 ### Changed
 
