@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- me.tatarka.inject:kotlin-inject-runtime
 
 ### Changed
 
