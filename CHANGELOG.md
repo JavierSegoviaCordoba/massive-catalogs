@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin
 - me.tatarka.inject:kotlin-inject-compiler-ksp
 - me.tatarka.inject:kotlin-inject-runtime
 - me.tatarka.inject:kotlin-inject-compiler-kapt
