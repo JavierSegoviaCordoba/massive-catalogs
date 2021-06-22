@@ -3,6 +3,8 @@
 ## [Unreleased]
 
 ### Added
+- org.jetbrains.kotlin:kotlin-test-common
+- org.jetbrains.kotlin:kotlin-test-junit
 
 ### Changed
 
