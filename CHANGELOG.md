@@ -3,6 +3,11 @@
 ## [Unreleased]
 
 ### Added
+- com.javiersc.either:either-core
+- com.javiersc.either:network-core
+- com.javiersc.either:network-logger
+- com.javiersc.either:network-resource
+- com.javiersc.either:resource-core
 
 ### Changed
 
