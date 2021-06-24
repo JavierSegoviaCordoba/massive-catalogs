@@ -54,6 +54,8 @@ jobs:
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.TOKEN_GITHUB_ACTION }}
+          author: "GitHub Action <action@github.com>"
+
           commit-message: |
             Add the library `${{ github.event.inputs.artifact_group }}:${{ github.event.inputs.artifact_name }}`
 
