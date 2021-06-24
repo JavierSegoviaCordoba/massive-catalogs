@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- com.google.devtools.ksp:symbol-processing-api
 - com.javiersc.either:either-core
 - com.javiersc.either:network-core
 - com.javiersc.either:network-logger
