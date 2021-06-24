@@ -12,6 +12,7 @@ plugins {
     id("org.jetbrains.kotlinx.binary-compatibility-validator")
     `javiersc-nexus`
     `javiersc-readme-badges-generator`
+    `javiersc-gradle-wrapper-updater`
 }
 
 // TODO: Remove when [#3286](https://github.com/dependabot/dependabot-core/issues/3286) is fixed

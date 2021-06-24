@@ -22,6 +22,7 @@ dependencies {
         implementation(javiersc.gradlePlugins.codeFormatter)
         implementation(javiersc.gradlePlugins.dependencyUpdates)
         implementation(javiersc.gradlePlugins.docs)
+        implementation(javiersc.gradlePlugins.gradleWrapperUpdater)
         implementation(javiersc.gradlePlugins.kotlinMultiplatform)
         implementation(javiersc.gradlePlugins.publishKotlinJvm)
         implementation(javiersc.gradlePlugins.publishVersionCatalog)
