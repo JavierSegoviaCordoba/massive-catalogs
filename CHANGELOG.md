@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- com.javiersc.gradle-plugins:gradle-wrapper-updater
 - com.google.devtools.ksp:symbol-processing-api
 - com.javiersc.either:either-core
 - com.javiersc.either:network-core
