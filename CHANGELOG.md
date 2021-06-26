@@ -3,14 +3,6 @@
 ## [Unreleased]
 
 ### Added
-- com.javiersc.semantic-versioning:semantic-versioning-core
-- com.javiersc.gradle-plugins:gradle-wrapper-updater
-- com.google.devtools.ksp:symbol-processing-api
-- com.javiersc.either:either-core
-- com.javiersc.either:network-core
-- com.javiersc.either:network-logger
-- com.javiersc.either:network-resource
-- com.javiersc.either:resource-core
 
 ### Changed
 
@@ -22,6 +14,18 @@
 
 ### Updated
 
+
+## [0.1.0-alpha.35] - 2021-06-26
+
+### Added
+- com.javiersc.semantic-versioning:semantic-versioning-core
+- com.javiersc.gradle-plugins:gradle-wrapper-updater
+- com.google.devtools.ksp:symbol-processing-api
+- com.javiersc.either:either-core
+- com.javiersc.either:network-core
+- com.javiersc.either:network-logger
+- com.javiersc.either:network-resource
+- com.javiersc.either:resource-core
 
 ## [0.1.0-alpha.34] - 2021-06-22
 
