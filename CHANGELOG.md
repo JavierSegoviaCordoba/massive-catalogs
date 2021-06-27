@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- com.squareup.moshi:moshi
 
 ### Changed
 
