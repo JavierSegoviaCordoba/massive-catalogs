@@ -72,13 +72,15 @@ open class AddLibTask : DefaultTask() {
 
         File("${project.rootProject.projectDir}/CHANGELOG.md").apply {
             val content = readLines()
-            val contentUpdated = buildList {
-                addAll(content)
-                add(
-                    content.indexOfFirst { addedRegex.matches(it) } + 1,
-                    "- $artifactGroupClean:$artifactName"
-                )
-            }.joinToString("\n")
+            val contentUpdated =
+                buildList {
+                        addAll(content)
+                        add(
+                            content.indexOfFirst { addedRegex.matches(it) } + 1,
+                            "- $artifactGroupClean:$artifactName"
+                        )
+                    }
+                    .joinToString("\n")
             writeText(contentUpdated)
         }
     }

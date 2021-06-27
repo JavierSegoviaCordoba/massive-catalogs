@@ -4,7 +4,6 @@ dependencyResolutionManagement {
         maven(url = "https://oss.sonatype.org/content/repositories/snapshots/") {
             content { includeGroup("com.javiersc.massive-catalogs") }
         }
-        jcenter()
     }
 
     versionCatalogs {

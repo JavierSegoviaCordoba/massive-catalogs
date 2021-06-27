@@ -1,4 +1,4 @@
-@file:OptIn(ExperimentalStdlibApi::class)
+@file:Suppress("UnstableApiUsage")
 
 rootProject.name = providers.gradleProperty("allProjects.name").forUseAtConfigurationTime().get()
 
@@ -9,15 +9,16 @@ dependencyResolutionManagement {
     repositories {
         mavenCentral()
         google()
-        jcenter()
         gradlePluginPortal()
     }
 }
 
-include(":libs-catalog")
-include(":kotlin-catalog")
-include(":plugins-accessors")
-include(":plugins-catalog")
+include(
+    ":kotlin-catalog",
+    ":libs-catalog",
+    ":plugins-accessors",
+    ":plugins-catalog",
+)
 
 // includeBuild("testing-catalog")
 
