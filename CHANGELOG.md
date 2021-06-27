@@ -3,7 +3,6 @@
 ## [Unreleased]
 
 ### Added
-- org.jsoup:jsoup
 
 ### Changed
 
@@ -15,6 +14,11 @@
 
 ### Updated
 
+
+## [0.1.0-alpha.37] - 2021-06-27
+
+### Added
+- org.jsoup:jsoup
 
 ## [0.1.0-alpha.36] - 2021-06-27
 
