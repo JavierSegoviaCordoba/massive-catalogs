@@ -12,7 +12,11 @@ dependencies {
     implementation(gradleApi())
     implementation(localGroovy())
 
-    libs.apply { implementation(javiersc.kamp.scanner) }
+    libs.apply {
+        implementation(jsoup.jsoup)
+        implementation(javiersc.kamp.scanner)
+        implementation(javiersc.semanticVersioning.semanticVersioningCore)
+    }
 
     pluginLibs.apply {
         implementation(javiersc.gradlePlugins.allProjects)
