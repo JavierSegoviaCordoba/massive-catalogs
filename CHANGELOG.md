@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- org.jsoup:jsoup
 
 ### Changed
 
