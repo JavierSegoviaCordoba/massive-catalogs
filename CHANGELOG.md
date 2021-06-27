@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- `com.javiersc.gradle-plugins:massive-catalogs-updater` plugin
 
 ### Changed
 
