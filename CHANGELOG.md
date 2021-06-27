@@ -3,8 +3,6 @@
 ## [Unreleased]
 
 ### Added
-- com.google.code.gson:gson
-- com.squareup.moshi:moshi
 
 ### Changed
 
@@ -16,6 +14,12 @@
 
 ### Updated
 
+
+## [0.1.0-alpha.36] - 2021-06-27
+
+### Added
+- com.google.code.gson:gson
+- com.squareup.moshi:moshi
 
 ## [0.1.0-alpha.35] - 2021-06-26
 
