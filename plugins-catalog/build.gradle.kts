@@ -1,5 +1,3 @@
-import com.javiersc.plugins.core.isSignificant
-
 plugins {
     `javiersc-publish-version-catalog`
 }
@@ -7,16 +5,6 @@ plugins {
 catalog {
     versionCatalog {
         from(files("$buildDir/catalogs/libs.versions.toml"))
-    }
-}
-
-if (isSignificant) {
-    file("$projectDir/build.gradle.kts").apply {
-        writeText(
-            readLines().joinToString("\n") {
-                if (it.startsWith("val massiveCatalogs =")) "val massiveCatalogs = \"$version\"" else it
-            } + "\n"
-        )
     }
 }
 
@@ -34,7 +22,6 @@ val javierscGradlePlugins = "0.1.0-alpha.34"
 val kotlin = "1.5.20"
 val kotlinBinaryValidator = "0.6.0"
 val ksp = "1.5.20-1.0.0-beta03"
-val massiveCatalogs = "0.1.0-alpha.37"
 val mkdocs = "2.1.1"
 val nexusPublish = "1.1.0"
 val reckon = "0.13.0"
@@ -58,6 +45,7 @@ val versions = "0.39.0"
 "com.javiersc.gradle-plugins:gradle-wrapper-updater:$javierscGradlePlugins"
 "com.javiersc.gradle-plugins:kotlin-multiplatform:$javierscGradlePlugins"
 "com.javiersc.gradle-plugins:nexus:$javierscGradlePlugins"
+"com.javiersc.gradle-plugins:plugin-accessors:$javierscGradlePlugins"
 "com.javiersc.gradle-plugins:publish-android-library:$javierscGradlePlugins"
 "com.javiersc.gradle-plugins:publish-gradle-plugin:$javierscGradlePlugins"
 "com.javiersc.gradle-plugins:publish-kotlin-jvm:$javierscGradlePlugins"
@@ -65,7 +53,6 @@ val versions = "0.39.0"
 "com.javiersc.gradle-plugins:publish-version-catalog:$javierscGradlePlugins"
 "com.javiersc.gradle-plugins:readme-badges:$javierscGradlePlugins"
 "com.javiersc.gradle-plugins:versioning:$javierscGradlePlugins"
-"com.javiersc.massive-catalogs:plugins-accessors:$massiveCatalogs"
 "com.pablisco.gradle.auto.include:plugin:$versions"
 "io.github.gradle-nexus:publish-plugin:$nexusPublish"
 "io.gitlab.arturbosch.detekt:detekt-gradle-plugin:$detekt"

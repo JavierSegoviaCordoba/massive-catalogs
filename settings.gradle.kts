@@ -16,7 +16,6 @@ dependencyResolutionManagement {
 include(
     ":kotlin-catalog",
     ":libs-catalog",
-    ":plugins-accessors",
     ":plugins-catalog",
 )
 

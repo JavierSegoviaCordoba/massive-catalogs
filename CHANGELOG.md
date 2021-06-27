@@ -9,6 +9,7 @@
 ### Deprecated
 
 ### Removed
+- `plugins-accessors` project
 
 ### Fixed
 
