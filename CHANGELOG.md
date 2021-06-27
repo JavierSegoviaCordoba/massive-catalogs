@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- com.google.code.gson:gson
 - com.squareup.moshi:moshi
 
 ### Changed
