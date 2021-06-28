@@ -3,19 +3,25 @@
 ## [Unreleased]
 
 ### Added
-- `com.javiersc.gradle-plugins:massive-catalogs-updater` plugin
 
 ### Changed
 
 ### Deprecated
 
 ### Removed
-- `plugins-accessors` project
 
 ### Fixed
 
 ### Updated
 
+
+## [0.1.0-alpha.38] - 2021-06-28
+
+### Added
+- `com.javiersc.gradle-plugins:massive-catalogs-updater` plugin
+
+### Removed
+- `plugins-accessors` project
 
 ## [0.1.0-alpha.37] - 2021-06-27
 
