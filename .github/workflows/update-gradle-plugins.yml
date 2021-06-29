@@ -44,6 +44,8 @@ jobs:
         continue-on-error: true
         with:
           token: ${{ secrets.GITHUB_TOKEN  }}
+          author: GitHub Action <action@github.com>
+          committer: GitHub Action <action@github.com>
           commit-message: "Bump Gradle Plugins version to ${{ steps.gradle_plugins.outputs.version }}"
           title: "Bump Gradle Plugins version to ${{ steps.gradle_plugins.outputs.version }}"
           body: "Changelog: https://gradle-plugins.javiersc.com/CHANGELOG/"
