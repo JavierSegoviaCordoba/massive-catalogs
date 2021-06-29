@@ -1,4 +1,5 @@
 import com.javiersc.semanticVersioning.Version
+import org.jetbrains.kotlin.gradle.internal.ensureParentDirsCreated
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
 import org.jsoup.select.Elements
@@ -52,9 +53,8 @@ fun getProjectVersion(project: String): Version {
 
 fun writeVersionToGradleProperties(version: Version) {
     logger.lifecycle(
-        "${magenta}Latest Gradle Plugins version: $yellow${version.value}$reset"
+        "${magenta}Latest JavierSC Gradle Plugins version: $yellow${version.value}$reset"
     )
-
     val gradleProperties: File = file("${rootProject.rootDir.path}/gradle.properties")
 
     gradleProperties.apply {
@@ -65,5 +65,11 @@ fun writeVersionToGradleProperties(version: Version) {
                 } else line
             } + "\n"
         )
+    }
+
+    file("${rootProject.buildDir}/versions/gradle-plugins.txt").apply {
+        ensureParentDirsCreated()
+        createNewFile()
+        writeText(version.value)
     }
 }
