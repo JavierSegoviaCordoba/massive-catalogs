@@ -3,7 +3,6 @@
 ## [Unreleased]
 
 ### Added
-- gradle.plugin.com.bnorm.power:kotlin-power-assert-gradle
 
 ### Changed
 
@@ -14,6 +13,12 @@
 ### Fixed
 
 ### Updated
+
+
+## [0.1.0-alpha.40] - 2021-06-30
+
+### Added
+- gradle.plugin.com.bnorm.power:kotlin-power-assert-gradle
 
 ## [0.1.0-alpha.39] - 2021-06-28
 - No changes
