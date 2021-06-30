@@ -16,7 +16,7 @@ catalog {
 val activity = "1.2.3"
 val appCompat = "1.3.0"
 val browser = "1.3.0"
-val core = "1.5.0"
+val core = "1.6.0"
 val coroutines = "1.5.0-native-mt"
 val dagger = "2.37"
 val datetime = "0.2.1"
