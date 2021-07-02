@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- io.arrow-kt:arrow-meta
 - io.arrow-kt:arrow-optics
 - io.arrow-kt:arrow-core
 
