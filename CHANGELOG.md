@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- io.arrow-kt:arrow-core
 
 ### Changed
 
