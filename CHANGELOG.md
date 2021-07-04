@@ -3,10 +3,6 @@
 ## [Unreleased]
 
 ### Added
-- com.squareup.okio:okio
-- io.arrow-kt:arrow-meta
-- io.arrow-kt:arrow-optics
-- io.arrow-kt:arrow-core
 
 ### Changed
 
@@ -18,6 +14,14 @@
 
 ### Updated
 
+
+## [0.1.0-alpha.41] - 2021-07-04
+
+### Added
+- com.squareup.okio:okio
+- io.arrow-kt:arrow-meta
+- io.arrow-kt:arrow-optics
+- io.arrow-kt:arrow-core
 
 ## [0.1.0-alpha.40] - 2021-06-30
 
