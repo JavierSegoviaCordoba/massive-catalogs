@@ -7,7 +7,7 @@ on:
         description: "Gradle Wrapper version stage, empty or one of [current, rc, nightly]"
         required: false
   schedule:
-    - cron: "0 7 * * TUE"
+    - cron: '0 0 * * *'
 
 jobs:
   build:
