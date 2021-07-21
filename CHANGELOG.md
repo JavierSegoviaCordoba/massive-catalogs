@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- org.jetbrains.compose:compose-gradle-plugin
 
 ### Changed
 
