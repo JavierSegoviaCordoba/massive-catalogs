@@ -14,7 +14,7 @@ catalog {
 
 // [versions]
 val activity = "1.2.4"
-val appCompat = "1.3.0"
+val appCompat = "1.3.1"
 val arrow = "0.13.2"
 val browser = "1.3.0"
 val core = "1.6.0"
