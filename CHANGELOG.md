@@ -3,7 +3,6 @@
 ## [Unreleased]
 
 ### Added
-- org.jetbrains.compose:compose-gradle-plugin
 
 ### Changed
 
@@ -15,6 +14,11 @@
 
 ### Updated
 
+
+## [0.1.0-alpha.42] - 2021-07-23
+
+### Added
+- org.jetbrains.compose:compose-gradle-plugin
 
 ## [0.1.0-alpha.41] - 2021-07-04
 
