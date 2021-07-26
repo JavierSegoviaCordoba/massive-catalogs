@@ -14,7 +14,7 @@ catalog {
 val android = "4.1.3"
 val autoInclude = "1.3"
 val changelog = "1.1.2"
-val composeJetbrains = "0.5.0-build262"
+val composeJetbrains = "0.5.0-build270"
 val dagger = "2.38"
 val detekt = "1.17.1"
 val dokka = "1.5.0"
