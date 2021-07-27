@@ -11,7 +11,7 @@ catalog {
 // catalog start
 
 // [versions]
-val android = "4.1.3"
+val android = "4.2.2"
 val autoInclude = "1.3"
 val changelog = "1.1.2"
 val composeJetbrains = "0.5.0-build270"
