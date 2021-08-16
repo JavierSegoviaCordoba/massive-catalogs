@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- com.javiersc.gradle-plugins:android-library
 
 ### Changed
 
