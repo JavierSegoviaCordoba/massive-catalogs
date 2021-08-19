@@ -93,6 +93,21 @@ class Artifact(private val group: String, private val name: String, private val 
             .split("-")
             .filter { it.isNotBlank() }
             .joinToString("-") { it.replace("-", "") }
+            .sanitizeAlias()
+
+    private fun String.sanitizeAlias(): String {
+        return if (endsWith("plugin", true) ||
+            endsWith("plugins", true) ||
+            endsWith("bundle", true) ||
+            endsWith("bundles", true) ||
+            endsWith("version", true) ||
+            endsWith("versions", true)
+        ) {
+            this + "X"
+        } else {
+            this
+        }
+    }
 
     private fun buildArtifact(): String =
         if (version.isBlank()) """{ group = "$group", name = "$name" }"""
