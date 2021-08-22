@@ -79,6 +79,17 @@ jobs:
           distribution: 'zulu'
           java-version: 11
 
+      - name: Gradle cache
+        uses: actions/cache@v2.1.6
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+            ~/.konan
+          key: gradle-${{ runner.os }}-${{ hashFiles('**/*.gradle*', '**/gradle.properties', '**/gradle-wrapper.properties') }}
+          restore-keys: |
+            gradle-${{ runner.os }}-
+
       - name: Generate Kotlin libraries catalogs
         run: ./gradlew mavenScan --repository=mavenCentral --from=${{ matrix.range.from }} --to=${{ matrix.range.to }}
 
@@ -87,6 +98,9 @@ jobs:
         with:
           name: catalogs-${{ matrix.range.from }}-${{ matrix.range.to }}
           path: build/catalogs
+
+      - name: Stop Gradle daemons
+        run: ./gradlew --stop
 
   publish-kotlin-catalog:
     runs-on: ubuntu-latest
@@ -112,9 +126,9 @@ jobs:
             ~/.gradle/caches
             ~/.gradle/wrapper
             ~/.konan
-          key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle*') }}-${{ hashFiles('**/gradle.properties') }}
+          key: gradle-${{ runner.os }}-${{ hashFiles('**/*.gradle*', '**/gradle.properties', '**/gradle-wrapper.properties') }}
           restore-keys: |
-            ${{ runner.os }}-gradle-
+            gradle-${{ runner.os }}-
 
       - name: Download catalogs
         uses: actions/download-artifact@v2
@@ -132,3 +146,6 @@ jobs:
 
       - name: Publish a release
         run: ./gradlew kotlin-catalog:publishToSonatype closeSonatypeStagingRepository -P"signing.gnupg.keyName"="${{ secrets.GPG_KEY_NAME }}" -P"signing.gnupg.passphrase"="${{ secrets.GPG_PASSPHRASE }}"
+
+      - name: Stop Gradle daemons
+        run: ./gradlew --stop
