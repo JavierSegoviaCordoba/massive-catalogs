@@ -43,9 +43,9 @@ jobs:
             ~/.gradle/caches
             ~/.gradle/wrapper
             ~/.konan
-          key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle*') }}-${{ hashFiles('**/gradle.properties') }}
+          key: gradle-${{ runner.os }}-${{ hashFiles('**/*.gradle*', '**/gradle.properties', '**/gradle-wrapper.properties') }}
           restore-keys: |
-            ${{ runner.os }}-gradle-
+            gradle-${{ runner.os }}-
 
       - name: Add library
         run: ./gradlew addLib --"projectName"="${{ github.event.inputs.project_name }}" --"artifactGroup"="${{ github.event.inputs.artifact_group }}" --"artifactName"="${{ github.event.inputs.artifact_name }}" --"artifactVersionRef"="${{ github.event.inputs.version_ref }}" --"artifactVersion"="${{ github.event.inputs.artifact_version }}"
@@ -72,3 +72,6 @@ jobs:
             Initial version: `${{ github.event.inputs.artifact_version }}`
             Version reference: `${{ github.event.inputs.version_ref }}`
           branch: "${{ github.event.inputs.project_name }}--${{ github.event.inputs.artifact_group }}-${{ github.event.inputs.artifact_name }}"
+
+      - name: Stop Gradle daemons
+        run: ./gradlew --stop
