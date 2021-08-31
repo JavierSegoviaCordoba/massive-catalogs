@@ -40,7 +40,7 @@ val popkorn = "2.1.1"
 val retrofit = "2.9.0"
 val retrofitKotlinConverter = "0.8.0"
 val runBlocking = "0.1.0-alpha.4"
-val semanticVersioning = "0.1.0-alpha.3"
+val semanticVersioning = "0.1.0-alpha.4"
 val serialization = "1.2.2"
 val turbine = "0.6.0"
 
