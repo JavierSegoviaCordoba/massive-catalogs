@@ -1,0 +1,62 @@
+
+[versions]
+android = "7.0.2"
+autoInclude = "1.3"
+changelog = "1.1.2"
+composeJetbrains = "1.0.0-alpha4-build344"
+dagger = "2.38.1"
+detekt = "1.18.1"
+dokka = "1.5.0"
+gradlePublish = "0.13.0"
+javierscGradlePlugins = "0.1.0-alpha.54"
+kotlin = "1.5.30"
+kotlinBinaryValidator = "0.7.1"
+kotlinPowerAssert = "0.10.0"
+ksp = "1.5.30-1.0.0"
+mkdocs = "2.1.1"
+nexusPublish = "1.1.0"
+reckon = "0.13.0"
+spotless = "5.15.0"
+versions = "0.39.0"
+
+[libraries]
+android-toolsBuild-gradle = { group = "com.android.tools.build", name = "gradle", version.ref = "android" }
+diffplug-spotless-spotlessPluginGradle = { group = "com.diffplug.spotless", name = "spotless-plugin-gradle", version.ref = "spotless" }
+github-benManes-gradleVersionsPluginX = { group = "com.github.ben-manes", name = "gradle-versions-plugin", version.ref = "versions" }
+google-dagger-hiltAndroidGradlePluginX = { group = "com.google.dagger", name = "hilt-android-gradle-plugin", version.ref = "dagger" }
+google-devtoolsKsp-com-google-devtools-ksp-gradle-pluginX = { group = "com.google.devtools.ksp", name = "com.google.devtools.ksp.gradle.plugin", version.ref = "ksp" }
+gradle-publish-pluginPublishPluginX = { group = "com.gradle.publish", name = "plugin-publish-plugin", version.ref = "gradlePublish" }
+javiersc-gradlePlugins-allProjects = { group = "com.javiersc.gradle-plugins", name = "all-projects", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-androidLibrary = { group = "com.javiersc.gradle-plugins", name = "android-library", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-changelog = { group = "com.javiersc.gradle-plugins", name = "changelog", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-codeAnalysis = { group = "com.javiersc.gradle-plugins", name = "code-analysis", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-codeFormatter = { group = "com.javiersc.gradle-plugins", name = "code-formatter", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-dependencyUpdates = { group = "com.javiersc.gradle-plugins", name = "dependency-updates", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-docs = { group = "com.javiersc.gradle-plugins", name = "docs", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-gradleWrapperUpdater = { group = "com.javiersc.gradle-plugins", name = "gradle-wrapper-updater", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-kotlinJvm = { group = "com.javiersc.gradle-plugins", name = "kotlin-jvm", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-kotlinMultiplatform = { group = "com.javiersc.gradle-plugins", name = "kotlin-multiplatform", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-kotlinMultiplatformNoAndroid = { group = "com.javiersc.gradle-plugins", name = "kotlin-multiplatform-no-android", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-massiveCatalogsUpdater = { group = "com.javiersc.gradle-plugins", name = "massive-catalogs-updater", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-nexus = { group = "com.javiersc.gradle-plugins", name = "nexus", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-pluginAccessors = { group = "com.javiersc.gradle-plugins", name = "plugin-accessors", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-publishAndroidLibrary = { group = "com.javiersc.gradle-plugins", name = "publish-android-library", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-publishGradlePluginX = { group = "com.javiersc.gradle-plugins", name = "publish-gradle-plugin", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-publishKotlinJvm = { group = "com.javiersc.gradle-plugins", name = "publish-kotlin-jvm", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-publishKotlinMultiplatform = { group = "com.javiersc.gradle-plugins", name = "publish-kotlin-multiplatform", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-publishVersionCatalog = { group = "com.javiersc.gradle-plugins", name = "publish-version-catalog", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-readmeBadges = { group = "com.javiersc.gradle-plugins", name = "readme-badges", version.ref = "javierscGradlePlugins" }
+javiersc-gradlePlugins-versioning = { group = "com.javiersc.gradle-plugins", name = "versioning", version.ref = "javierscGradlePlugins" }
+pablisco-gradleAutoInclude-pluginX = { group = "com.pablisco.gradle.auto.include", name = "plugin", version.ref = "versions" }
+plugin-comBnormPower-kotlinPowerAssertGradle = { group = "gradle.plugin.com.bnorm.power", name = "kotlin-power-assert-gradle", version.ref = "kotlinPowerAssert" }
+github-gradleNexus-publishPluginX = { group = "io.github.gradle-nexus", name = "publish-plugin", version.ref = "nexusPublish" }
+gitlab-arturboschDetekt-detektGradlePluginX = { group = "io.gitlab.arturbosch.detekt", name = "detekt-gradle-plugin", version.ref = "detekt" }
+ajoberstar-reckon-reckonGradle = { group = "org.ajoberstar.reckon", name = "reckon-gradle", version.ref = "reckon" }
+jetbrains-compose-composeGradlePluginX = { group = "org.jetbrains.compose", name = "compose-gradle-plugin", version.ref = "composeJetbrains" }
+jetbrains-dokka-dokkaCore = { group = "org.jetbrains.dokka", name = "dokka-core", version.ref = "dokka" }
+jetbrains-dokka-dokkaGradlePluginX = { group = "org.jetbrains.dokka", name = "dokka-gradle-plugin", version.ref = "dokka" }
+jetbrains-intellijPlugins-gradleChangelogPluginX = { group = "org.jetbrains.intellij.plugins", name = "gradle-changelog-plugin", version.ref = "changelog" }
+jetbrains-kotlin-kotlinGradlePluginX = { group = "org.jetbrains.kotlin", name = "kotlin-gradle-plugin", version.ref = "kotlin" }
+jetbrains-kotlin-kotlinSerialization = { group = "org.jetbrains.kotlin", name = "kotlin-serialization", version.ref = "kotlin" }
+jetbrains-kotlinx-binaryCompatibilityValidator = { group = "org.jetbrains.kotlinx", name = "binary-compatibility-validator", version.ref = "kotlinBinaryValidator" }
+vyarus-gradleMkdocsPluginX = { group = "ru.vyarus", name = "gradle-mkdocs-plugin", version.ref = "mkdocs" }
