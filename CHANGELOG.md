@@ -4,12 +4,15 @@
 
 ### Added
 - com.javiersc.gradle-plugins:android-library
+- com.javiersc.gradle-plugins:kotlin-jvm
+- com.javiersc.gradle-plugins:kotlin-multiplatform-no-android
 
 ### Changed
 
 ### Deprecated
 
 ### Removed
+- com.javiersc.gradle-plugins:all-plugins
 
 ### Fixed
 
