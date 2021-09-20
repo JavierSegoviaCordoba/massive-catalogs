@@ -16,7 +16,7 @@ ksp = "1.5.30-1.0.0"
 mkdocs = "2.1.1"
 nexusPublish = "1.1.0"
 reckon = "0.13.0"
-spotless = "5.15.0"
+spotless = "5.15.1"
 versions = "0.39.0"
 
 [libraries]
