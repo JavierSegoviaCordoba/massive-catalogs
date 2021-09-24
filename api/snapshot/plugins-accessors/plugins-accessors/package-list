@@ -1,0 +1,47 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/plugins-accessors/[root]/index.html
+$dokka.location://android-application/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/android-application.html
+$dokka.location://android-application/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/android-application.html
+$dokka.location://android-library/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/android-library.html
+$dokka.location://android-library/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/android-library.html
+$dokka.location://auto-include/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/auto-include.html
+$dokka.location://auto-include/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/auto-include.html
+$dokka.location://ben-manes-versions/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/ben-manes-versions.html
+$dokka.location://ben-manes-versions/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/ben-manes-versions.html
+$dokka.location://changelog/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/changelog.html
+$dokka.location://changelog/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/changelog.html
+$dokka.location://detekt/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/detekt.html
+$dokka.location://detekt/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/detekt.html
+$dokka.location://dokka/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/dokka.html
+$dokka.location://dokka/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/dokka.html
+$dokka.location://gradle-plugin-publish/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/gradle-plugin-publish.html
+$dokka.location://gradle-plugin-publish/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/gradle-plugin-publish.html
+$dokka.location://hilt-android/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/hilt-android.html
+$dokka.location://hilt-android/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/hilt-android.html
+$dokka.location://kotlin-android/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/kotlin-android.html
+$dokka.location://kotlin-android/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/kotlin-android.html
+$dokka.location://kotlin-binary-compatibility-validator/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/kotlin-binary-compatibility-validator.html
+$dokka.location://kotlin-js/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/kotlin-js.html
+$dokka.location://kotlin-js/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/kotlin-js.html
+$dokka.location://kotlin-jvm/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/kotlin-jvm.html
+$dokka.location://kotlin-jvm/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/kotlin-jvm.html
+$dokka.location://kotlin-kapt/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/kotlin-kapt.html
+$dokka.location://kotlin-kapt/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/kotlin-kapt.html
+$dokka.location://kotlin-multiplatform/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/kotlin-multiplatform.html
+$dokka.location://kotlin-multiplatform/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/kotlin-multiplatform.html
+$dokka.location://kotlin-parcelize/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/kotlin-parcelize.html
+$dokka.location://kotlin-parcelize/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/kotlin-parcelize.html
+$dokka.location://kotlin-serialization/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/kotlin-serialization.html
+$dokka.location://kotlin-serialization/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/kotlin-serialization.html
+$dokka.location://kotlinx-binary-compatibility-validator/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/kotlinx-binary-compatibility-validator.html
+$dokka.location://mkdocs/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/mkdocs.html
+$dokka.location://mkdocs/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/mkdocs.html
+$dokka.location://nexus-publish/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/nexus-publish.html
+$dokka.location://nexus-publish/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/nexus-publish.html
+$dokka.location://reckon/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/reckon.html
+$dokka.location://reckon/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/reckon.html
+$dokka.location://spotless/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugins-accessors/[root]/spotless.html
+$dokka.location://spotless/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugins-accessors/[root]/spotless.html
+
+
