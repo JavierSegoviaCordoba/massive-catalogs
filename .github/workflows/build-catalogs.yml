@@ -106,11 +106,11 @@ jobs:
 
       - name: Gradle build
         if: ${{ always() }}
-        run: ./gradlew build -P"reckon.stage"="snapshot"
+        run: ./gradlew build -P"reckon.stage"="snapshot" -P"reckon.scope"="patch"
 
       - name: Generate code analysis reports
         if: ${{ always() }}
-        run: ./gradlew detekt -P"reckon.stage"="snapshot"
+        run: ./gradlew detekt -P"reckon.stage"="snapshot" -P"reckon.scope"="patch"
 
       - name: Upload code analysis reports
         if: ${{ always() }}
@@ -119,13 +119,13 @@ jobs:
           sarif_file: 'build/reports/detekt/detekt.sarif'
 
       - name: Generate docs
-        run: ./gradlew buildDocs -P"reckon.stage"="snapshot"
+        run: ./gradlew buildDocs -P"reckon.stage"="snapshot" -P"reckon.scope"="patch"
 
       - name: Publish a snapshot
         env:
           ossUser: ${{ secrets.OSS_USER }}
           ossToken: ${{ secrets.OSS_TOKEN }}
-        run: ./gradlew publishToSonatype -P"reckon.stage"="snapshot"
+        run: ./gradlew publishToSonatype -P"reckon.stage"="snapshot" -P"reckon.scope"="patch"
 
       - name: Deploy snapshot docs to Github Pages
         uses: JamesIves/github-pages-deploy-action@4.1.5
