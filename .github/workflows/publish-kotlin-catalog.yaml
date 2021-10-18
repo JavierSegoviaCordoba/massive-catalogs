@@ -142,11 +142,11 @@ jobs:
       - name: Import GPG key
         uses: crazy-max/ghaction-import-gpg@v4
         with:
-          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
-          passphrase: ${{ secrets.GPG_PASSPHRASE }}
+          gpg_private_key: ${{ secrets.SIGNING_KEY }}
+          passphrase: ${{ secrets.SIGNING_KEY_PASSPHRASE }}
 
       - name: Publish a release
-        run: ./gradlew kotlin-catalog:publishToSonatype closeSonatypeStagingRepository -P"signing.gnupg.keyName"="${{ secrets.GPG_KEY_NAME }}" -P"signing.gnupg.passphrase"="${{ secrets.GPG_PASSPHRASE }}"
+        run: ./gradlew publishToSonatype closeSonatypeStagingRepository -P"projects.allExceptKotlinCatalog.areEnabled"="false"
 
       - name: Stop Gradle daemons
         run: ./gradlew --stop

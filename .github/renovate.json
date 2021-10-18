@@ -2,6 +2,12 @@
   "extends": [
     "config:base"
   ],
+  "assigneesFromCodeOwners": true,
+  "commitBodyTable": true,
+  "gitIgnoredAuthors": [
+    "javiersegoviacordoba@gmail.com",
+    "javier@segoviacordoba.com"
+  ],
   "packageRules": [
     {
       "matchPackagePatterns": [
@@ -15,6 +21,5 @@
       "groupName": "all dependencies",
       "groupSlug": "all"
     }
-  ],
-  "assigneesFromCodeOwners": true
+  ]
 }

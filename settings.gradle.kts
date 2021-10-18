@@ -1,6 +1,7 @@
 rootProject.name = providers.gradleProperty("allProjects.name").forUseAtConfigurationTime().get()
 
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
+
 enableFeaturePreview("VERSION_CATALOGS")
 
 dependencyResolutionManagement {
@@ -12,8 +13,27 @@ dependencyResolutionManagement {
     }
 }
 
-include(
-    ":kotlin-catalog",
-    ":libs-catalog",
-    ":plugins-catalog",
-)
+val isKotlinProjectEnabled: Boolean =
+    providers
+        .gradleProperty("projects.kotlinCatalog.isEnabled")
+        .forUseAtConfigurationTime()
+        .orNull
+        ?.toBoolean()
+        ?: true
+
+if (isKotlinProjectEnabled) include(":kotlin-catalog")
+
+val allProjectsExceptKotlinCatalogEnabled: Boolean =
+    providers
+        .gradleProperty("projects.allExceptKotlinCatalog.areEnabled")
+        .forUseAtConfigurationTime()
+        .orNull
+        ?.toBoolean()
+        ?: true
+
+if (allProjectsExceptKotlinCatalogEnabled) {
+    include(
+        ":libs-catalog",
+        ":plugins-catalog",
+    )
+}
