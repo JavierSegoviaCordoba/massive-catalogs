@@ -1,6 +1,5 @@
 import scanner.ScannerTask
 import tasks.AddLibTask
-import tasks.CheckAGP
 
 plugins {
     `javiersc-versioning`
@@ -22,5 +21,4 @@ tasks {
 
     register<AddLibTask>("addLib")
     register<ScannerTask>("mavenScan")
-    register<CheckAGP>("checkAGP")
 }
