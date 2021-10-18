@@ -17,6 +17,10 @@
 ### Fixed
 
 ### Updated
+- `com.diffplug.spotless:spotless-plugin-gradle -> 5.17.0`
+- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-alpha4-build398`
+- `org.jetbrains.intellij.plugins:gradle-changelog-plugin -> 1.3.1`
+- `com.android.tools.build:gradle -> 7.0.3`
 
 ## [0.1.0-alpha.43] - 2021-07-30
 - No changes
