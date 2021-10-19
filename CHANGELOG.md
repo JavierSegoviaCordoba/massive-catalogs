@@ -17,6 +17,7 @@
 ### Fixed
 
 ### Updated
+- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-alpha4-build411`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 5.17.0`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-alpha4-build398`
 - `org.jetbrains.intellij.plugins:gradle-changelog-plugin -> 1.3.1`
