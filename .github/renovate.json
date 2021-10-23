@@ -7,19 +7,5 @@
   "gitIgnoredAuthors": [
     "javiersegoviacordoba@gmail.com",
     "javier@segoviacordoba.com"
-  ],
-  "packageRules": [
-    {
-      "matchPackagePatterns": [
-        "*"
-      ],
-      "matchUpdateTypes": [
-        "major",
-        "minor",
-        "patch"
-      ],
-      "groupName": "all dependencies",
-      "groupSlug": "all"
-    }
   ]
 }
