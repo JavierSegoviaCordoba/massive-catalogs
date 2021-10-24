@@ -11,7 +11,12 @@ jobs:
     uses: JavierSegoviaCordoba/reusable-workflows/.github/workflows/publish-kotlin.yaml@main
     with:
       machines: 'ubuntu-latest'
+      publish-maven-central: true
       gradle-args-publish-maven-central: '-P"projects.kotlinCatalog.isEnabled"="false"'
+      publish-gradle-plugin-portal: false
+      publish-jetbrains-marketplace: false
+      publish-docs: true
+      publish-github-release: true
     secrets:
       GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
       OSS_USER: '${{ secrets.OSS_USER }}'
