@@ -17,6 +17,10 @@
 ### Fixed
 
 ### Updated
+- `com.google.dagger:hilt-core -> 2.40`
+- `com.google.dagger:hilt-compiler -> 2.40`
+- `com.google.dagger:hilt-android -> 2.40`
+- `com.google.dagger:hilt-android-gradle-plugin -> 2.40`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-alpha4-build411`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 5.17.0`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-alpha4-build398`
