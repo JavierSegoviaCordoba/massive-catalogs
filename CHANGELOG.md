@@ -17,6 +17,7 @@
 ### Fixed
 
 ### Updated
+- `com.diffplug.spotless:spotless-plugin-gradle -> 5.17.1`
 - `com.google.dagger:hilt-core -> 2.40`
 - `com.google.dagger:hilt-compiler -> 2.40`
 - `com.google.dagger:hilt-android -> 2.40`
