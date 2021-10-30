@@ -17,6 +17,10 @@
 ### Fixed
 
 ### Updated
+- `io.insert-koin:koin-androidx-compose -> 3.1.3`
+- `io.insert-koin:koin-test -> 3.1.3`
+- `io.insert-koin:koin-core -> 3.1.3`
+- `io.insert-koin:koin-android -> 3.1.3`
 - `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.1`
 - `androidx.activity:activity-ktx -> 1.4.0`
 - `androidx.core:core-ktx -> 1.7.0`
