@@ -17,6 +17,7 @@
 ### Fixed
 
 ### Updated
+- `androidx.core:core-ktx -> 1.7.0`
 - `com.squareup.okio:okio -> 3.0.0`
 - `com.google.code.gson:gson -> 2.8.9`
 - `app.cash.turbine:turbine -> 0.7.0`
