@@ -17,6 +17,7 @@
 ### Fixed
 
 ### Updated
+- `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.1`
 - `androidx.activity:activity-ktx -> 1.4.0`
 - `androidx.core:core-ktx -> 1.7.0`
 - `com.squareup.okio:okio -> 3.0.0`
