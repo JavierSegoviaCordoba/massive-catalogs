@@ -17,6 +17,10 @@
 ### Fixed
 
 ### Updated
+- `io.ktor:ktor-client-serialization -> 1.6.5`
+- `io.ktor:ktor-client-mock -> 1.6.5`
+- `io.ktor:ktor-client-core -> 1.6.5`
+- `io.ktor:ktor-client-cio -> 1.6.5`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta5`
 - `io.insert-koin:koin-androidx-compose -> 3.1.3`
 - `io.insert-koin:koin-test -> 3.1.3`
