@@ -1,5 +1,6 @@
 plugins {
     `version-catalog`
+    dokka
     `javiersc-publish`
 }
 
