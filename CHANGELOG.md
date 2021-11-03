@@ -17,6 +17,7 @@
 ### Fixed
 
 ### Updated
+- `androidx.browser:browser -> 1.4.0`
 - `io.ktor:ktor-client-serialization -> 1.6.5`
 - `io.ktor:ktor-client-mock -> 1.6.5`
 - `io.ktor:ktor-client-core -> 1.6.5`
