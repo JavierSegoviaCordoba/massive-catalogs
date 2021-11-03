@@ -1,5 +1,6 @@
 plugins {
-    `javiersc-publish-version-catalog`
+    `version-catalog`
+    `javiersc-publish`
 }
 
 catalog {

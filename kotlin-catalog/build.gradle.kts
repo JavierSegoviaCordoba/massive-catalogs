@@ -1,6 +1,6 @@
-
 plugins {
-    `javiersc-publish-version-catalog`
+    `version-catalog`
+    `javiersc-publish`
 }
 
 catalog {
@@ -9,8 +9,8 @@ catalog {
             files(
                 file("${rootProject.buildDir}/catalogs").walkTopDown().filter {
                     it.isFile && it.extension == "toml"
-                }.toList()
-            )
+                }.toList(),
+            ),
         )
     }
 }

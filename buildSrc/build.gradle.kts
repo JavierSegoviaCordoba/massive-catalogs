@@ -24,17 +24,7 @@ dependencies {
     }
 
     pluginLibs.apply {
-        implementation(javiersc.gradlePlugins.allProjects)
-        implementation(javiersc.gradlePlugins.changelog)
-        implementation(javiersc.gradlePlugins.codeAnalysis)
-        implementation(javiersc.gradlePlugins.codeFormatter)
-        implementation(javiersc.gradlePlugins.docs)
-        implementation(javiersc.gradlePlugins.kotlinMultiplatform)
-        implementation(javiersc.gradlePlugins.publishKotlinJvm)
-        implementation(javiersc.gradlePlugins.publishVersionCatalog)
-        implementation(javiersc.gradlePlugins.nexus)
-        implementation(javiersc.gradlePlugins.readmeBadges)
-        implementation(javiersc.gradlePlugins.versioning)
+        implementation(javiersc.gradlePlugins.allPluginsX)
 
         implementation(jetbrains.kotlin.kotlinGradlePluginX)
         implementation(jetbrains.kotlinx.binaryCompatibilityValidator)

@@ -1,7 +1,6 @@
-@file:kotlin.Suppress("UNUSED_EXPRESSION")
-
 plugins {
-    `javiersc-publish-version-catalog`
+    `version-catalog`
+    `javiersc-publish`
 }
 
 catalog {
