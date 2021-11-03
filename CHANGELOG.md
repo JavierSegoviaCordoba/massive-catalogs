@@ -17,6 +17,9 @@
 ### Fixed
 
 ### Updated
+- `io.arrow-kt:arrow-optics -> 1.0.1`
+- `io.arrow-kt:arrow-meta -> 1.0.1`
+- `io.arrow-kt:arrow-core -> 1.0.1`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.1`
 - `androidx.browser:browser -> 1.4.0`
 - `io.ktor:ktor-client-serialization -> 1.6.5`
@@ -38,10 +41,6 @@
 - `com.google.dagger:hilt-core -> 2.40`
 - `com.google.dagger:hilt-compiler -> 2.40`
 - `com.google.dagger:hilt-android -> 2.40`
-- `com.google.dagger:hilt-android-gradle-plugin -> 2.40`
-- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-alpha4-build411`
-- `com.diffplug.spotless:spotless-plugin-gradle -> 5.17.0`
-- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-alpha4-build398`
 - `org.jetbrains.intellij.plugins:gradle-changelog-plugin -> 1.3.1`
 - `com.android.tools.build:gradle -> 7.0.3`
 
