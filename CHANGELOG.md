@@ -17,6 +17,7 @@
 ### Fixed
 
 ### Updated
+- `actions/checkout -> v2.4.0`
 - `io.arrow-kt:arrow-optics -> 1.0.1`
 - `io.arrow-kt:arrow-meta -> 1.0.1`
 - `io.arrow-kt:arrow-core -> 1.0.1`
