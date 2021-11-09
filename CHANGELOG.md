@@ -17,13 +17,13 @@
 ### Fixed
 
 ### Updated
+- `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.5`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev450`
 - `com.gradle.publish:plugin-publish-plugin -> 0.17.0`
 - `actions/checkout -> v2.4.0`
 - `io.arrow-kt:arrow-optics -> 1.0.1`
 - `io.arrow-kt:arrow-meta -> 1.0.1`
 - `io.arrow-kt:arrow-core -> 1.0.1`
-- `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.1`
 - `androidx.browser:browser -> 1.4.0`
 - `io.ktor:ktor-client-serialization -> 1.6.5`
 - `io.ktor:ktor-client-mock -> 1.6.5`
