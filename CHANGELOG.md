@@ -17,6 +17,7 @@
 ### Fixed
 
 ### Updated
+- `gradle -> 7.3`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.0`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.5`
