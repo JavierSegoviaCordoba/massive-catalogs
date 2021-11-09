@@ -17,6 +17,7 @@
 ### Fixed
 
 ### Updated
+- `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.0`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.5`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev450`
@@ -40,7 +41,6 @@
 - `com.squareup.okio:okio -> 3.0.0`
 - `com.google.code.gson:gson -> 2.8.9`
 - `app.cash.turbine:turbine -> 0.7.0`
-- `com.diffplug.spotless:spotless-plugin-gradle -> 5.17.1`
 - `com.google.dagger:hilt-core -> 2.40`
 - `com.google.dagger:hilt-compiler -> 2.40`
 - `com.google.dagger:hilt-android -> 2.40`
