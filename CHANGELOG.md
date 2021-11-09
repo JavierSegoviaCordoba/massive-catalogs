@@ -17,6 +17,7 @@
 ### Fixed
 
 ### Updated
+- `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.5`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev450`
 - `com.gradle.publish:plugin-publish-plugin -> 0.17.0`
