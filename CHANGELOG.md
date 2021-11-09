@@ -17,8 +17,8 @@
 ### Fixed
 
 ### Updated
+- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev450`
 - `com.gradle.publish:plugin-publish-plugin -> 0.17.0`
-- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev446`
 - `actions/checkout -> v2.4.0`
 - `io.arrow-kt:arrow-optics -> 1.0.1`
 - `io.arrow-kt:arrow-meta -> 1.0.1`
