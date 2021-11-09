@@ -27,7 +27,7 @@ popkorn = "2.1.1"
 retrofit = "2.9.0"
 retrofitKotlinConverter = "0.8.0"
 runBlocking = "0.1.0-beta.1"
-semanticVersioning = "0.1.0-beta.1"
+semanticVersioning = "0.1.0-beta.5"
 serialization = "1.3.0"
 turbine = "0.7.0"
 
