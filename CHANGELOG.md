@@ -17,11 +17,11 @@
 ### Fixed
 
 ### Updated
+- `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.8`
 - `gradle -> 7.3`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.0`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
-- `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.5`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev450`
 - `com.gradle.publish:plugin-publish-plugin -> 0.17.0`
 - `actions/checkout -> v2.4.0`
