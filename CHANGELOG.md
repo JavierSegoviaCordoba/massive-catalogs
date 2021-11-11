@@ -17,6 +17,9 @@
 ### Fixed
 
 ### Updated
+- `com.google.dagger:hilt-core -> 2.40.1`
+- `com.google.dagger:hilt-compiler -> 2.40.1`
+- `com.google.dagger:hilt-android -> 2.40.1`
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.1`
 - `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.1`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
@@ -45,9 +48,6 @@
 - `com.squareup.okio:okio -> 3.0.0`
 - `com.google.code.gson:gson -> 2.8.9`
 - `app.cash.turbine:turbine -> 0.7.0`
-- `com.google.dagger:hilt-core -> 2.40`
-- `com.google.dagger:hilt-compiler -> 2.40`
-- `com.google.dagger:hilt-android -> 2.40`
 - `org.jetbrains.intellij.plugins:gradle-changelog-plugin -> 1.3.1`
 - `com.android.tools.build:gradle -> 7.0.3`
 
