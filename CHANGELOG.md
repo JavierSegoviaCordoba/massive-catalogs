@@ -17,6 +17,8 @@
 ### Fixed
 
 ### Updated
+- `com.google.devtools.ksp:symbol-processing-api -> 1.5.31-1.0.1`
+- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.5.31-1.0.1`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev455`
 - `com.google.dagger:hilt-core -> 2.40.1`
 - `com.google.dagger:hilt-compiler -> 2.40.1`
