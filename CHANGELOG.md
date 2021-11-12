@@ -17,6 +17,9 @@
 ### Fixed
 
 ### Updated
+- `me.tatarka.inject:kotlin-inject-runtime -> 0.4.0`
+- `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.0`
+- `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.0`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.5.31-1.0.1`
 - `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.5.31-1.0.1`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev455`
