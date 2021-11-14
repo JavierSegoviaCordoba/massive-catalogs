@@ -17,6 +17,8 @@
 ### Fixed
 
 ### Updated
+- `org.jetbrains.kotlin:kotlin-serialization -> 1.6.0`
+- `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.0`
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.0`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.0`
 - `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.0`
