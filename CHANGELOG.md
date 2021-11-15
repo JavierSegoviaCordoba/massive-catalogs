@@ -3,22 +3,19 @@
 ## [Unreleased]
 
 ### Added
-- com.javiersc.gradle-plugins:android-library
-- com.javiersc.gradle-plugins:kotlin-jvm
-- com.javiersc.gradle-plugins:kotlin-multiplatform-no-android
 
 ### Changed
 
 ### Deprecated
 
 ### Removed
-- com.javiersc.gradle-plugins:all-plugins
 
 ### Fixed
 
 ### Updated
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.0`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.0`
+- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.11`
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.0`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.0`
 - `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.0`
@@ -31,7 +28,6 @@
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.1`
 - `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.1`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
-- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.8`
 - `gradle -> 7.3`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.0`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
