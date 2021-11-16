@@ -13,14 +13,14 @@
 ### Fixed
 
 ### Updated
+- `com.google.devtools.ksp:symbol-processing-api -> 1.6.0-1.0.1`
+- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.0-1.0.1`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.0`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.0`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.11`
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.0`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.0`
 - `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.0`
-- `com.google.devtools.ksp:symbol-processing-api -> 1.5.31-1.0.1`
-- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.5.31-1.0.1`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev455`
 - `com.google.dagger:hilt-core -> 2.40.1`
 - `com.google.dagger:hilt-compiler -> 2.40.1`
