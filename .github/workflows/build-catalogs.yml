@@ -112,12 +112,9 @@ jobs:
         with:
           path: build/catalogs
 
-      - name: Increment version
-        run: ./gradlew reckonTagCreate -P"reckon.stage"="final"
-
       - name: Gradle build
         if: ${{ always() }}
-        run: ./gradlew build ${{ github.event.inputs.args }} -P"reckon.stage"="snapshot" -P"reckon.scope"="patch"
+        run: ./gradlew build ${{ github.event.inputs.args }} -P"semver.stage"="snapshot"
 
       - name: Import GPG key
         uses: crazy-max/ghaction-import-gpg@v4
@@ -126,7 +123,7 @@ jobs:
           passphrase: ${{ secrets.SIGNING_KEY_PASSPHRASE }}
 
       - name: Publish a release
-        run: ./gradlew publishToSonatype -P"projects.kotlinCatalog.isEnabled"="false" -P"reckon.stage"="snapshot" -P"reckon.scope"="patch"
+        run: ./gradlew publishToSonatype -P"projects.kotlinCatalog.isEnabled"="false" -P"semver.stage"="snapshot"
 
       - name: Stop Gradle daemons
         run: ./gradlew --stop
