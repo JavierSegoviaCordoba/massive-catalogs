@@ -13,6 +13,7 @@
 ### Fixed
 
 ### Updated
+- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev464`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.0-1.0.1`
 - `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.0-1.0.1`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.0`
@@ -21,7 +22,6 @@
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.0`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.0`
 - `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.0`
-- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev455`
 - `com.google.dagger:hilt-core -> 2.40.1`
 - `com.google.dagger:hilt-compiler -> 2.40.1`
 - `com.google.dagger:hilt-android -> 2.40.1`
