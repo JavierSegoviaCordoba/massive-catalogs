@@ -13,6 +13,7 @@
 ### Fixed
 
 ### Updated
+- `com.gradle.publish:plugin-publish-plugin -> 0.18.0`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev464`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.0-1.0.1`
 - `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.0-1.0.1`
@@ -31,7 +32,6 @@
 - `gradle -> 7.3`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.0`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
-- `com.gradle.publish:plugin-publish-plugin -> 0.17.0`
 - `actions/checkout -> v2.4.0`
 - `io.arrow-kt:arrow-optics -> 1.0.1`
 - `io.arrow-kt:arrow-meta -> 1.0.1`
