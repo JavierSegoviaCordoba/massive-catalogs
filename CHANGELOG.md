@@ -13,6 +13,7 @@
 ### Fixed
 
 ### Updated
+- `androidx.appcompat:appcompat -> 1.4.0`
 - `com.facebook:ktfmt -> 0.30`
 - `com.gradle.publish:plugin-publish-plugin -> 0.18.0`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev464`
