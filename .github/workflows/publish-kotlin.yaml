@@ -10,7 +10,6 @@ jobs:
   publish:
     uses: JavierSegoviaCordoba/reusable-workflows/.github/workflows/publish-kotlin.yaml@main
     with:
-      machines: 'ubuntu-latest'
       publish-maven-central: true
       gradle-args-publish-maven-central: '-P"projects.kotlinCatalog.isEnabled"="false"'
       publish-gradle-plugin-portal: false
