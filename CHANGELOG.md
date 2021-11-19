@@ -13,6 +13,7 @@
 ### Fixed
 
 ### Updated
+- `gradle.plugin.com.bnorm.power:kotlin-power-assert-gradle -> 0.11.0`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.12`
 - `androidx.appcompat:appcompat -> 1.4.0`
 - `com.facebook:ktfmt -> 0.30`
