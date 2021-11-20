@@ -13,12 +13,12 @@
 ### Fixed
 
 ### Updated
+- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev474`
 - `gradle.plugin.com.bnorm.power:kotlin-power-assert-gradle -> 0.11.0`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.12`
 - `androidx.appcompat:appcompat -> 1.4.0`
 - `com.facebook:ktfmt -> 0.30`
 - `com.gradle.publish:plugin-publish-plugin -> 0.18.0`
-- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev464`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.0-1.0.1`
 - `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.0-1.0.1`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.0`
