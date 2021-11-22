@@ -13,8 +13,8 @@
 ### Fixed
 
 ### Updated
+- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-rc1`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
-- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev474`
 - `gradle.plugin.com.bnorm.power:kotlin-power-assert-gradle -> 0.11.0`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.12`
 - `androidx.appcompat:appcompat -> 1.4.0`
