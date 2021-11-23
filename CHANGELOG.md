@@ -13,9 +13,9 @@
 ### Fixed
 
 ### Updated
+- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-rc2`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.0`
 - `org.jetbrains.dokka:dokka-core -> 1.6.0`
-- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-rc1`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
 - `gradle.plugin.com.bnorm.power:kotlin-power-assert-gradle -> 0.11.0`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.12`
