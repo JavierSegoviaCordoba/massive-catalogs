@@ -13,6 +13,9 @@
 ### Fixed
 
 ### Updated
+- `com.google.dagger:hilt-core -> 2.40.2`
+- `com.google.dagger:hilt-compiler -> 2.40.2`
+- `com.google.dagger:hilt-android -> 2.40.2`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-rc2`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.0`
 - `org.jetbrains.dokka:dokka-core -> 1.6.0`
@@ -29,9 +32,6 @@
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.0`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.0`
 - `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.0`
-- `com.google.dagger:hilt-core -> 2.40.1`
-- `com.google.dagger:hilt-compiler -> 2.40.1`
-- `com.google.dagger:hilt-android -> 2.40.1`
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.1`
 - `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.1`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
