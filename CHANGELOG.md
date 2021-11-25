@@ -13,6 +13,7 @@
 ### Fixed
 
 ### Updated
+- `io.kotest:kotest-assertions-core -> 5.0.0`
 - `com.google.dagger:hilt-core -> 2.40.2`
 - `com.google.dagger:hilt-compiler -> 2.40.2`
 - `com.google.dagger:hilt-android -> 2.40.2`
