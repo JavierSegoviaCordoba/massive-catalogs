@@ -13,6 +13,10 @@
 ### Fixed
 
 ### Updated
+- `io.ktor:ktor-client-serialization -> 1.6.6`
+- `io.ktor:ktor-client-mock -> 1.6.6`
+- `io.ktor:ktor-client-core -> 1.6.6`
+- `io.ktor:ktor-client-cio -> 1.6.6`
 - `io.insert-koin:koin-androidx-compose -> 3.1.4`
 - `io.insert-koin:koin-test -> 3.1.4`
 - `io.insert-koin:koin-core -> 3.1.4`
@@ -48,10 +52,6 @@
 - `io.arrow-kt:arrow-meta -> 1.0.1`
 - `io.arrow-kt:arrow-core -> 1.0.1`
 - `androidx.browser:browser -> 1.4.0`
-- `io.ktor:ktor-client-serialization -> 1.6.5`
-- `io.ktor:ktor-client-mock -> 1.6.5`
-- `io.ktor:ktor-client-core -> 1.6.5`
-- `io.ktor:ktor-client-cio -> 1.6.5`
 - `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.1`
 - `androidx.activity:activity-ktx -> 1.4.0`
 - `androidx.core:core-ktx -> 1.7.0`
