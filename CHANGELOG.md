@@ -13,6 +13,10 @@
 ### Fixed
 
 ### Updated
+- `io.insert-koin:koin-androidx-compose -> 3.1.4`
+- `io.insert-koin:koin-test -> 3.1.4`
+- `io.insert-koin:koin-core -> 3.1.4`
+- `io.insert-koin:koin-android -> 3.1.4`
 - `io.kotest:kotest-assertions-core -> 5.0.0`
 - `com.google.dagger:hilt-core -> 2.40.2`
 - `com.google.dagger:hilt-compiler -> 2.40.2`
@@ -48,10 +52,6 @@
 - `io.ktor:ktor-client-mock -> 1.6.5`
 - `io.ktor:ktor-client-core -> 1.6.5`
 - `io.ktor:ktor-client-cio -> 1.6.5`
-- `io.insert-koin:koin-androidx-compose -> 3.1.3`
-- `io.insert-koin:koin-test -> 3.1.3`
-- `io.insert-koin:koin-core -> 3.1.3`
-- `io.insert-koin:koin-android -> 3.1.3`
 - `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.1`
 - `androidx.activity:activity-ktx -> 1.4.0`
 - `androidx.core:core-ktx -> 1.7.0`
