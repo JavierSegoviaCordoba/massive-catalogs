@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `io.kotest:kotest-assertions-core -> 5.0.1`
 - `gradle -> 7.3.1`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.1.2`
 - `com.javiersc.mokoki:mokoki-serialization -> 0.1.0-alpha.7`
@@ -33,7 +34,6 @@
 - `io.insert-koin:koin-test -> 3.1.4`
 - `io.insert-koin:koin-core -> 3.1.4`
 - `io.insert-koin:koin-android -> 3.1.4`
-- `io.kotest:kotest-assertions-core -> 5.0.0`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.0`
 - `org.jetbrains.dokka:dokka-core -> 1.6.0`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
