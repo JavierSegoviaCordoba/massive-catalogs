@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.19.0`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.1`
 - `com.google.dagger:hilt-core -> 2.40.3`
 - `com.google.dagger:hilt-compiler -> 2.40.3`
