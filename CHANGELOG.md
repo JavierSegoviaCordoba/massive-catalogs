@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `com.javiersc.run-blocking:suspend-test -> 0.1.0-beta.2`
+- `com.javiersc.run-blocking:run-blocking-core -> 0.1.0-beta.2`
 - `com.google.dagger:hilt-core -> 2.40.4`
 - `io.kotest:kotest-assertions-core -> 5.0.1`
 - `gradle -> 7.3.1`
