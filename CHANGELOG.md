@@ -13,6 +13,8 @@
 ### Fixed
 
 ### Updated
+
+- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.22`
 - `io.ktor:ktor-client-serialization -> 1.6.6`
 - `io.ktor:ktor-client-mock -> 1.6.6`
 - `io.ktor:ktor-client-core -> 1.6.6`
@@ -30,7 +32,6 @@
 - `org.jetbrains.dokka:dokka-core -> 1.6.0`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
 - `gradle.plugin.com.bnorm.power:kotlin-power-assert-gradle -> 0.11.0`
-- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.12`
 - `androidx.appcompat:appcompat -> 1.4.0`
 - `com.facebook:ktfmt -> 0.30`
 - `com.gradle.publish:plugin-publish-plugin -> 0.18.0`
@@ -62,16 +63,19 @@
 - `com.android.tools.build:gradle -> 7.0.3`
 
 ## [0.1.0-alpha.43] - 2021-07-30
+
 - No changes
 
 ## [0.1.0-alpha.42] - 2021-07-23
 
 ### Added
+
 - org.jetbrains.compose:compose-gradle-plugin
 
 ## [0.1.0-alpha.41] - 2021-07-04
 
 ### Added
+
 - com.squareup.okio:okio
 - io.arrow-kt:arrow-meta
 - io.arrow-kt:arrow-optics
@@ -80,33 +84,40 @@
 ## [0.1.0-alpha.40] - 2021-06-30
 
 ### Added
+
 - gradle.plugin.com.bnorm.power:kotlin-power-assert-gradle
 
 ## [0.1.0-alpha.39] - 2021-06-28
+
 - No changes
 
 ## [0.1.0-alpha.38] - 2021-06-28
 
 ### Added
+
 - `com.javiersc.gradle-plugins:massive-catalogs-updater` plugin
 
 ### Removed
+
 - `plugins-accessors` project
 
 ## [0.1.0-alpha.37] - 2021-06-27
 
 ### Added
+
 - org.jsoup:jsoup
 
 ## [0.1.0-alpha.36] - 2021-06-27
 
 ### Added
+
 - com.google.code.gson:gson
 - com.squareup.moshi:moshi
 
 ## [0.1.0-alpha.35] - 2021-06-26
 
 ### Added
+
 - com.javiersc.semantic-versioning:semantic-versioning-core
 - com.javiersc.gradle-plugins:gradle-wrapper-updater
 - com.google.devtools.ksp:symbol-processing-api
@@ -119,12 +130,14 @@
 ## [0.1.0-alpha.34] - 2021-06-22
 
 ### Added
+
 - org.jetbrains.kotlin:kotlin-test-common
 - org.jetbrains.kotlin:kotlin-test-junit
 
 ## [0.1.0-alpha.33] - 2021-06-22
 
 ### Added
+
 - com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin
 - me.tatarka.inject:kotlin-inject-compiler-ksp
 - me.tatarka.inject:kotlin-inject-runtime
@@ -133,58 +146,72 @@
 ## [0.1.0-alpha.32] - 2021-05-25
 
 ### Fixed
+
 - `koin-compose` version is not the same as Koin
 
 ## [0.1.0-alpha.31] - 2021-05-17
 
 ### Added
+
 - io.insert-koin:koin-androidx-compose
 - io.insert-koin:koin-android
 - io.insert-koin:koin-test
 - io.insert-koin:koin-core
 
 ## [0.1.0-alpha.30] - 2021-05-07
+
 - No changes
 
 ## [0.1.0-alpha.29] - 2021-05-07
 
 ### Added
+
 - `com.facebook:ktfmt` to `libs-catalog`
 
 ## [0.1.0-alpha.28] - 2021-05-06
+
 - No changes
 
 ## [0.1.0-alpha.27] - 2021-05-06
+
 - No changes
 
 ## [0.1.0-alpha.26] - 2021-05-06
+
 - No changes
 
 ## [0.1.0-alpha.25] - 2021-05-05
+
 - No changes
 
 ## [0.1.0-alpha.24] - 2021-05-05
+
 - No changes
 
 ## [0.1.0-alpha.23] - 2021-05-05
 
 ### Changed
+
 -  `readme-badges-generator` to `readme-badges`
 
 ## [0.1.0-alpha.22] - 2021-05-03
 
 ### Changed
+
 - com.javiersc.run-blocking:run-blocking to com.javiersc.run-blocking:run-blocking-core 
 
 ## [0.1.0-alpha.21] - 2021-05-03
+
 - No changes
 
 ## [0.1.0-alpha.20] - 2021-05-03
+
 - No changes
 
 ## [0.1.0-alpha.19] - 2021-05-03
 
 ### Added
+
 - ru.vyarus:gradle-mkdocs-plugin
 - com.google.dagger:hilt-android-gradle-plugin
 - com.google.dagger:hilt-android
@@ -194,14 +221,17 @@
 ## [0.1.0-alpha.18] - 2021-04-27
 
 ### Added
+
 - org.jetbrains.kotlinx:kotlinx-datetime
 
 ## [0.1.0-alpha.17] - 2021-04-27
 
 ### Fixed
+
 - Recursive issues by using specific version for javiersc plugins
 
 ### Updated
+
 - activity
 - android
 - gradle-publish
@@ -212,6 +242,7 @@
 ## [0.1.0-alpha.16] - 2021-03-28
 
 ### Added
+
 - `com.javiersc.mokoki:mokoki-core`
 - `com.javiersc.mokoki:mokoki-serialization`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test`
@@ -219,27 +250,34 @@
 ## [0.1.0-alpha.15] - 2021-03-22
 
 ### Added
+
 - `AddLibTask` adds the new added library to the `CHANGELOG`
 - Enable `kotlin-catalog` and separate its publication to MavenCentral
 
 ## [0.1.0-alpha.14] - 2021-03-22
+
 - No changes
 
 ## [0.1.0-alpha.13] - 2021-03-22
+
 - No changes
 
 ## [0.1.0-alpha.12] - 2021-03-21
+
 - No changes
 
 ## [0.1.0-alpha.11] - 2021-03-21
+
 - No changes
 
 ## [0.1.0-alpha.10] - 2021-03-21
+
 - No changes
 
 ## [0.1.0-alpha.9] - 2021-03-21
 
 ### Changed
+
 - `javiersc-publish` to:
     - `javiersc-publish-android-library`
     - `javiersc-publish-gradle-plugin`
@@ -250,34 +288,41 @@
 ## [0.1.0-alpha.8] - 2021-03-21
 
 ### Added
+
   - `ktfmt` to `plugins-catalog`
 
 ## [0.1.0-alpha.7] - 2021-03-20
 
 ### Removed
+
   - `kotlin-catalog`
 
 ## [0.1.0-alpha.6] - 2021-03-19
 
 ### Changed
+
   - Unmerged `plugins-catalog` to `plugins-accessors`
 
 ## [0.1.0-alpha.5] - 2021-03-19
 
 ### Updated
+
   - `javiersc` to `0.1.0-alpha.3`
 
 ## [0.1.0-alpha.4] - 2021-03-19
+
 - No changes
 
 ## [0.1.0-alpha.3] - 2021-03-19
 
 ### Changed
+
   - `plugins-accessors` module merged to `plugins-catalog`
 
 ## [0.1.0-alpha.2] - 2021-03-19
 
 ### Added
+
   - `plugins-accessors` module
   - Plugins - `plugins-catalog`
     - com.javiersc.gradle-plugins:changelog
@@ -294,6 +339,7 @@
 ## [0.1.0-alpha.1] - 2021-03-14
 
 ### Added
+
   - Autogenerated Kotlin catalog `kotlin-catalog` with all Kotlin libraries from MavenCentral
   - Libraries - `libs-catalog`
     - app.cash.turbine:turbine
