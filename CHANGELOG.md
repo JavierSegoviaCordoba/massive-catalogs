@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `gradle -> 7.3.1`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.1.2`
 - `com.javiersc.mokoki:mokoki-serialization -> 0.1.0-alpha.7`
 - `com.javiersc.mokoki:mokoki-core -> 0.1.0-alpha.7`
@@ -36,7 +37,6 @@
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.0`
 - `org.jetbrains.dokka:dokka-core -> 1.6.0`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
-- `gradle.plugin.com.bnorm.power:kotlin-power-assert-gradle -> 0.11.0`
 - `androidx.appcompat:appcompat -> 1.4.0`
 - `com.facebook:ktfmt -> 0.30`
 - `com.gradle.publish:plugin-publish-plugin -> 0.18.0`
@@ -50,7 +50,6 @@
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.1`
 - `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.1`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
-- `gradle -> 7.3`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
 - `actions/checkout -> v2.4.0`
 - `io.arrow-kt:arrow-optics -> 1.0.1`
