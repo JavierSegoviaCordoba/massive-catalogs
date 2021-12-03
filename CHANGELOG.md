@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.google.dagger:hilt-android-gradle-plugin -> 2.40.4`
 - `actions/cache -> v2.1.7`
 - `com.javiersc.run-blocking:suspend-test -> 0.1.0-beta.2`
 - `com.javiersc.run-blocking:run-blocking-core -> 0.1.0-beta.2`
