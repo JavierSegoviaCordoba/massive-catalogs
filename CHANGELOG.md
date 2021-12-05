@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.2`
 - `com.google.dagger:hilt-android-gradle-plugin -> 2.40.4`
 - `actions/cache -> v2.1.7`
 - `com.javiersc.run-blocking:suspend-test -> 0.1.0-beta.2`
@@ -25,7 +26,6 @@
 - `com.javiersc.mokoki:mokoki-serialization -> 0.1.0-alpha.7`
 - `com.javiersc.mokoki:mokoki-core -> 0.1.0-alpha.7`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.19.0`
-- `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.1`
 - `com.google.dagger:hilt-compiler -> 2.40.3`
 - `com.google.dagger:hilt-android -> 2.40.3`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0`
