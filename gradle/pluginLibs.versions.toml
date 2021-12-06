@@ -14,7 +14,7 @@ kotlinPowerAssert = "0.11.0"
 ksp = "1.6.0-1.0.1"
 mkdocs = "2.1.2"
 nexusPublish = "1.1.0"
-reckon = "0.13.0"
+reckon = "0.13.1"
 spotless = "6.0.2"
 versions = "1.3"
 
