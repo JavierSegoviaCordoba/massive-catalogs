@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `org.ajoberstar.reckon:reckon-gradle -> 0.13.1`
 - `com.google.dagger:hilt-core -> 2.40.5`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.2`
 - `com.google.dagger:hilt-android-gradle-plugin -> 2.40.4`
