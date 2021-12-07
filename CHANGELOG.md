@@ -14,10 +14,10 @@
 
 ### Updated
 
+- `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.4`
 - `com.google.dagger:hilt-android-gradle-plugin -> 2.40.5`
 - `org.ajoberstar.reckon:reckon-gradle -> 0.13.1`
 - `com.google.dagger:hilt-core -> 2.40.5`
-- `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.2`
 - `actions/cache -> v2.1.7`
 - `com.javiersc.run-blocking:suspend-test -> 0.1.0-beta.2`
 - `com.javiersc.run-blocking:run-blocking-core -> 0.1.0-beta.2`
