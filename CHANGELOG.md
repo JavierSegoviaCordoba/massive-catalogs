@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `io.ktor:ktor-client-mock -> 1.6.7`
+- `io.ktor:ktor-client-core -> 1.6.7`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.2.0`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.4`
 - `com.google.dagger:hilt-android-gradle-plugin -> 2.40.5`
@@ -32,8 +34,6 @@
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.22`
 - `io.ktor:ktor-client-serialization -> 1.6.6`
-- `io.ktor:ktor-client-mock -> 1.6.6`
-- `io.ktor:ktor-client-core -> 1.6.6`
 - `io.ktor:ktor-client-cio -> 1.6.6`
 - `io.insert-koin:koin-androidx-compose -> 3.1.4`
 - `io.insert-koin:koin-test -> 3.1.4`
