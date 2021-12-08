@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `ru.vyarus:gradle-mkdocs-plugin -> 2.2.0`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.4`
 - `com.google.dagger:hilt-android-gradle-plugin -> 2.40.5`
 - `org.ajoberstar.reckon:reckon-gradle -> 0.13.1`
@@ -23,7 +24,6 @@
 - `com.javiersc.run-blocking:run-blocking-core -> 0.1.0-beta.2`
 - `io.kotest:kotest-assertions-core -> 5.0.1`
 - `gradle -> 7.3.1`
-- `ru.vyarus:gradle-mkdocs-plugin -> 2.1.2`
 - `com.javiersc.mokoki:mokoki-serialization -> 0.1.0-alpha.7`
 - `com.javiersc.mokoki:mokoki-core -> 0.1.0-alpha.7`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.19.0`
