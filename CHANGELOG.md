@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `cc.popkorn:popkorn -> 2.2.0`
 - `com.android.tools.build:gradle -> 7.0.4`
 - `com.squareup.moshi:moshi -> 1.13.0`
 - `io.ktor:ktor-client-mock -> 1.6.7`
