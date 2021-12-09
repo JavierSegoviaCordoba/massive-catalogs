@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.android.tools.build:gradle -> 7.0.4`
 - `com.squareup.moshi:moshi -> 1.13.0`
 - `io.ktor:ktor-client-mock -> 1.6.7`
 - `io.ktor:ktor-client-core -> 1.6.7`
@@ -69,7 +70,6 @@
 - `com.google.code.gson:gson -> 2.8.9`
 - `app.cash.turbine:turbine -> 0.7.0`
 - `org.jetbrains.intellij.plugins:gradle-changelog-plugin -> 1.3.1`
-- `com.android.tools.build:gradle -> 7.0.3`
 
 ## [0.1.0-alpha.43] - 2021-07-30
 
