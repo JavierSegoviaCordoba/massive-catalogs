@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.squareup.moshi:moshi -> 1.13.0`
 - `io.ktor:ktor-client-mock -> 1.6.7`
 - `io.ktor:ktor-client-core -> 1.6.7`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.2.0`
