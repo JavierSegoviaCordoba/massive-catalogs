@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `io.kotest:kotest-assertions-core -> 5.0.2`
 - `cc.popkorn:popkorn -> 2.2.0`
 - `com.android.tools.build:gradle -> 7.0.4`
 - `com.squareup.moshi:moshi -> 1.13.0`
@@ -27,7 +28,6 @@
 - `actions/cache -> v2.1.7`
 - `com.javiersc.run-blocking:suspend-test -> 0.1.0-beta.2`
 - `com.javiersc.run-blocking:run-blocking-core -> 0.1.0-beta.2`
-- `io.kotest:kotest-assertions-core -> 5.0.1`
 - `gradle -> 7.3.1`
 - `com.javiersc.mokoki:mokoki-serialization -> 0.1.0-alpha.7`
 - `com.javiersc.mokoki:mokoki-core -> 0.1.0-alpha.7`
