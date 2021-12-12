@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.24`
 - `io.kotest:kotest-assertions-core -> 5.0.2`
 - `cc.popkorn:popkorn -> 2.2.0`
 - `com.android.tools.build:gradle -> 7.0.4`
@@ -35,7 +36,6 @@
 - `com.google.dagger:hilt-compiler -> 2.40.3`
 - `com.google.dagger:hilt-android -> 2.40.3`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0`
-- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.22`
 - `io.ktor:ktor-client-serialization -> 1.6.6`
 - `io.ktor:ktor-client-cio -> 1.6.6`
 - `io.insert-koin:koin-androidx-compose -> 3.1.4`
