@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `com.google.devtools.ksp:symbol-processing-api -> 1.6.0-1.0.2`
+- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.0-1.0.2`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.10`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.24`
 - `io.kotest:kotest-assertions-core -> 5.0.2`
@@ -49,8 +51,6 @@
 - `androidx.appcompat:appcompat -> 1.4.0`
 - `com.facebook:ktfmt -> 0.30`
 - `com.gradle.publish:plugin-publish-plugin -> 0.18.0`
-- `com.google.devtools.ksp:symbol-processing-api -> 1.6.0-1.0.1`
-- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.0-1.0.1`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.0`
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.0`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.0`
