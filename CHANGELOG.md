@@ -14,8 +14,8 @@
 
 ### Updated
 
-- `com.google.devtools.ksp:symbol-processing-api -> 1.6.0-1.0.2`
-- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.0-1.0.2`
+- `com.google.devtools.ksp:symbol-processing-api -> 1.6.10-1.0.2`
+- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.10-1.0.2`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.10`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.24`
 - `io.kotest:kotest-assertions-core -> 5.0.2`
