@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.5`
 - `gradle -> 7.3.2`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.10-1.0.2`
 - `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.10-1.0.2`
@@ -26,7 +27,6 @@
 - `io.ktor:ktor-client-mock -> 1.6.7`
 - `io.ktor:ktor-client-core -> 1.6.7`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.2.0`
-- `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.4`
 - `com.google.dagger:hilt-android-gradle-plugin -> 2.40.5`
 - `org.ajoberstar.reckon:reckon-gradle -> 0.13.1`
 - `com.google.dagger:hilt-core -> 2.40.5`
