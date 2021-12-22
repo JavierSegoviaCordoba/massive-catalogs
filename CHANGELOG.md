@@ -14,12 +14,12 @@
 
 ### Updated
 
+- `gradle -> 7.3.3`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.0`
 - `io.kotest:kotest-assertions-core -> 5.0.3`
 - `com.javiersc.mokoki:mokoki-serialization -> 0.1.0-alpha.9`
 - `com.javiersc.mokoki:mokoki-core -> 0.1.0-alpha.9`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.0.5`
-- `gradle -> 7.3.2`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.10-1.0.2`
 - `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.10-1.0.2`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.10`
