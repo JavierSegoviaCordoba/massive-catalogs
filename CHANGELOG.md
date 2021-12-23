@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.2`
+- `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.2`
 - `gradle -> 7.3.3`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.0`
 - `io.kotest:kotest-assertions-core -> 5.0.3`
@@ -56,8 +58,6 @@
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.0`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.0`
 - `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.0`
-- `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.1`
-- `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.1`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
 - `actions/checkout -> v2.4.0`
