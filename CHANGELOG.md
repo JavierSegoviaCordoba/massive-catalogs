@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.1`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.1.0`
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.2`
 - `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.2`
@@ -41,7 +42,6 @@
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.19.0`
 - `com.google.dagger:hilt-compiler -> 2.40.3`
 - `com.google.dagger:hilt-android -> 2.40.3`
-- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0`
 - `io.ktor:ktor-client-serialization -> 1.6.6`
 - `io.ktor:ktor-client-cio -> 1.6.6`
 - `io.insert-koin:koin-androidx-compose -> 3.1.4`
