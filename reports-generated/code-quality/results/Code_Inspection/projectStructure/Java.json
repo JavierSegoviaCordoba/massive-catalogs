@@ -1,0 +1,32 @@
+{
+  "modules": [
+    {
+      "name": "massive-catalogs",
+      "languageLevel": 6
+    },
+    {
+      "name": "massive-catalogs.kotlin-catalog",
+      "languageLevel": 6
+    },
+    {
+      "name": "massive-catalogs.libs-catalog",
+      "languageLevel": 6
+    },
+    {
+      "name": "massive-catalogs.plugins-catalog",
+      "languageLevel": 6
+    },
+    {
+      "name": "massive-catalogs.buildSrc",
+      "languageLevel": 11
+    },
+    {
+      "name": "massive-catalogs.buildSrc.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "massive-catalogs.buildSrc.main",
+      "languageLevel": 11
+    }
+  ]
+}

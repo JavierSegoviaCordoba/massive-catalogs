@@ -1,0 +1,197 @@
+{"version":"3","listProblem":[{
+  "tool": "Code Inspection",
+  "category": "JVM languages",
+  "type": "Unstable API Usage",
+  "severity": "High",
+  "comment": "'versionCatalog(org.gradle.api.Action)' is declared in unstable interface 'org.gradle.api.plugins.catalog.CatalogPluginExtension' marked with @Incubating",
+  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "libs-catalog/build.gradle.kts",
+      "language": "kotlin",
+      "line": 8,
+      "offset": 5,
+      "length": 14,
+      "code": {
+        "startLine": 6,
+        "length": 14,
+        "offset": 15,
+        "surroundingCode": "\ncatalog {\n    versionCatalog {\n        from(files(\"../gradle/libs.versions.toml\"))\n    }"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "massive-catalogs.libs-catalog",
+    "inspectionName": "UnstableApiUsage"
+  },
+  "hash": "3fcfb05efbd5dec718ad3d30d8573fb0c5d8c7d1bf5dbf7d2b87ac5c4d74f10b"
+},{
+  "tool": "Code Inspection",
+  "category": "JVM languages",
+  "type": "Unstable API Usage",
+  "severity": "High",
+  "comment": "'from(java.lang.Object)' is declared in unstable interface 'org.gradle.api.initialization.dsl.VersionCatalogBuilder' marked with @Incubating",
+  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "libs-catalog/build.gradle.kts",
+      "language": "kotlin",
+      "line": 9,
+      "offset": 9,
+      "length": 4,
+      "code": {
+        "startLine": 7,
+        "length": 4,
+        "offset": 39,
+        "surroundingCode": "catalog {\n    versionCatalog {\n        from(files(\"../gradle/libs.versions.toml\"))\n    }\n}"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "massive-catalogs.libs-catalog",
+    "inspectionName": "UnstableApiUsage"
+  },
+  "hash": "9153c0f0962a0e0b390b7f3d3f62a86d14f41a1805350814ee6bb0f7391d7fdf"
+},{
+  "tool": "Code Inspection",
+  "category": "JVM languages",
+  "type": "Unstable API Usage",
+  "severity": "High",
+  "comment": "'versionCatalog(org.gradle.api.Action)' is declared in unstable interface 'org.gradle.api.plugins.catalog.CatalogPluginExtension' marked with @Incubating",
+  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "kotlin-catalog/build.gradle.kts",
+      "language": "kotlin",
+      "line": 8,
+      "offset": 5,
+      "length": 14,
+      "code": {
+        "startLine": 6,
+        "length": 14,
+        "offset": 15,
+        "surroundingCode": "\ncatalog {\n    versionCatalog {\n        from(\n            files("
+      }
+    }
+  ],
+  "attributes": {
+    "module": "massive-catalogs.kotlin-catalog",
+    "inspectionName": "UnstableApiUsage"
+  },
+  "hash": "6bf5d45dbc2c225de9dea3108bcd974424ac3f3e42e49dd724972936d4870e48"
+},{
+  "tool": "Code Inspection",
+  "category": "JVM languages",
+  "type": "Unstable API Usage",
+  "severity": "High",
+  "comment": "'from(java.lang.Object)' is declared in unstable interface 'org.gradle.api.initialization.dsl.VersionCatalogBuilder' marked with @Incubating",
+  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "kotlin-catalog/build.gradle.kts",
+      "language": "kotlin",
+      "line": 9,
+      "offset": 9,
+      "length": 4,
+      "code": {
+        "startLine": 7,
+        "length": 4,
+        "offset": 39,
+        "surroundingCode": "catalog {\n    versionCatalog {\n        from(\n            files(\n                file(\"${rootProject.buildDir}/catalogs\").walkTopDown().filter {"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "massive-catalogs.kotlin-catalog",
+    "inspectionName": "UnstableApiUsage"
+  },
+  "hash": "a2e71c858adc239e4c278e2369defb805c1e57b1e6546ff1577686f3d9fd71f6"
+},{
+  "tool": "Code Inspection",
+  "category": "JVM languages",
+  "type": "Unstable API Usage",
+  "severity": "High",
+  "comment": "'versionCatalog(org.gradle.api.Action)' is declared in unstable interface 'org.gradle.api.plugins.catalog.CatalogPluginExtension' marked with @Incubating",
+  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "plugins-catalog/build.gradle.kts",
+      "language": "kotlin",
+      "line": 8,
+      "offset": 5,
+      "length": 14,
+      "code": {
+        "startLine": 6,
+        "length": 14,
+        "offset": 15,
+        "surroundingCode": "\ncatalog {\n    versionCatalog {\n        from(files(\"../gradle/pluginLibs.versions.toml\"))\n    }"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "massive-catalogs.plugins-catalog",
+    "inspectionName": "UnstableApiUsage"
+  },
+  "hash": "0d4c721d15b4e067d44fea01be8d5de22c81efb28f1c1480f36abf89881910e4"
+},{
+  "tool": "Code Inspection",
+  "category": "JVM languages",
+  "type": "Unstable API Usage",
+  "severity": "High",
+  "comment": "'from(java.lang.Object)' is declared in unstable interface 'org.gradle.api.initialization.dsl.VersionCatalogBuilder' marked with @Incubating",
+  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "plugins-catalog/build.gradle.kts",
+      "language": "kotlin",
+      "line": 9,
+      "offset": 9,
+      "length": 4,
+      "code": {
+        "startLine": 7,
+        "length": 4,
+        "offset": 39,
+        "surroundingCode": "catalog {\n    versionCatalog {\n        from(files(\"../gradle/pluginLibs.versions.toml\"))\n    }\n}"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "massive-catalogs.plugins-catalog",
+    "inspectionName": "UnstableApiUsage"
+  },
+  "hash": "f39fd9f2818bf2e3491c986735179b63c9e2dca76c3f5b5ff279b51629b94219"
+},{
+  "tool": "Code Inspection",
+  "category": "JVM languages",
+  "type": "Unstable API Usage",
+  "severity": "High",
+  "comment": "'repositories(org.gradle.api.Action)' is declared in unstable interface 'org.gradle.api.initialization.resolve.DependencyResolutionManagement' marked with @Incubating",
+  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "settings.gradle.kts",
+      "language": "kotlin",
+      "line": 8,
+      "offset": 5,
+      "length": 12,
+      "code": {
+        "startLine": 6,
+        "length": 12,
+        "offset": 38,
+        "surroundingCode": "\ndependencyResolutionManagement {\n    repositories {\n        mavenCentral()\n        google()"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "massive-catalogs",
+    "inspectionName": "UnstableApiUsage"
+  },
+  "hash": "017e6a948d05aa7cfa1056c9beb1ac6796ef16ed5383ff54eaf5dc05b942bdfa"
+}]}
