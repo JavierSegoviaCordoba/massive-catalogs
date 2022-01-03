@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.39`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.1`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.1.0`
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.2`
@@ -26,7 +27,6 @@
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.10-1.0.2`
 - `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.10-1.0.2`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.10`
-- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.24`
 - `cc.popkorn:popkorn -> 2.2.0`
 - `com.android.tools.build:gradle -> 7.0.4`
 - `com.squareup.moshi:moshi -> 1.13.0`
