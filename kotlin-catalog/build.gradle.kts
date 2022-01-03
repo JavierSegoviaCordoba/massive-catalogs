@@ -7,11 +7,7 @@ plugins {
 catalog {
     versionCatalog {
         from(
-            files(
-                file("${rootProject.buildDir}/catalogs").walkTopDown().filter {
-                    it.isFile && it.extension == "toml"
-                }.toList(),
-            ),
+            files("$buildDir/generated-catalog/libs.versions.toml"),
         )
     }
 }

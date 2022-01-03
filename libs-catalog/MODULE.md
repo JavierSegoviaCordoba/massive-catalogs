@@ -24,7 +24,7 @@ Projects accessors are generated automatically.
 
 ```kotlin
 dependencies {
-    implementation(libs.jetbrains.kotlinx.kotlinxCoroutinesCore)
+    implementation(libs.org.jetbrains.kotlinx.kotlinxCoroutinesCore)
 }
 ```
 
@@ -32,4 +32,5 @@ dependencies {
 
 The codegen for Kotlin Coroutines core artifact:
 
-`org.jetbrains.kotlinx:kotlinx-coroutines-core` -> `libs.jetbrains.kotlinx.kotlinxCoroutinesCore`
+`org.jetbrains.kotlinx:kotlinx-coroutines-core`
+-> `libs.org.jetbrains.kotlinx.kotlinxCoroutinesCore`

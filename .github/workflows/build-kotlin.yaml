@@ -18,9 +18,13 @@ jobs:
     uses: JavierSegoviaCordoba/reusable-workflows/.github/workflows/build-kotlin.yaml@main
     with:
       allow-github-actor-bots: false
-      gradle-args-publish-snapshot: '-P"projects.kotlinCatalog.isEnabled"="false"'
-      publish-snapshot: true
-      publish-docs: true
+      gradle-args: '"-Pprojects.kotlinCatalog.isEnabled=false"'
+      all-tests: false
+      api-check: false
+      code-analysis-check: false
+      code-format-check: false
+      code-quality-check: false
+      deploy-reports: false
     secrets:
       OSS_USER: '${{ secrets.OSS_USER }}'
       OSS_TOKEN: '${{ secrets.OSS_TOKEN }}'

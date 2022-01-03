@@ -5,19 +5,14 @@ on:
     tags:
       - '**'
 
-
 jobs:
   publish:
     uses: JavierSegoviaCordoba/reusable-workflows/.github/workflows/publish-kotlin.yaml@main
     with:
-      publish-maven-central: true
-      gradle-args-publish-maven-central: '-P"projects.kotlinCatalog.isEnabled"="false"'
-      publish-gradle-plugin-portal: false
-      publish-jetbrains-marketplace: false
-      publish-docs: true
-      publish-github-release: true
+      code-quality-check: false
+      gradle-args-publish-maven-central: '-Pprojects.kotlinCatalog.isEnabled=false"'
+      deploy-reports: false
     secrets:
-      GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
       OSS_USER: '${{ secrets.OSS_USER }}'
       OSS_TOKEN: '${{ secrets.OSS_TOKEN }}'
       OSS_STAGING_PROFILE_ID: '${{ secrets.OSS_STAGING_PROFILE_ID }}'

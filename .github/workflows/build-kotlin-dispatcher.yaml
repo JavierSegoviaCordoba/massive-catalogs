@@ -4,11 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       gradle-args:
-        description: 'Gradle args for `build` step'
-        default: ''
-        required: false
-      gradle-args-publish-snapshot:
-        description: 'Gradle args for `Publish snapshot` step'
+        description: 'Gradle args for every step'
         default: ''
         required: false
 
@@ -16,11 +12,14 @@ jobs:
   build:
     uses: JavierSegoviaCordoba/reusable-workflows/.github/workflows/build-kotlin.yaml@main
     with:
-      gradle-args: '${{ github.event.inputs.gradle-args }}'
-      gradle-args-publish-snapshot: '${{ github.event.inputs.gradle-args-publish-snapshot }}'
       allow-github-actor-bots: false
-      publish-snapshot: true
-      publish-docs: true
+      gradle-args: '${{ github.event.inputs.gradle-args }}'
+      all-tests: false
+      api-check: false
+      code-analysis-check: false
+      code-format-check: false
+      code-quality-check: false
+      deploy-reports: false
     secrets:
       OSS_USER: '${{ secrets.OSS_USER }}'
       OSS_TOKEN: '${{ secrets.OSS_TOKEN }}'
