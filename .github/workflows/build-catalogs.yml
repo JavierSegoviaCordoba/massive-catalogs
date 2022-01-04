@@ -76,6 +76,12 @@ jobs:
           name: catalogs-${{ matrix.range.from }}-${{ matrix.range.to }}
           path: build/catalogs
 
+      - name: Upload catalogs
+        uses: actions/upload-artifact@v2
+        with:
+          name: catalogs-${{ matrix.range.from }}-${{ matrix.range.to }}
+          path: build/catalogs
+
       - name: Stop Gradle daemons
         run: ./gradlew --stop
 
@@ -112,9 +118,13 @@ jobs:
         with:
           path: build/catalogs
 
+      - name: Generate Kotlin Catalog
+        if: ${{ always() }}
+        run: ./gradlew generateKotlinCatalog
+
       - name: Gradle build
         if: ${{ always() }}
-        run: ./gradlew build ${{ github.event.inputs.args }} -P"semver.stage"="snapshot"
+        run: ./gradlew build ${{ github.event.inputs.args }} "-Psemver.stage=snapshot"
 
       - name: Import GPG key
         uses: crazy-max/ghaction-import-gpg@v4
@@ -123,7 +133,7 @@ jobs:
           passphrase: ${{ secrets.SIGNING_KEY_PASSPHRASE }}
 
       - name: Publish a release
-        run: ./gradlew publishToSonatype -P"projects.kotlinCatalog.isEnabled"="false" -P"semver.stage"="snapshot"
+        run: ./gradlew publishToSonatype "-Psemver.stage=snapshot"
 
       - name: Stop Gradle daemons
         run: ./gradlew --stop

@@ -22,13 +22,9 @@ tasks {
 
     register<AddLibTask>("addLib")
 
-    val mavenScan = register<ScannerTask>("mavenScan") {
-        finalizedBy("generateKotlinCatalog")
-    }
+    register<ScannerTask>("mavenScan")
 
     register("generateKotlinCatalog") {
-        mustRunAfter(mavenScan)
-
         doLast {
             fun String.dotOrDashToCamelCase(): String =
                 replace("-", ".")

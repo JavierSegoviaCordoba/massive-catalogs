@@ -136,6 +136,10 @@ jobs:
         with:
           path: build/catalogs
 
+      - name: Generate Kotlin Catalog
+        if: ${{ always() }}
+        run: ./gradlew generateKotlinCatalog
+
       - name: Gradle build
         run: ./gradlew build
 
@@ -146,7 +150,7 @@ jobs:
           passphrase: ${{ secrets.SIGNING_KEY_PASSPHRASE }}
 
       - name: Publish a release
-        run: ./gradlew publishToSonatype closeSonatypeStagingRepository -P"projects.allExceptKotlinCatalog.areEnabled"="false"
+        run: ./gradlew publishToSonatype closeSonatypeStagingRepository "-Pprojects.allExceptKotlinCatalog.areEnabled=false"
 
       - name: Stop Gradle daemons
         run: ./gradlew --stop
