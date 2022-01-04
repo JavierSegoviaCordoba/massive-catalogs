@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.gradle.publish:plugin-publish-plugin -> 0.19.0`
 - `com.javiersc.run-blocking:suspend-test -> 0.1.0-beta.3`
 - `com.javiersc.run-blocking:run-blocking-core -> 0.1.0-beta.3`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.39`
@@ -53,7 +54,6 @@
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
 - `androidx.appcompat:appcompat -> 1.4.0`
 - `com.facebook:ktfmt -> 0.30`
-- `com.gradle.publish:plugin-publish-plugin -> 0.18.0`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.0`
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.0`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.0`
