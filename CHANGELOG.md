@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.javiersc.kamp:scanner -> 0.3.1`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.1`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.1.0`
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.2`
