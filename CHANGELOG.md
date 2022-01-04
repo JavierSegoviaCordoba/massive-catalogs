@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `com.javiersc.run-blocking:suspend-test -> 0.1.0-beta.3`
+- `com.javiersc.run-blocking:run-blocking-core -> 0.1.0-beta.3`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.39`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.1`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.1.0`
@@ -37,8 +39,6 @@
 - `org.ajoberstar.reckon:reckon-gradle -> 0.13.1`
 - `com.google.dagger:hilt-core -> 2.40.5`
 - `actions/cache -> v2.1.7`
-- `com.javiersc.run-blocking:suspend-test -> 0.1.0-beta.2`
-- `com.javiersc.run-blocking:run-blocking-core -> 0.1.0-beta.2`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.19.0`
 - `com.google.dagger:hilt-compiler -> 2.40.3`
 - `com.google.dagger:hilt-android -> 2.40.3`
