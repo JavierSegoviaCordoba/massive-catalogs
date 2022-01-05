@@ -14,6 +14,9 @@
 
 ### Updated
 
+- `me.tatarka.inject:kotlin-inject-runtime -> 0.4.1`
+- `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.1`
+- `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.1`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.10`
 - `org.jetbrains.dokka:dokka-core -> 1.6.10`
 - `com.gradle.publish:plugin-publish-plugin -> 0.19.0`
@@ -55,9 +58,6 @@
 - `androidx.appcompat:appcompat -> 1.4.0`
 - `com.facebook:ktfmt -> 0.30`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.0`
-- `me.tatarka.inject:kotlin-inject-runtime -> 0.4.0`
-- `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.0`
-- `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.0`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
 - `actions/checkout -> v2.4.0`
