@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.10`
+- `org.jetbrains.dokka:dokka-core -> 1.6.10`
 - `com.gradle.publish:plugin-publish-plugin -> 0.19.0`
 - `com.javiersc.run-blocking:suspend-test -> 0.1.0-beta.3`
 - `com.javiersc.run-blocking:run-blocking-core -> 0.1.0-beta.3`
@@ -49,8 +51,6 @@
 - `io.insert-koin:koin-test -> 3.1.4`
 - `io.insert-koin:koin-core -> 3.1.4`
 - `io.insert-koin:koin-android -> 3.1.4`
-- `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.0`
-- `org.jetbrains.dokka:dokka-core -> 1.6.0`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
 - `androidx.appcompat:appcompat -> 1.4.0`
 - `com.facebook:ktfmt -> 0.30`
