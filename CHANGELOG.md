@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.diffplug.spotless:spotless-plugin-gradle -> 6.1.1`
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.1`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.1`
 - `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.1`
@@ -24,7 +25,6 @@
 - `com.javiersc.run-blocking:run-blocking-core -> 0.1.0-beta.3`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.39`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.1`
-- `com.diffplug.spotless:spotless-plugin-gradle -> 6.1.0`
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.2`
 - `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.2`
 - `gradle -> 7.3.3`
