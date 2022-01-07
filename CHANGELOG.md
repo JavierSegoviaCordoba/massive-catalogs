@@ -14,7 +14,7 @@
 
 ### Updated
 
-- `com.diffplug.spotless:spotless-plugin-gradle -> 6.1.1`
+- `com.diffplug.spotless:spotless-plugin-gradle -> 6.1.2`
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.1`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.1`
 - `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.1`
