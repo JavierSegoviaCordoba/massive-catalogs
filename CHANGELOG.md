@@ -14,6 +14,9 @@
 
 ### Updated
 
+- `io.insert-koin:koin-test -> 3.1.5`
+- `io.insert-koin:koin-core -> 3.1.5`
+- `io.insert-koin:koin-android -> 3.1.5`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.1.2`
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.1`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.1`
@@ -50,9 +53,6 @@
 - `com.google.dagger:hilt-android -> 2.40.3`
 - `io.ktor:ktor-client-serialization -> 1.6.6`
 - `io.ktor:ktor-client-cio -> 1.6.6`
-- `io.insert-koin:koin-androidx-compose -> 3.1.4`
-- `io.insert-koin:koin-test -> 3.1.4`
-- `io.insert-koin:koin-core -> 3.1.4`
 - `io.insert-koin:koin-android -> 3.1.4`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
 - `androidx.appcompat:appcompat -> 1.4.0`
