@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.2`
 - `io.insert-koin:koin-test -> 3.1.5`
 - `io.insert-koin:koin-core -> 3.1.5`
 - `io.insert-koin:koin-android -> 3.1.5`
@@ -53,7 +54,6 @@
 - `com.google.dagger:hilt-android -> 2.40.3`
 - `io.ktor:ktor-client-serialization -> 1.6.6`
 - `io.ktor:ktor-client-cio -> 1.6.6`
-- `io.insert-koin:koin-android -> 3.1.4`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
 - `androidx.appcompat:appcompat -> 1.4.0`
 - `com.facebook:ktfmt -> 0.30`
@@ -65,7 +65,6 @@
 - `io.arrow-kt:arrow-meta -> 1.0.1`
 - `io.arrow-kt:arrow-core -> 1.0.1`
 - `androidx.browser:browser -> 1.4.0`
-- `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.1`
 - `androidx.activity:activity-ktx -> 1.4.0`
 - `androidx.core:core-ktx -> 1.7.0`
 - `com.squareup.okio:okio -> 3.0.0`
