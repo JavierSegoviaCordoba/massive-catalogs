@@ -14,12 +14,12 @@
 
 ### Updated
 
+- `com.diffplug.spotless:spotless-plugin-gradle -> 6.2.0`
 - `androidx.appcompat:appcompat -> 1.4.1`
 - `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.2`
 - `io.insert-koin:koin-test -> 3.1.5`
 - `io.insert-koin:koin-core -> 3.1.5`
 - `io.insert-koin:koin-android -> 3.1.5`
-- `com.diffplug.spotless:spotless-plugin-gradle -> 6.1.2`
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.1`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.1`
 - `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.1`
