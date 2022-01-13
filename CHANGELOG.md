@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `androidx.appcompat:appcompat -> 1.4.1`
 - `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.2`
 - `io.insert-koin:koin-test -> 3.1.5`
 - `io.insert-koin:koin-core -> 3.1.5`
@@ -55,7 +56,6 @@
 - `io.ktor:ktor-client-serialization -> 1.6.6`
 - `io.ktor:ktor-client-cio -> 1.6.6`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
-- `androidx.appcompat:appcompat -> 1.4.0`
 - `com.facebook:ktfmt -> 0.30`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.0`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
