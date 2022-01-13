@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `io.insert-koin:koin-androidx-compose -> 3.1.5`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.2.0`
 - `androidx.appcompat:appcompat -> 1.4.1`
 - `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.2`
