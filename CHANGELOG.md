@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.40`
 - `io.insert-koin:koin-androidx-compose -> 3.1.5`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.2.0`
 - `androidx.appcompat:appcompat -> 1.4.1`
@@ -29,7 +30,6 @@
 - `com.gradle.publish:plugin-publish-plugin -> 0.19.0`
 - `com.javiersc.run-blocking:suspend-test -> 0.1.0-beta.3`
 - `com.javiersc.run-blocking:run-blocking-core -> 0.1.0-beta.3`
-- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.39`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.1`
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.2`
 - `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.2`
