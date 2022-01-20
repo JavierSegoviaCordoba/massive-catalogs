@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.gradle.publish:plugin-publish-plugin -> 0.20.0`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.40`
 - `io.insert-koin:koin-androidx-compose -> 3.1.5`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.2.0`
@@ -27,7 +28,6 @@
 - `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.1`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.10`
 - `org.jetbrains.dokka:dokka-core -> 1.6.10`
-- `com.gradle.publish:plugin-publish-plugin -> 0.19.0`
 - `com.javiersc.run-blocking:suspend-test -> 0.1.0-beta.3`
 - `com.javiersc.run-blocking:run-blocking-core -> 0.1.0-beta.3`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.1`
