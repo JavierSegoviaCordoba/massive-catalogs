@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `io.kotest:kotest-assertions-core -> 5.1.0`
 - `com.gradle.publish:plugin-publish-plugin -> 0.20.0`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.40`
 - `io.insert-koin:koin-androidx-compose -> 3.1.5`
@@ -35,7 +36,6 @@
 - `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.2`
 - `gradle -> 7.3.3`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.0`
-- `io.kotest:kotest-assertions-core -> 5.0.3`
 - `com.javiersc.mokoki:mokoki-serialization -> 0.1.0-alpha.9`
 - `com.javiersc.mokoki:mokoki-core -> 0.1.0-alpha.9`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.10-1.0.2`
