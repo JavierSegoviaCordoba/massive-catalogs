@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.android.tools.build:gradle -> 7.1.0`
 - `io.arrow-kt:arrow-meta -> 1.6.0`
 - `io.kotest:kotest-assertions-core -> 5.1.0`
 - `com.gradle.publish:plugin-publish-plugin -> 0.20.0`
@@ -43,7 +44,6 @@
 - `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.10-1.0.2`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.10`
 - `cc.popkorn:popkorn -> 2.2.0`
-- `com.android.tools.build:gradle -> 7.0.4`
 - `com.squareup.moshi:moshi -> 1.13.0`
 - `io.ktor:ktor-client-mock -> 1.6.7`
 - `io.ktor:ktor-client-core -> 1.6.7`
