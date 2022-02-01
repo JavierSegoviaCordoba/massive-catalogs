@@ -1,5 +1,5 @@
 [versions]
-android = "7.0.4"
+android = "7.1.0"
 autoInclude = "1.3"
 changelog = "1.3.1"
 composeJetbrains = "1.0.1"
