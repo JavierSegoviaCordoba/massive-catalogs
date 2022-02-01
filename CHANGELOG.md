@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `io.arrow-kt:arrow-meta -> 1.6.0`
 - `io.kotest:kotest-assertions-core -> 5.1.0`
 - `com.gradle.publish:plugin-publish-plugin -> 0.20.0`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.40`
@@ -63,7 +64,6 @@
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
 - `actions/checkout -> v2.4.0`
 - `io.arrow-kt:arrow-optics -> 1.0.1`
-- `io.arrow-kt:arrow-meta -> 1.0.1`
 - `io.arrow-kt:arrow-core -> 1.0.1`
 - `androidx.browser:browser -> 1.4.0`
 - `androidx.activity:activity-ktx -> 1.4.0`
