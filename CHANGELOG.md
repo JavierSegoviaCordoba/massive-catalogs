@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.facebook:ktfmt -> 0.31`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.2.1`
 - `com.android.tools.build:gradle -> 7.1.0`
 - `io.arrow-kt:arrow-meta -> 1.6.0`
@@ -58,7 +59,6 @@
 - `io.ktor:ktor-client-serialization -> 1.6.6`
 - `io.ktor:ktor-client-cio -> 1.6.6`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
-- `com.facebook:ktfmt -> 0.30`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.0`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
