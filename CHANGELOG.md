@@ -14,9 +14,9 @@
 
 ### Updated
 
+- `com.android.tools.build:gradle -> 7.1.1`
 - `com.facebook:ktfmt -> 0.31`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.2.1`
-- `com.android.tools.build:gradle -> 7.1.0`
 - `io.arrow-kt:arrow-meta -> 1.6.0`
 - `io.kotest:kotest-assertions-core -> 5.1.0`
 - `com.gradle.publish:plugin-publish-plugin -> 0.20.0`
