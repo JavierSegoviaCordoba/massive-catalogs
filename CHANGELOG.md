@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `gradle -> 7.4`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.2.2`
 - `com.android.tools.build:gradle -> 7.1.1`
 - `com.facebook:ktfmt -> 0.31`
@@ -37,7 +38,6 @@
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.1`
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.2`
 - `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.2`
-- `gradle -> 7.3.3`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.0`
 - `com.javiersc.mokoki:mokoki-serialization -> 0.1.0-alpha.9`
 - `com.javiersc.mokoki:mokoki-core -> 0.1.0-alpha.9`
