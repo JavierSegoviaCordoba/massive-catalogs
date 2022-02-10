@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `org.ajoberstar.reckon:reckon-gradle -> 0.13.2`
 - `gradle -> 7.4`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.2.2`
 - `com.android.tools.build:gradle -> 7.1.1`
@@ -50,7 +51,6 @@
 - `io.ktor:ktor-client-core -> 1.6.7`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.2.0`
 - `com.google.dagger:hilt-android-gradle-plugin -> 2.40.5`
-- `org.ajoberstar.reckon:reckon-gradle -> 0.13.1`
 - `com.google.dagger:hilt-core -> 2.40.5`
 - `actions/cache -> v2.1.7`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.19.0`
