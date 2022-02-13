@@ -14,7 +14,7 @@
 
 ### Updated
 
-- `org.ajoberstar.reckon:reckon-gradle -> 0.14.0`
+- `org.ajoberstar.reckon:reckon-gradle -> 0.16.0`
 - `gradle -> 7.4`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.2.2`
 - `com.android.tools.build:gradle -> 7.1.1`
