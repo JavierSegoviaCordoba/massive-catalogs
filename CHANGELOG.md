@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.google.code.gson:gson -> 2.9.0`
 - `org.ajoberstar.reckon:reckon-gradle -> 0.16.0`
 - `gradle -> 7.4`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.2.2`
@@ -69,7 +70,6 @@
 - `androidx.activity:activity-ktx -> 1.4.0`
 - `androidx.core:core-ktx -> 1.7.0`
 - `com.squareup.okio:okio -> 3.0.0`
-- `com.google.code.gson:gson -> 2.8.9`
 - `app.cash.turbine:turbine -> 0.7.0`
 - `org.jetbrains.intellij.plugins:gradle-changelog-plugin -> 1.3.1`
 
