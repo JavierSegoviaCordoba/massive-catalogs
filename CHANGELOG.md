@@ -14,11 +14,11 @@
 
 ### Updated
 
+- `com.diffplug.spotless:spotless-plugin-gradle -> 6.3.0`
 - `com.facebook:ktfmt -> 0.32`
 - `com.google.code.gson:gson -> 2.9.0`
 - `org.ajoberstar.reckon:reckon-gradle -> 0.16.0`
 - `gradle -> 7.4`
-- `com.diffplug.spotless:spotless-plugin-gradle -> 6.2.2`
 - `com.android.tools.build:gradle -> 7.1.1`
 - `io.arrow-kt:arrow-meta -> 1.6.0`
 - `io.kotest:kotest-assertions-core -> 5.1.0`
