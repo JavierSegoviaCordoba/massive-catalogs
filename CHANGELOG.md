@@ -14,6 +14,9 @@
 
 ### Updated
 
+- `com.google.dagger:hilt-core -> 2.41`
+- `com.google.dagger:hilt-compiler -> 2.41`
+- `com.google.dagger:hilt-android -> 2.41`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.3.0`
 - `com.facebook:ktfmt -> 0.32`
 - `com.google.code.gson:gson -> 2.9.0`
@@ -51,12 +54,8 @@
 - `io.ktor:ktor-client-mock -> 1.6.7`
 - `io.ktor:ktor-client-core -> 1.6.7`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.2.0`
-- `com.google.dagger:hilt-android-gradle-plugin -> 2.40.5`
-- `com.google.dagger:hilt-core -> 2.40.5`
 - `actions/cache -> v2.1.7`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.19.0`
-- `com.google.dagger:hilt-compiler -> 2.40.3`
-- `com.google.dagger:hilt-android -> 2.40.3`
 - `io.ktor:ktor-client-serialization -> 1.6.6`
 - `io.ktor:ktor-client-cio -> 1.6.6`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
