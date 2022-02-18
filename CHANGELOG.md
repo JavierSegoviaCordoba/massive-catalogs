@@ -14,13 +14,13 @@
 
 ### Updated
 
+- `org.ajoberstar.reckon:reckon-gradle -> 0.16.1`
 - `com.google.dagger:hilt-core -> 2.41`
 - `com.google.dagger:hilt-compiler -> 2.41`
 - `com.google.dagger:hilt-android -> 2.41`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.3.0`
 - `com.facebook:ktfmt -> 0.32`
 - `com.google.code.gson:gson -> 2.9.0`
-- `org.ajoberstar.reckon:reckon-gradle -> 0.16.0`
 - `gradle -> 7.4`
 - `com.android.tools.build:gradle -> 7.1.1`
 - `io.arrow-kt:arrow-meta -> 1.6.0`
