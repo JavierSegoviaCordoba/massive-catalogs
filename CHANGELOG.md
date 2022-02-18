@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `com.google.devtools.ksp:symbol-processing-api -> 1.6.10-1.0.3`
+- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.10-1.0.3`
 - `org.ajoberstar.reckon:reckon-gradle -> 0.16.1`
 - `com.google.dagger:hilt-core -> 2.41`
 - `com.google.dagger:hilt-compiler -> 2.41`
@@ -46,8 +48,6 @@
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.0`
 - `com.javiersc.mokoki:mokoki-serialization -> 0.1.0-alpha.9`
 - `com.javiersc.mokoki:mokoki-core -> 0.1.0-alpha.9`
-- `com.google.devtools.ksp:symbol-processing-api -> 1.6.10-1.0.2`
-- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.10-1.0.2`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.10`
 - `cc.popkorn:popkorn -> 2.2.0`
 - `com.squareup.moshi:moshi -> 1.13.0`
