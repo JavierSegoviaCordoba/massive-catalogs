@@ -14,8 +14,8 @@
 
 ### Updated
 
-- `com.google.devtools.ksp:symbol-processing-api -> 1.6.10-1.0.3`
-- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.10-1.0.3`
+- `com.google.devtools.ksp:symbol-processing-api -> 1.6.10-1.0.4`
+- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.10-1.0.4`
 - `org.ajoberstar.reckon:reckon-gradle -> 0.16.1`
 - `com.google.dagger:hilt-core -> 2.41`
 - `com.google.dagger:hilt-compiler -> 2.41`
