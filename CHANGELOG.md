@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `org.jetbrains.compose:compose-gradle-plugin -> 1.1.0`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.10-1.0.4`
 - `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.10-1.0.4`
 - `org.ajoberstar.reckon:reckon-gradle -> 0.16.1`
@@ -42,7 +43,6 @@
 - `org.jetbrains.dokka:dokka-core -> 1.6.10`
 - `com.javiersc.run-blocking:suspend-test -> 0.1.0-beta.3`
 - `com.javiersc.run-blocking:run-blocking-core -> 0.1.0-beta.3`
-- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.1`
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.2`
 - `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.2`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.0`
