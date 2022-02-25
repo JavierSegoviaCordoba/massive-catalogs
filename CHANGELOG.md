@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.41`
 - `com.facebook:ktfmt -> 0.33`
 - `actions/setup-java -> v3`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.1.0`
@@ -30,7 +31,6 @@
 - `io.arrow-kt:arrow-meta -> 1.6.0`
 - `io.kotest:kotest-assertions-core -> 5.1.0`
 - `com.gradle.publish:plugin-publish-plugin -> 0.20.0`
-- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.40`
 - `io.insert-koin:koin-androidx-compose -> 3.1.5`
 - `androidx.appcompat:appcompat -> 1.4.1`
 - `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.2`
