@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.facebook:ktfmt -> 0.33`
 - `actions/setup-java -> v3`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.1.0`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.10-1.0.4`
@@ -23,7 +24,6 @@
 - `com.google.dagger:hilt-compiler -> 2.41`
 - `com.google.dagger:hilt-android -> 2.41`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.3.0`
-- `com.facebook:ktfmt -> 0.32`
 - `com.google.code.gson:gson -> 2.9.0`
 - `gradle -> 7.4`
 - `com.android.tools.build:gradle -> 7.1.1`
