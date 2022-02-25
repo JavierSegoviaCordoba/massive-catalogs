@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `actions/setup-java -> v3`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.1.0`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.10-1.0.4`
 - `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.10-1.0.4`
