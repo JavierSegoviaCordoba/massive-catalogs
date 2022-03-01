@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `actions/checkout -> v3`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.41`
 - `com.facebook:ktfmt -> 0.33`
 - `actions/setup-java -> v3`
@@ -63,7 +64,6 @@
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.0`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
-- `actions/checkout -> v2.4.0`
 - `io.arrow-kt:arrow-optics -> 1.0.1`
 - `io.arrow-kt:arrow-core -> 1.0.1`
 - `androidx.browser:browser -> 1.4.0`
