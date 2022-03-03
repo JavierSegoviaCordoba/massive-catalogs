@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `actions/upload-artifact -> v3`
 - `actions/download-artifact -> v3`
 - `actions/checkout -> v3`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.41`
