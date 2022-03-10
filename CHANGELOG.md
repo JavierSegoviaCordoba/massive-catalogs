@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `gradle -> 7.4.1`
 - `com.facebook:ktfmt -> 0.34`
 - `actions/upload-artifact -> v3`
 - `actions/download-artifact -> v3`
@@ -29,7 +30,6 @@
 - `com.google.dagger:hilt-android -> 2.41`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.3.0`
 - `com.google.code.gson:gson -> 2.9.0`
-- `gradle -> 7.4`
 - `com.android.tools.build:gradle -> 7.1.1`
 - `io.arrow-kt:arrow-meta -> 1.6.0`
 - `io.kotest:kotest-assertions-core -> 5.1.0`
