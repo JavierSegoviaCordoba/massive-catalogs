@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `io.kotest:kotest-assertions-core -> 5.2.0`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.1.1`
 - `gradle -> 7.4.1`
 - `com.facebook:ktfmt -> 0.34`
@@ -32,7 +33,6 @@
 - `com.google.code.gson:gson -> 2.9.0`
 - `com.android.tools.build:gradle -> 7.1.1`
 - `io.arrow-kt:arrow-meta -> 1.6.0`
-- `io.kotest:kotest-assertions-core -> 5.1.0`
 - `com.gradle.publish:plugin-publish-plugin -> 0.20.0`
 - `io.insert-koin:koin-androidx-compose -> 3.1.5`
 - `androidx.appcompat:appcompat -> 1.4.1`
