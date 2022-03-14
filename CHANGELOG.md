@@ -14,7 +14,7 @@
 
 ### Updated
 
-- `io.kotest:kotest-assertions-core -> 5.2.0`
+- `io.kotest:kotest-assertions-core -> 5.2.1`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.1.1`
 - `gradle -> 7.4.1`
 - `com.facebook:ktfmt -> 0.34`
