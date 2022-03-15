@@ -14,6 +14,10 @@
 
 ### Updated
 
+- `io.ktor:ktor-client-serialization -> 1.6.8`
+- `io.ktor:ktor-client-mock -> 1.6.8`
+- `io.ktor:ktor-client-core -> 1.6.8`
+- `io.ktor:ktor-client-cio -> 1.6.8`
 - `io.kotest:kotest-assertions-core -> 5.2.1`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.1.1`
 - `gradle -> 7.4.1`
@@ -55,13 +59,9 @@
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.10`
 - `cc.popkorn:popkorn -> 2.2.0`
 - `com.squareup.moshi:moshi -> 1.13.0`
-- `io.ktor:ktor-client-mock -> 1.6.7`
-- `io.ktor:ktor-client-core -> 1.6.7`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.2.0`
 - `actions/cache -> v2.1.7`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.19.0`
-- `io.ktor:ktor-client-serialization -> 1.6.6`
-- `io.ktor:ktor-client-cio -> 1.6.6`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.0`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
