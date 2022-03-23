@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `peter-evans/create-pull-request -> v4`
 - `actions/cache -> v3.0.0`
 - `io.ktor:ktor-client-serialization -> 1.6.8`
 - `io.ktor:ktor-client-mock -> 1.6.8`
