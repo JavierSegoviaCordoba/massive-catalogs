@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.android.tools.build:gradle -> 7.1.2`
 - `com.facebook:ktfmt -> 0.35`
 - `peter-evans/create-pull-request -> v4`
 - `actions/cache -> v3.0.0`
@@ -37,7 +38,6 @@
 - `com.google.dagger:hilt-android -> 2.41`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.3.0`
 - `com.google.code.gson:gson -> 2.9.0`
-- `com.android.tools.build:gradle -> 7.1.1`
 - `io.arrow-kt:arrow-meta -> 1.6.0`
 - `com.gradle.publish:plugin-publish-plugin -> 0.20.0`
 - `io.insert-koin:koin-androidx-compose -> 3.1.5`
