@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.facebook:ktfmt -> 0.35`
 - `peter-evans/create-pull-request -> v4`
 - `actions/cache -> v3.0.0`
 - `io.ktor:ktor-client-serialization -> 1.6.8`
@@ -23,7 +24,6 @@
 - `io.kotest:kotest-assertions-core -> 5.2.1`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.1.1`
 - `gradle -> 7.4.1`
-- `com.facebook:ktfmt -> 0.34`
 - `actions/upload-artifact -> v3`
 - `actions/download-artifact -> v3`
 - `actions/checkout -> v3`
