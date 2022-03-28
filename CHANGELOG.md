@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.diffplug.spotless:spotless-plugin-gradle -> 6.4.0`
 - `io.kotest:kotest-assertions-core -> 5.2.2`
 - `com.android.tools.build:gradle -> 7.1.2`
 - `com.facebook:ktfmt -> 0.35`
@@ -36,7 +37,6 @@
 - `com.google.dagger:hilt-core -> 2.41`
 - `com.google.dagger:hilt-compiler -> 2.41`
 - `com.google.dagger:hilt-android -> 2.41`
-- `com.diffplug.spotless:spotless-plugin-gradle -> 6.3.0`
 - `com.google.code.gson:gson -> 2.9.0`
 - `io.arrow-kt:arrow-meta -> 1.6.0`
 - `com.gradle.publish:plugin-publish-plugin -> 0.20.0`
