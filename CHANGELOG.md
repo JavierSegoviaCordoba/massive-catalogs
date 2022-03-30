@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.gradle.publish:plugin-publish-plugin -> 0.21.0`
 - `actions/cache -> v3.0.1`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.4.0`
 - `io.kotest:kotest-assertions-core -> 5.2.2`
@@ -39,7 +40,6 @@
 - `com.google.dagger:hilt-android -> 2.41`
 - `com.google.code.gson:gson -> 2.9.0`
 - `io.arrow-kt:arrow-meta -> 1.6.0`
-- `com.gradle.publish:plugin-publish-plugin -> 0.20.0`
 - `io.insert-koin:koin-androidx-compose -> 3.1.5`
 - `androidx.appcompat:appcompat -> 1.4.1`
 - `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.2`
