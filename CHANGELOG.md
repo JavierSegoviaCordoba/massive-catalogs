@@ -14,12 +14,12 @@
 
 ### Updated
 
+- `actions/cache -> v3.0.1`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.4.0`
 - `io.kotest:kotest-assertions-core -> 5.2.2`
 - `com.android.tools.build:gradle -> 7.1.2`
 - `com.facebook:ktfmt -> 0.35`
 - `peter-evans/create-pull-request -> v4`
-- `actions/cache -> v3.0.0`
 - `io.ktor:ktor-client-serialization -> 1.6.8`
 - `io.ktor:ktor-client-mock -> 1.6.8`
 - `io.ktor:ktor-client-core -> 1.6.8`
