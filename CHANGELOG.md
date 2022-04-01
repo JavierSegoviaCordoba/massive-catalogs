@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `org.jetbrains.kotlin:kotlin-serialization -> 1.6.20`
+- `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.20`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.4.1`
 - `com.gradle.publish:plugin-publish-plugin -> 0.21.0`
 - `actions/cache -> v3.0.1`
@@ -58,13 +60,11 @@
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.0`
 - `com.javiersc.mokoki:mokoki-serialization -> 0.1.0-alpha.9`
 - `com.javiersc.mokoki:mokoki-core -> 0.1.0-alpha.9`
-- `org.jetbrains.kotlin:kotlin-serialization -> 1.6.10`
 - `cc.popkorn:popkorn -> 2.2.0`
 - `com.squareup.moshi:moshi -> 1.13.0`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.2.0`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.19.0`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
-- `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.0`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
 - `io.arrow-kt:arrow-optics -> 1.0.1`
