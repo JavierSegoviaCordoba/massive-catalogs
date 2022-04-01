@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `gradle -> 7.4.2`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.20`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.20`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.4.1`
@@ -28,7 +29,6 @@
 - `io.ktor:ktor-client-core -> 1.6.8`
 - `io.ktor:ktor-client-cio -> 1.6.8`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.1.1`
-- `gradle -> 7.4.1`
 - `actions/upload-artifact -> v3`
 - `actions/download-artifact -> v3`
 - `actions/checkout -> v3`
