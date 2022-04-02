@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `ru.vyarus:gradle-mkdocs-plugin -> 2.3.0`
 - `gradle -> 7.4.2`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.20`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.20`
@@ -62,7 +63,6 @@
 - `com.javiersc.mokoki:mokoki-core -> 0.1.0-alpha.9`
 - `cc.popkorn:popkorn -> 2.2.0`
 - `com.squareup.moshi:moshi -> 1.13.0`
-- `ru.vyarus:gradle-mkdocs-plugin -> 2.2.0`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.19.0`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
