@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `com.google.devtools.ksp:symbol-processing-api -> 1.6.20-1.0.4`
+- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.20-1.0.4`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.42`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.3.0`
 - `gradle -> 7.4.2`
@@ -35,8 +37,6 @@
 - `actions/download-artifact -> v3`
 - `actions/checkout -> v3`
 - `actions/setup-java -> v3`
-- `com.google.devtools.ksp:symbol-processing-api -> 1.6.10-1.0.4`
-- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.10-1.0.4`
 - `org.ajoberstar.reckon:reckon-gradle -> 0.16.1`
 - `com.google.dagger:hilt-core -> 2.41`
 - `com.google.dagger:hilt-compiler -> 2.41`
