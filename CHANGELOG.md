@@ -14,6 +14,10 @@
 
 ### Updated
 
+- `io.insert-koin:koin-androidx-compose -> 3.1.6`
+- `io.insert-koin:koin-test -> 3.1.6`
+- `io.insert-koin:koin-core -> 3.1.6`
+- `io.insert-koin:koin-android -> 3.1.6`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.4.2`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.1`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-core -> 1.6.1`
@@ -45,12 +49,8 @@
 - `com.google.dagger:hilt-android -> 2.41`
 - `com.google.code.gson:gson -> 2.9.0`
 - `io.arrow-kt:arrow-meta -> 1.6.0`
-- `io.insert-koin:koin-androidx-compose -> 3.1.5`
 - `androidx.appcompat:appcompat -> 1.4.1`
 - `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.2`
-- `io.insert-koin:koin-test -> 3.1.5`
-- `io.insert-koin:koin-core -> 3.1.5`
-- `io.insert-koin:koin-android -> 3.1.5`
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.1`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.1`
 - `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.1`
