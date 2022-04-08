@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `com.google.devtools.ksp:symbol-processing-api -> 1.6.20-1.0.5`
+- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.20-1.0.5`
 - `io.insert-koin:koin-androidx-compose -> 3.1.6`
 - `io.insert-koin:koin-test -> 3.1.6`
 - `io.insert-koin:koin-core -> 3.1.6`
@@ -21,8 +23,6 @@
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.4.2`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.1`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-core -> 1.6.1`
-- `com.google.devtools.ksp:symbol-processing-api -> 1.6.20-1.0.4`
-- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.20-1.0.4`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.42`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.3.0`
 - `gradle -> 7.4.2`
