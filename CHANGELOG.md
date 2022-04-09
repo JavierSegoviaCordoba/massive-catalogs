@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `io.kotest:kotest-assertions-core -> 5.2.3`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.20-1.0.5`
 - `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.20-1.0.5`
 - `io.insert-koin:koin-androidx-compose -> 3.1.6`
@@ -30,7 +31,6 @@
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.20`
 - `com.gradle.publish:plugin-publish-plugin -> 0.21.0`
 - `actions/cache -> v3.0.1`
-- `io.kotest:kotest-assertions-core -> 5.2.2`
 - `com.android.tools.build:gradle -> 7.1.2`
 - `com.facebook:ktfmt -> 0.35`
 - `peter-evans/create-pull-request -> v4`
