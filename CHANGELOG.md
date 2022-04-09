@@ -14,6 +14,10 @@
 
 ### Updated
 
+- `io.ktor:ktor-client-serialization -> 2.0.0`
+- `io.ktor:ktor-client-mock -> 2.0.0`
+- `io.ktor:ktor-client-core -> 2.0.0`
+- `io.ktor:ktor-client-cio -> 2.0.0`
 - `io.kotest:kotest-assertions-core -> 5.2.3`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.20-1.0.5`
 - `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.20-1.0.5`
@@ -34,10 +38,6 @@
 - `com.android.tools.build:gradle -> 7.1.2`
 - `com.facebook:ktfmt -> 0.35`
 - `peter-evans/create-pull-request -> v4`
-- `io.ktor:ktor-client-serialization -> 1.6.8`
-- `io.ktor:ktor-client-mock -> 1.6.8`
-- `io.ktor:ktor-client-core -> 1.6.8`
-- `io.ktor:ktor-client-cio -> 1.6.8`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.1.1`
 - `actions/upload-artifact -> v3`
 - `actions/download-artifact -> v3`
