@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `actions/cache -> v3.0.2`
 - `io.ktor:ktor-client-serialization -> 2.0.0`
 - `io.ktor:ktor-client-mock -> 2.0.0`
 - `io.ktor:ktor-client-core -> 2.0.0`
@@ -34,7 +35,6 @@
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.20`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.20`
 - `com.gradle.publish:plugin-publish-plugin -> 0.21.0`
-- `actions/cache -> v3.0.1`
 - `com.android.tools.build:gradle -> 7.1.2`
 - `com.facebook:ktfmt -> 0.35`
 - `peter-evans/create-pull-request -> v4`
