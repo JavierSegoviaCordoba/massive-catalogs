@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.20`
+- `org.jetbrains.dokka:dokka-core -> 1.6.20`
 - `actions/cache -> v3.0.2`
 - `io.ktor:ktor-client-serialization -> 2.0.0`
 - `io.ktor:ktor-client-mock -> 2.0.0`
@@ -54,8 +56,6 @@
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.1`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.1`
 - `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.1`
-- `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.10`
-- `org.jetbrains.dokka:dokka-core -> 1.6.10`
 - `com.javiersc.run-blocking:suspend-test -> 0.1.0-beta.3`
 - `com.javiersc.run-blocking:run-blocking-core -> 0.1.0-beta.3`
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.2`
