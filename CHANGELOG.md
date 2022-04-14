@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.20.0`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.20`
 - `org.jetbrains.dokka:dokka-core -> 1.6.20`
 - `actions/cache -> v3.0.2`
@@ -64,7 +65,6 @@
 - `com.javiersc.mokoki:mokoki-core -> 0.1.0-alpha.9`
 - `cc.popkorn:popkorn -> 2.2.0`
 - `com.squareup.moshi:moshi -> 1.13.0`
-- `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.19.0`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
