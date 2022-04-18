@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.9.0`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.20.0`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.20`
 - `org.jetbrains.dokka:dokka-core -> 1.6.20`
@@ -67,7 +68,6 @@
 - `com.squareup.moshi:moshi -> 1.13.0`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
-- `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
 - `io.arrow-kt:arrow-optics -> 1.0.1`
 - `io.arrow-kt:arrow-core -> 1.0.1`
 - `androidx.browser:browser -> 1.4.0`
