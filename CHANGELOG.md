@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `org.jetbrains.kotlin:kotlin-serialization -> 1.6.21`
+- `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.21`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.9.0`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.20.0`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.20`
@@ -36,8 +38,6 @@
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.42`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.3.0`
 - `gradle -> 7.4.2`
-- `org.jetbrains.kotlin:kotlin-serialization -> 1.6.20`
-- `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.20`
 - `com.gradle.publish:plugin-publish-plugin -> 0.21.0`
 - `com.android.tools.build:gradle -> 7.1.2`
 - `com.facebook:ktfmt -> 0.35`
