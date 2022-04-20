@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.squareup.okio:okio -> 3.1.0`
 - `io.arrow-kt:arrow-optics -> 1.1.0`
 - `io.arrow-kt:arrow-core -> 1.1.0`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.21`
@@ -73,7 +74,6 @@
 - `androidx.browser:browser -> 1.4.0`
 - `androidx.activity:activity-ktx -> 1.4.0`
 - `androidx.core:core-ktx -> 1.7.0`
-- `com.squareup.okio:okio -> 3.0.0`
 - `app.cash.turbine:turbine -> 0.7.0`
 - `org.jetbrains.intellij.plugins:gradle-changelog-plugin -> 1.3.1`
 
