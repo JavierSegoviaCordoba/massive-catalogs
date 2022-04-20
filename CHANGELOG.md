@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `com.google.devtools.ksp:symbol-processing-api -> 1.6.21-1.0.5`
+- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.21-1.0.5`
 - `com.squareup.okio:okio -> 3.1.0`
 - `io.arrow-kt:arrow-optics -> 1.1.0`
 - `io.arrow-kt:arrow-core -> 1.1.0`
@@ -29,8 +31,6 @@
 - `io.ktor:ktor-client-core -> 2.0.0`
 - `io.ktor:ktor-client-cio -> 2.0.0`
 - `io.kotest:kotest-assertions-core -> 5.2.3`
-- `com.google.devtools.ksp:symbol-processing-api -> 1.6.20-1.0.5`
-- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.20-1.0.5`
 - `io.insert-koin:koin-androidx-compose -> 3.1.6`
 - `io.insert-koin:koin-test -> 3.1.6`
 - `io.insert-koin:koin-core -> 3.1.6`
