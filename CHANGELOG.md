@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `io.arrow-kt:arrow-optics -> 1.1.0`
+- `io.arrow-kt:arrow-core -> 1.1.0`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.21`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.21`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.9.0`
@@ -68,8 +70,6 @@
 - `com.squareup.moshi:moshi -> 1.13.0`
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
-- `io.arrow-kt:arrow-optics -> 1.0.1`
-- `io.arrow-kt:arrow-core -> 1.0.1`
 - `androidx.browser:browser -> 1.4.0`
 - `androidx.activity:activity-ktx -> 1.4.0`
 - `androidx.core:core-ktx -> 1.7.0`
