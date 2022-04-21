@@ -2,7 +2,7 @@
 [versions]
 activity = "1.4.0"
 appCompat = "1.4.1"
-arrow = "1.1.0"
+arrow = "1.1.2"
 arrowMeta = "1.6.0"
 browser = "1.4.0"
 core = "1.7.0"

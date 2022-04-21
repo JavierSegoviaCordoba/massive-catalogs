@@ -14,11 +14,11 @@
 
 ### Updated
 
+- `io.arrow-kt:arrow-optics -> 1.1.2`
+- `io.arrow-kt:arrow-core -> 1.1.2`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.21-1.0.5`
 - `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.21-1.0.5`
 - `com.squareup.okio:okio -> 3.1.0`
-- `io.arrow-kt:arrow-optics -> 1.1.0`
-- `io.arrow-kt:arrow-core -> 1.1.0`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.21`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.21`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.9.0`
