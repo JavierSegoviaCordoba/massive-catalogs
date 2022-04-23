@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.diffplug.spotless:spotless-plugin-gradle -> 6.5.0`
 - `io.arrow-kt:arrow-optics -> 1.1.2`
 - `io.arrow-kt:arrow-core -> 1.1.2`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.21-1.0.5`
@@ -35,7 +36,6 @@
 - `io.insert-koin:koin-test -> 3.1.6`
 - `io.insert-koin:koin-core -> 3.1.6`
 - `io.insert-koin:koin-android -> 3.1.6`
-- `com.diffplug.spotless:spotless-plugin-gradle -> 6.4.2`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.1`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-core -> 1.6.1`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.42`
