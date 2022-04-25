@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.facebook:ktfmt -> 0.36`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.5.0`
 - `io.arrow-kt:arrow-optics -> 1.1.2`
 - `io.arrow-kt:arrow-core -> 1.1.2`
@@ -43,7 +44,6 @@
 - `gradle -> 7.4.2`
 - `com.gradle.publish:plugin-publish-plugin -> 0.21.0`
 - `com.android.tools.build:gradle -> 7.1.2`
-- `com.facebook:ktfmt -> 0.35`
 - `peter-evans/create-pull-request -> v4`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.1.1`
 - `actions/upload-artifact -> v3`
