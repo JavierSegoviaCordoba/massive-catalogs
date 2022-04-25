@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.21`
+- `org.jetbrains.dokka:dokka-core -> 1.6.21`
 - `com.facebook:ktfmt -> 0.36`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.5.0`
 - `io.arrow-kt:arrow-optics -> 1.1.2`
@@ -25,8 +27,6 @@
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.21`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.9.0`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.20.0`
-- `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.20`
-- `org.jetbrains.dokka:dokka-core -> 1.6.20`
 - `actions/cache -> v3.0.2`
 - `io.ktor:ktor-client-serialization -> 2.0.0`
 - `io.ktor:ktor-client-mock -> 2.0.0`
