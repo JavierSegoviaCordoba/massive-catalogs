@@ -14,10 +14,10 @@
 
 ### Updated
 
+- `com.diffplug.spotless:spotless-plugin-gradle -> 6.5.1`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.21`
 - `org.jetbrains.dokka:dokka-core -> 1.6.21`
 - `com.facebook:ktfmt -> 0.36`
-- `com.diffplug.spotless:spotless-plugin-gradle -> 6.5.0`
 - `io.arrow-kt:arrow-optics -> 1.1.2`
 - `io.arrow-kt:arrow-core -> 1.1.2`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.21-1.0.5`
