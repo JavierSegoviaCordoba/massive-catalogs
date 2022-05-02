@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `app.cash.turbine:turbine -> 0.8.0`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.5.1`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.21`
 - `org.jetbrains.dokka:dokka-core -> 1.6.21`
@@ -74,7 +75,6 @@
 - `androidx.browser:browser -> 1.4.0`
 - `androidx.activity:activity-ktx -> 1.4.0`
 - `androidx.core:core-ktx -> 1.7.0`
-- `app.cash.turbine:turbine -> 0.7.0`
 - `org.jetbrains.intellij.plugins:gradle-changelog-plugin -> 1.3.1`
 
 ## [0.1.0-alpha.43] - 2021-07-30
