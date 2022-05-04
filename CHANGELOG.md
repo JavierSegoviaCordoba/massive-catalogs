@@ -14,9 +14,9 @@
 
 ### Updated
 
+- `com.diffplug.spotless:spotless-plugin-gradle -> 6.5.2`
 - `io.kotest:kotest-assertions-core -> 5.3.0`
 - `app.cash.turbine:turbine -> 0.8.0`
-- `com.diffplug.spotless:spotless-plugin-gradle -> 6.5.1`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.21`
 - `org.jetbrains.dokka:dokka-core -> 1.6.21`
 - `com.facebook:ktfmt -> 0.36`
