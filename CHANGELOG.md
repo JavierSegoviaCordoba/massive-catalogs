@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.facebook:ktfmt -> 0.37`
 - `io.ktor:ktor-client-serialization -> 2.0.1`
 - `io.ktor:ktor-client-mock -> 2.0.1`
 - `io.ktor:ktor-client-core -> 2.0.1`
@@ -23,7 +24,6 @@
 - `app.cash.turbine:turbine -> 0.8.0`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.21`
 - `org.jetbrains.dokka:dokka-core -> 1.6.21`
-- `com.facebook:ktfmt -> 0.36`
 - `io.arrow-kt:arrow-optics -> 1.1.2`
 - `io.arrow-kt:arrow-core -> 1.1.2`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.21-1.0.5`
