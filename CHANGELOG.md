@@ -14,6 +14,10 @@
 
 ### Updated
 
+- `io.ktor:ktor-client-serialization -> 2.0.1`
+- `io.ktor:ktor-client-mock -> 2.0.1`
+- `io.ktor:ktor-client-core -> 2.0.1`
+- `io.ktor:ktor-client-cio -> 2.0.1`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.5.2`
 - `io.kotest:kotest-assertions-core -> 5.3.0`
 - `app.cash.turbine:turbine -> 0.8.0`
@@ -30,10 +34,6 @@
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.9.0`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.20.0`
 - `actions/cache -> v3.0.2`
-- `io.ktor:ktor-client-serialization -> 2.0.0`
-- `io.ktor:ktor-client-mock -> 2.0.0`
-- `io.ktor:ktor-client-core -> 2.0.0`
-- `io.ktor:ktor-client-cio -> 2.0.0`
 - `io.insert-koin:koin-androidx-compose -> 3.1.6`
 - `io.insert-koin:koin-test -> 3.1.6`
 - `io.insert-koin:koin-core -> 3.1.6`
