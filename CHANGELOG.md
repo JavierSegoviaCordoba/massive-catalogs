@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.3`
 - `com.facebook:ktfmt -> 0.37`
 - `io.ktor:ktor-client-serialization -> 2.0.1`
 - `io.ktor:ktor-client-mock -> 2.0.1`
@@ -58,7 +59,6 @@
 - `com.google.code.gson:gson -> 2.9.0`
 - `io.arrow-kt:arrow-meta -> 1.6.0`
 - `androidx.appcompat:appcompat -> 1.4.1`
-- `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.2`
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.1`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.1`
 - `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.1`
