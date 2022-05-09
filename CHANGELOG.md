@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `io.insert-koin:koin-android -> 3.2.0`
 - `com.android.tools.build:gradle -> 7.2.0`
 - `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.3`
 - `com.facebook:ktfmt -> 0.37`
@@ -39,7 +40,6 @@
 - `io.insert-koin:koin-androidx-compose -> 3.1.6`
 - `io.insert-koin:koin-test -> 3.1.6`
 - `io.insert-koin:koin-core -> 3.1.6`
-- `io.insert-koin:koin-android -> 3.1.6`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.1`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-core -> 1.6.1`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.42`
