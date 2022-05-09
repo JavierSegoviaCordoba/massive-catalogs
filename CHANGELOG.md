@@ -14,6 +14,10 @@
 
 ### Updated
 
+- `com.google.dagger:hilt-core -> 2.42`
+- `com.google.dagger:hilt-compiler -> 2.42`
+- `com.google.dagger:hilt-android -> 2.42`
+- `com.google.dagger:hilt-android-gradle-plugin -> 2.42`
 - `io.insert-koin:koin-android -> 3.2.0`
 - `com.android.tools.build:gradle -> 7.2.0`
 - `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.3`
@@ -53,9 +57,6 @@
 - `actions/checkout -> v3`
 - `actions/setup-java -> v3`
 - `org.ajoberstar.reckon:reckon-gradle -> 0.16.1`
-- `com.google.dagger:hilt-core -> 2.41`
-- `com.google.dagger:hilt-compiler -> 2.41`
-- `com.google.dagger:hilt-android -> 2.41`
 - `com.google.code.gson:gson -> 2.9.0`
 - `io.arrow-kt:arrow-meta -> 1.6.0`
 - `androidx.appcompat:appcompat -> 1.4.1`
