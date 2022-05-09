@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.android.tools.build:gradle -> 7.2.0`
 - `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.3`
 - `com.facebook:ktfmt -> 0.37`
 - `io.ktor:ktor-client-serialization -> 2.0.1`
@@ -45,7 +46,6 @@
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.3.0`
 - `gradle -> 7.4.2`
 - `com.gradle.publish:plugin-publish-plugin -> 0.21.0`
-- `com.android.tools.build:gradle -> 7.1.2`
 - `peter-evans/create-pull-request -> v4`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.1.1`
 - `actions/upload-artifact -> v3`
