@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `io.insert-koin:koin-androidx-compose -> 3.2.0`
 - `com.google.dagger:hilt-core -> 2.42`
 - `com.google.dagger:hilt-compiler -> 2.42`
 - `com.google.dagger:hilt-android -> 2.42`
@@ -41,7 +42,6 @@
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.9.0`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.20.0`
 - `actions/cache -> v3.0.2`
-- `io.insert-koin:koin-androidx-compose -> 3.1.6`
 - `io.insert-koin:koin-test -> 3.1.6`
 - `io.insert-koin:koin-core -> 3.1.6`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.1`
