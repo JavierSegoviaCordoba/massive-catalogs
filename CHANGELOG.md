@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.diffplug.spotless:spotless-plugin-gradle -> 6.6.0`
 - `io.insert-koin:koin-androidx-compose -> 3.2.0`
 - `com.google.dagger:hilt-core -> 2.42`
 - `com.google.dagger:hilt-compiler -> 2.42`
@@ -27,7 +28,6 @@
 - `io.ktor:ktor-client-mock -> 2.0.1`
 - `io.ktor:ktor-client-core -> 2.0.1`
 - `io.ktor:ktor-client-cio -> 2.0.1`
-- `com.diffplug.spotless:spotless-plugin-gradle -> 6.5.2`
 - `io.kotest:kotest-assertions-core -> 5.3.0`
 - `app.cash.turbine:turbine -> 0.8.0`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.21`
