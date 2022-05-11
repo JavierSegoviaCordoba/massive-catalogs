@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.43`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.6.0`
 - `io.insert-koin:koin-androidx-compose -> 3.2.0`
 - `com.google.dagger:hilt-core -> 2.42`
@@ -46,7 +47,6 @@
 - `io.insert-koin:koin-core -> 3.1.6`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.1`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-core -> 1.6.1`
-- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.42`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.3.0`
 - `gradle -> 7.4.2`
 - `com.gradle.publish:plugin-publish-plugin -> 0.21.0`
