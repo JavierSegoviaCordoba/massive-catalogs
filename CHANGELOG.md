@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.3`
+- `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.3`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.43`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.6.0`
 - `io.insert-koin:koin-androidx-compose -> 3.2.0`
@@ -65,8 +67,6 @@
 - `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.1`
 - `com.javiersc.run-blocking:suspend-test -> 0.1.0-beta.3`
 - `com.javiersc.run-blocking:run-blocking-core -> 0.1.0-beta.3`
-- `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.2`
-- `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.2`
 - `com.javiersc.mokoki:mokoki-serialization -> 0.1.0-alpha.9`
 - `com.javiersc.mokoki:mokoki-core -> 0.1.0-alpha.9`
 - `cc.popkorn:popkorn -> 2.2.0`
