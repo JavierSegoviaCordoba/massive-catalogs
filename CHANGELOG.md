@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `org.jsoup:jsoup -> 1.15.1`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.6.1`
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.3`
 - `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.3`
