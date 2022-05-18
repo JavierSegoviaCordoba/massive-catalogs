@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.10.0`
 - `org.jsoup:jsoup -> 1.15.1`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.6.1`
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.3`
@@ -43,7 +44,6 @@
 - `com.squareup.okio:okio -> 3.1.0`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.21`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.21`
-- `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.9.0`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.20.0`
 - `actions/cache -> v3.0.2`
 - `io.insert-koin:koin-test -> 3.1.6`
