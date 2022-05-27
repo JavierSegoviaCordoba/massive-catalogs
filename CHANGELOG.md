@@ -14,6 +14,10 @@
 
 ### Updated
 
+- `io.ktor:ktor-client-serialization -> 2.0.2`
+- `io.ktor:ktor-client-mock -> 2.0.2`
+- `io.ktor:ktor-client-core -> 2.0.2`
+- `io.ktor:ktor-client-cio -> 2.0.2`
 - `crazy-max/ghaction-import-gpg -> v5`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.10.0`
 - `org.jsoup:jsoup -> 1.15.1`
@@ -30,10 +34,6 @@
 - `com.android.tools.build:gradle -> 7.2.0`
 - `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.3`
 - `com.facebook:ktfmt -> 0.37`
-- `io.ktor:ktor-client-serialization -> 2.0.1`
-- `io.ktor:ktor-client-mock -> 2.0.1`
-- `io.ktor:ktor-client-core -> 2.0.1`
-- `io.ktor:ktor-client-cio -> 2.0.1`
 - `io.kotest:kotest-assertions-core -> 5.3.0`
 - `app.cash.turbine:turbine -> 0.8.0`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.21`
