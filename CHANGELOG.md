@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.2`
+- `org.jetbrains.kotlinx:kotlinx-coroutines-core -> 1.6.2`
 - `io.ktor:ktor-client-serialization -> 2.0.2`
 - `io.ktor:ktor-client-mock -> 2.0.2`
 - `io.ktor:ktor-client-core -> 2.0.2`
@@ -49,8 +51,6 @@
 - `actions/cache -> v3.0.2`
 - `io.insert-koin:koin-test -> 3.1.6`
 - `io.insert-koin:koin-core -> 3.1.6`
-- `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.1`
-- `org.jetbrains.kotlinx:kotlinx-coroutines-core -> 1.6.1`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.3.0`
 - `gradle -> 7.4.2`
 - `com.gradle.publish:plugin-publish-plugin -> 0.21.0`
