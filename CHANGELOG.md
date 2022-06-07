@@ -14,7 +14,7 @@
 
 ### Updated
 
-- `actions/cache -> v3.0.3`
+- `actions/cache -> v3.0.4`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.2`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-core -> 1.6.2`
 - `io.ktor:ktor-client-serialization -> 2.0.2`
