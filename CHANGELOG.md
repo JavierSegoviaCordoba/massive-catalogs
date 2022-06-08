@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `androidx.appcompat:appcompat -> 1.4.2`
 - `actions/cache -> v3.0.4`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.2`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-core -> 1.6.2`
@@ -63,7 +64,6 @@
 - `org.ajoberstar.reckon:reckon-gradle -> 0.16.1`
 - `com.google.code.gson:gson -> 2.9.0`
 - `io.arrow-kt:arrow-meta -> 1.6.0`
-- `androidx.appcompat:appcompat -> 1.4.1`
 - `me.tatarka.inject:kotlin-inject-runtime -> 0.4.1`
 - `me.tatarka.inject:kotlin-inject-compiler-ksp -> 0.4.1`
 - `me.tatarka.inject:kotlin-inject-compiler-kapt -> 0.4.1`
