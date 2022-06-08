@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.facebook:ktfmt -> 0.38`
 - `androidx.appcompat:appcompat -> 1.4.2`
 - `actions/cache -> v3.0.4`
 - `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.2`
@@ -37,7 +38,6 @@
 - `io.insert-koin:koin-android -> 3.2.0`
 - `com.android.tools.build:gradle -> 7.2.0`
 - `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.3`
-- `com.facebook:ktfmt -> 0.37`
 - `io.kotest:kotest-assertions-core -> 5.3.0`
 - `app.cash.turbine:turbine -> 0.8.0`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.21`
