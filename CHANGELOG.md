@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.diffplug.spotless:spotless-plugin-gradle -> 6.7.0`
 - `com.facebook:ktfmt -> 0.38`
 - `androidx.appcompat:appcompat -> 1.4.2`
 - `actions/cache -> v3.0.4`
@@ -26,7 +27,6 @@
 - `crazy-max/ghaction-import-gpg -> v5`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.10.0`
 - `org.jsoup:jsoup -> 1.15.1`
-- `com.diffplug.spotless:spotless-plugin-gradle -> 6.6.1`
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.3`
 - `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.3`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.43`
