@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `androidx.core:core-ktx -> 1.8.0`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.7.0`
 - `com.facebook:ktfmt -> 0.38`
 - `androidx.appcompat:appcompat -> 1.4.2`
@@ -77,7 +78,6 @@
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
 - `androidx.browser:browser -> 1.4.0`
 - `androidx.activity:activity-ktx -> 1.4.0`
-- `androidx.core:core-ktx -> 1.7.0`
 - `org.jetbrains.intellij.plugins:gradle-changelog-plugin -> 1.3.1`
 
 ## [0.1.0-alpha.43] - 2021-07-30
