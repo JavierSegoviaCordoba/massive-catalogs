@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.45`
 - `androidx.core:core-ktx -> 1.8.0`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.7.0`
 - `com.facebook:ktfmt -> 0.38`
@@ -30,7 +31,6 @@
 - `org.jsoup:jsoup -> 1.15.1`
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.3`
 - `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.3`
-- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.43`
 - `io.insert-koin:koin-androidx-compose -> 3.2.0`
 - `com.google.dagger:hilt-core -> 2.42`
 - `com.google.dagger:hilt-compiler -> 2.42`
