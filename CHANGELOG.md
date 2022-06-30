@@ -14,8 +14,8 @@
 
 ### Updated
 
+- `com.diffplug.spotless:spotless-plugin-gradle -> 6.8.0`
 - `androidx.core:core-ktx -> 1.8.0`
-- `com.diffplug.spotless:spotless-plugin-gradle -> 6.7.0`
 - `com.facebook:ktfmt -> 0.38`
 - `androidx.appcompat:appcompat -> 1.4.2`
 - `actions/cache -> v3.0.4`
