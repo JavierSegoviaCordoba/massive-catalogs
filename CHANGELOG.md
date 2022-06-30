@@ -14,13 +14,13 @@
 
 ### Updated
 
+- `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.3`
+- `org.jetbrains.kotlinx:kotlinx-coroutines-core -> 1.6.3`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.8.0`
 - `androidx.core:core-ktx -> 1.8.0`
 - `com.facebook:ktfmt -> 0.38`
 - `androidx.appcompat:appcompat -> 1.4.2`
 - `actions/cache -> v3.0.4`
-- `org.jetbrains.kotlinx:kotlinx-coroutines-test -> 1.6.2`
-- `org.jetbrains.kotlinx:kotlinx-coroutines-core -> 1.6.2`
 - `io.ktor:ktor-client-serialization -> 2.0.2`
 - `io.ktor:ktor-client-mock -> 2.0.2`
 - `io.ktor:ktor-client-core -> 2.0.2`
