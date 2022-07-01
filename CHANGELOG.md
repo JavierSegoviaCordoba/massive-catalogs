@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `org.jetbrains.kotlinx:kotlinx-datetime -> 0.4.0`
 - `com.squareup.okio:okio -> 3.2.0`
 - `androidx.activity:activity-ktx -> 1.5.0`
 - `io.ktor:ktor-client-serialization -> 2.0.3`
@@ -40,7 +41,6 @@
 - `com.google.dagger:hilt-android-gradle-plugin -> 2.42`
 - `io.insert-koin:koin-android -> 3.2.0`
 - `com.android.tools.build:gradle -> 7.2.0`
-- `org.jetbrains.kotlinx:kotlinx-datetime -> 0.3.3`
 - `io.kotest:kotest-assertions-core -> 5.3.0`
 - `app.cash.turbine:turbine -> 0.8.0`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.6.21`
