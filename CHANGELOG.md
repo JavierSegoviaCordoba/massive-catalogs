@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `ru.vyarus:gradle-mkdocs-plugin -> 2.4.0`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.10.1`
 - `com.facebook:ktfmt -> 0.39`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.7.0`
@@ -57,7 +58,6 @@
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.20.0`
 - `io.insert-koin:koin-test -> 3.1.6`
 - `io.insert-koin:koin-core -> 3.1.6`
-- `ru.vyarus:gradle-mkdocs-plugin -> 2.3.0`
 - `gradle -> 7.4.2`
 - `peter-evans/create-pull-request -> v4`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.1.1`
