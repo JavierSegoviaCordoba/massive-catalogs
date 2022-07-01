@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `com.squareup.okhttp3:okhttp -> 4.10.0`
+- `com.squareup.okhttp3:mockwebserver -> 4.10.0`
 - `com.gradle.publish:plugin-publish-plugin -> 1.0.0`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.7.0`
 - `org.jetbrains.dokka:dokka-core -> 1.7.0`
@@ -75,7 +77,6 @@
 - `com.javiersc.mokoki:mokoki-core -> 0.1.0-alpha.9`
 - `cc.popkorn:popkorn -> 2.2.0`
 - `com.squareup.moshi:moshi -> 1.13.0`
-- `com.squareup.okhttp3:okhttp -> 4.9.3`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
 - `androidx.browser:browser -> 1.4.0`
 - `org.jetbrains.intellij.plugins:gradle-changelog-plugin -> 1.3.1`
