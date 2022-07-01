@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.gradle.publish:plugin-publish-plugin -> 1.0.0`
 - `org.jetbrains.dokka:dokka-gradle-plugin -> 1.7.0`
 - `org.jetbrains.dokka:dokka-core -> 1.7.0`
 - `org.jetbrains.kotlinx:kotlinx-datetime -> 0.4.0`
@@ -56,7 +57,6 @@
 - `io.insert-koin:koin-core -> 3.1.6`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.3.0`
 - `gradle -> 7.4.2`
-- `com.gradle.publish:plugin-publish-plugin -> 0.21.0`
 - `peter-evans/create-pull-request -> v4`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.1.1`
 - `actions/upload-artifact -> v3`
