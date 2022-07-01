@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.facebook:ktfmt -> 0.39`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.7.0`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.7.0`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.7.0-1.0.6`
@@ -34,7 +35,6 @@
 - `org.jetbrains.kotlinx:kotlinx-coroutines-core -> 1.6.3`
 - `com.diffplug.spotless:spotless-plugin-gradle -> 6.8.0`
 - `androidx.core:core-ktx -> 1.8.0`
-- `com.facebook:ktfmt -> 0.38`
 - `androidx.appcompat:appcompat -> 1.4.2`
 - `actions/cache -> v3.0.4`
 - `crazy-max/ghaction-import-gpg -> v5`
