@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.squareup.okio:okio -> 3.2.0`
 - `androidx.activity:activity-ktx -> 1.5.0`
 - `io.ktor:ktor-client-serialization -> 2.0.3`
 - `io.ktor:ktor-client-mock -> 2.0.3`
@@ -48,7 +49,6 @@
 - `io.arrow-kt:arrow-core -> 1.1.2`
 - `com.google.devtools.ksp:symbol-processing-api -> 1.6.21-1.0.5`
 - `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.21-1.0.5`
-- `com.squareup.okio:okio -> 3.1.0`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.21`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.21`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.20.0`
