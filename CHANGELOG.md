@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `androidx.activity:activity-ktx -> 1.5.0`
 - `io.ktor:ktor-client-serialization -> 2.0.3`
 - `io.ktor:ktor-client-mock -> 2.0.3`
 - `io.ktor:ktor-client-core -> 2.0.3`
@@ -77,7 +78,6 @@
 - `com.squareup.okhttp3:okhttp -> 4.9.3`
 - `com.javiersc.semantic-versioning:semantic-versioning-core -> 0.1.0-beta.6`
 - `androidx.browser:browser -> 1.4.0`
-- `androidx.activity:activity-ktx -> 1.4.0`
 - `org.jetbrains.intellij.plugins:gradle-changelog-plugin -> 1.3.1`
 
 ## [0.1.0-alpha.43] - 2021-07-30
