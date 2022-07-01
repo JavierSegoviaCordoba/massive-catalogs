@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `com.google.devtools.ksp:symbol-processing-api -> 1.7.0-1.0.6`
+- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.7.0-1.0.6`
 - `com.squareup.okhttp3:okhttp -> 4.10.0`
 - `com.squareup.okhttp3:mockwebserver -> 4.10.0`
 - `com.gradle.publish:plugin-publish-plugin -> 1.0.0`
@@ -50,8 +52,6 @@
 - `app.cash.turbine:turbine -> 0.8.0`
 - `io.arrow-kt:arrow-optics -> 1.1.2`
 - `io.arrow-kt:arrow-core -> 1.1.2`
-- `com.google.devtools.ksp:symbol-processing-api -> 1.6.21-1.0.5`
-- `com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin -> 1.6.21-1.0.5`
 - `org.jetbrains.kotlin:kotlin-serialization -> 1.6.21`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.21`
 - `io.gitlab.arturbosch.detekt:detekt-gradle-plugin -> 1.20.0`
