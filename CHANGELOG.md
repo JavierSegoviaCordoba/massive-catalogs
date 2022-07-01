@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `io.kotest:kotest-assertions-core -> 5.3.2`
 - `com.android.tools.build:gradle -> 7.2.1`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.4.0`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.10.1`
@@ -51,7 +52,6 @@
 - `com.google.dagger:hilt-android -> 2.42`
 - `com.google.dagger:hilt-android-gradle-plugin -> 2.42`
 - `io.insert-koin:koin-android -> 3.2.0`
-- `io.kotest:kotest-assertions-core -> 5.3.0`
 - `app.cash.turbine:turbine -> 0.8.0`
 - `io.arrow-kt:arrow-optics -> 1.1.2`
 - `io.arrow-kt:arrow-core -> 1.1.2`
