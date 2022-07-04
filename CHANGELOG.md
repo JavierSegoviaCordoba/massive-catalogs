@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `org.jsoup:jsoup -> 1.15.2`
 - `io.kotest:kotest-assertions-core -> 5.3.2`
 - `com.android.tools.build:gradle -> 7.2.1`
 - `ru.vyarus:gradle-mkdocs-plugin -> 2.4.0`
@@ -42,7 +43,6 @@
 - `androidx.appcompat:appcompat -> 1.4.2`
 - `actions/cache -> v3.0.4`
 - `crazy-max/ghaction-import-gpg -> v5`
-- `org.jsoup:jsoup -> 1.15.1`
 - `org.jetbrains.kotlinx:kotlinx-serialization-json -> 1.3.3`
 - `org.jetbrains.kotlinx:kotlinx-serialization-core -> 1.3.3`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.43`
