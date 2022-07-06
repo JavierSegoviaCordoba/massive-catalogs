@@ -1,3 +1,8 @@
+# ARCHIVED
+
+Due Version Catalogs start to fail or go slow with 15.000+ dependencies, this repo is by design unscalable (indeed now it is only adding Kotlin dependencies and no Java only ones for example).
+
+
 ![Kotlin version](https://img.shields.io/badge/kotlin-1.5.21-blueviolet?logo=kotlin&logoColor=white)
 [![MavenCentral](https://img.shields.io/maven-central/v/com.javiersc.massive-catalogs/libs-catalog?label=MavenCentral)](https://repo1.maven.org/maven2/com/javiersc/massive-catalogs/libs-catalog/)
 [![Snapshot](https://img.shields.io/nexus/s/com.javiersc.massive-catalogs/libs-catalog?server=https%3A%2F%2Foss.sonatype.org%2F&label=Snapshot)](https://oss.sonatype.org/content/repositories/snapshots/com/javiersc/massive-catalogs/libs-catalog/)
